@@ -1,0 +1,1454 @@
+# Translation of Themes - Catch Everest in Japanese
+# This file is distributed under the same license as the Themes - Catch Everest package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-16 11:31:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Catch Everest\n"
+
+#. Theme Name of the plugin/theme
+msgid "Catch Everest"
+msgstr "Catch Everest"
+
+#: inc/panel/customizer/customizer-custom-controls.php:34
+msgid "All Categories"
+msgstr "すべてのカテゴリー"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:39
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; への%1$s件の返信"
+
+#. translators: %s: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; への1件の返信"
+
+#: content.php:14
+msgid "Featured"
+msgstr "おすすめ"
+
+#: inc/panel/customizer/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "今すぐアップグレード"
+
+#: inc/panel/customizer/upgrade-button/class-customize.php:76
+msgid "Catch Everest Pro"
+msgstr "Catch Everest プロ"
+
+#: inc/panel/customizer/customizer.php:1265
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr "保存した後にカスタマイザーページをリフレッシュして、リセットエフェクトを表示する"
+
+#: inc/panel/theme-options.php:160
+msgid "Custom Header. Need to Add or Remove Header Image?"
+msgstr "カスタムヘッダー。ヘッダー画像を追加または削除する必要がありますか ?"
+
+#: inc/panel/theme-options.php:158
+msgid "Header Image"
+msgstr "ヘッダー画像"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:30
+msgid "You can edit or disable it through Theme Options"
+msgstr "テーマのオプションで編集または無効にすることができます"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:27
+msgid "Search &hellip;"
+msgstr "検索 &hellip;"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:25
+msgid "Continue Reading &rarr;"
+msgstr "続きを読む &rarr;"
+
+#: inc/panel/customizer/customizer.php:236
+msgid "Check to Open Link in New Window"
+msgstr "新しいウィンドウでリンクを開く"
+
+#: inc/panel/customizer/customizer.php:227
+msgid "Featured Header Image Link URL"
+msgstr "ヘッダーアイキャッチ画像リンク URL"
+
+#: inc/panel/customizer/customizer.php:218
+msgid "Featured Header Image Alt/Title Tag"
+msgstr "ヘッダーアイキャッチ画像 alt/title タグ "
+
+#: inc/panel/customizer/customizer.php:213
+msgid "Homepage"
+msgstr "ホームページ"
+
+#: inc/panel/customizer/customizer.php:204
+msgid "Enable Featured Header Image"
+msgstr "ヘッダーアイキャッチ画像を有効化"
+
+#: inc/panel/theme-options.php:423
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: inc/panel/theme-options.php:417
+msgid "Disable Scroll Up?"
+msgstr "上スクロールを無効化しますか ?"
+
+#: inc/panel/customizer/customizer.php:367
+msgid "Check to Disable Scroll Up"
+msgstr "クリックして上スクロールを無効化"
+
+#: inc/panel/customizer/customizer.php:93 inc/panel/theme-options.php:412
+msgid "Scroll Up"
+msgstr "上にスクロール"
+
+#: inc/panel/customizer/customizer.php:554
+msgid "Check to Exclude Slider posts from Homepage posts"
+msgstr "チェックボックスをオンにすると、ホームページの投稿からスライダー投稿が除外されます"
+
+#: inc/panel/customizer/customizer.php:443
+msgid "Check to Disable Homepage Featured Content"
+msgstr "ホームページおすすめコンテンツを無効にする"
+
+#: inc/panel/customizer/customizer.php:453
+msgid "Featured Content Headline Text"
+msgstr "おすすめコンテンツ見出しテキスト"
+
+#: inc/panel/customizer/customizer.php:464
+msgid "Customizer page needs to be refreshed after saving if number of featured content is changed"
+msgstr "注目コンテンツの数が変更された場合、保存した後にカスタマイザーページを更新する必要があります"
+
+#: inc/panel/customizer/customizer.php:493
+msgid "Customizer page needs to be refreshed after saving if number of slides is changed"
+msgstr "スライド数が変更された場合、保存後にカスタマイザーページを更新する必要があります"
+
+#: inc/panel/customizer/customizer.php:509
+msgid "Transition Effect"
+msgstr "遷移効果"
+
+#: inc/panel/customizer/customizer.php:859
+msgid "Here you can put scripts from Google, Facebook, Twitter, Add This etc. which will load on Header"
+msgstr "ヘッダーに Google、Facebook、Twitter、Add This などのスクリプトを読み込むことができます"
+
+#: inc/panel/customizer/customizer.php:870
+msgid "Here you can put scripts from Google, Facebook, Twitter, Add This etc. which will load on footer"
+msgstr "フッターに Google、Facebook、Twitter、Add This などのスクリプトを読み込むことができます"
+
+#: inc/panel/customizer/customizer.php:1180
+msgid "Featured Post Slider #%s"
+msgstr "おすすめ投稿スライダー #%s"
+
+#: inc/panel/customizer/customizer.php:1194
+msgid "Caution: Reset all settings to default. Refresh the page after save to view full effects."
+msgstr "警告: すべての設定をデフォルトにリセットします。全効果を表示するには保存後ページを再読み込みしてください。"
+
+#: inc/panel/customizer/customizer.php:1196
+msgid "Reset all settings"
+msgstr "すべての設定をリセット"
+
+#: inc/panel/customizer/customizer.php:1217
+#: inc/panel/customizer/customizer.php:1228
+msgid "Important Links"
+msgstr "重要なリンク"
+
+#: inc/panel/customizer/customizer.php:1207
+msgid "Check to reset all settings to default"
+msgstr "チェックしてすべての設定をリセット"
+
+#: inc/panel/customizer/customizer-custom-controls.php:69
+msgid "Changelog"
+msgstr "変更履歴"
+
+#: inc/panel/customizer/customizer.php:34
+msgid "Basic theme Options"
+msgstr "基本テーマ設定"
+
+#: inc/panel/customizer/customizer-custom-controls.php:77
+msgid "Review"
+msgstr "レビュー"
+
+#: inc/panel/customizer/customizer.php:68
+msgid "Header Options"
+msgstr "ヘッダー設定"
+
+#: inc/panel/customizer/customizer.php:73
+msgid "Content Featured Image Options"
+msgstr "コンテンツアイキャッチ画像設定"
+
+#: inc/panel/customizer/customizer.php:78
+msgid "Promotion Headline Options"
+msgstr "プロモーション見出し設定"
+
+#: inc/panel/customizer/customizer.php:83
+msgid "Homepage/Frontpage Settings"
+msgstr "ホームページ / フロントページ設定"
+
+#: inc/panel/customizer/customizer.php:111
+msgid "Homepage Featured Content options"
+msgstr "ホームページおすすめコンテンツ設定"
+
+#: inc/panel/customizer/customizer.php:143
+msgid "Add your social links here"
+msgstr "ソーシャルリンクを追加"
+
+#: inc/panel/customizer/customizer.php:147
+msgid "Predefined Social Icons"
+msgstr "定義済みソーシャルアイコン"
+
+#: inc/panel/customizer/customizer.php:246
+msgid "Check to Disable Responsive Design"
+msgstr "レスポンシブデザインを無効にする"
+
+#: inc/panel/customizer/customizer.php:256
+msgid "Check to Disable Header Right Section"
+msgstr "ヘッダー右セクションを無効にする"
+
+#: inc/panel/customizer/customizer.php:308
+msgid " Add in the Feedburner URL"
+msgstr "Feedburner URL に追加する"
+
+#: inc/panel/customizer/customizer.php:342
+msgid "Check to Reset Layout"
+msgstr "チェックしてレイアウトをリセット"
+
+#: inc/panel/customizer/customizer.php:343
+#: inc/panel/customizer/customizer.php:555
+msgid "Please refresh the customizer after saving if reset option is used"
+msgstr "リセットオプションが使用されている場合、保存した後にカスタマイザーをリフレッシュしてください"
+
+#: inc/panel/customizer/customizer.php:355
+msgid "Enter your custom CSS styles"
+msgstr "カスタム CSS スタイルを入力してください"
+
+#: inc/panel/customizer/customizer.php:379
+msgid "Homepage Headline Text"
+msgstr "ホームページのヘッドラインテキスト"
+
+#: inc/panel/customizer/customizer.php:380
+#: inc/panel/customizer/customizer.php:1159
+msgid "Appropriate Words: 10"
+msgstr "適切な文字数: 10"
+
+#: inc/panel/customizer/customizer.php:390
+msgid "Appropriate Words: 15"
+msgstr "適切な文字数: 15"
+
+#: inc/panel/customizer/customizer.php:389
+msgid "Homepage Subheadline Text"
+msgstr "ホームページサブ見出しリンク"
+
+#: inc/panel/customizer/customizer.php:409
+msgid "Check to Disable Homepage Subheadline"
+msgstr "チェックしてホームページ小見出しを無効化"
+
+#: inc/panel/customizer/customizer.php:399
+msgid "Check to Disable Homepage Headline"
+msgstr "チェックしてホームページ見出しを無効化"
+
+#: inc/panel/customizer/customizer.php:421
+msgid "Check to Enable Latest Posts"
+msgstr "最新記事を有効にする"
+
+#: inc/panel/customizer/customizer.php:432
+msgid "Only posts that belong to the categories selected here will be displayed on the front page"
+msgstr "ここで選択したカテゴリーに投稿された記事のみがフロントページに表示されます"
+
+#: inc/panel/customizer/customizer-custom-controls.php:48
+msgid "Hold down the Ctrl (windows) / Command (Mac) button to select multiple options."
+msgstr "複数のオプションを選択するには Ctrl (Windows) / Command (Mac) キーを押しながら選択してください。"
+
+#: inc/panel/customizer/customizer-custom-controls.php:61
+msgid "Theme Instructions"
+msgstr "テーマの説明"
+
+#: inc/widgets.php:155
+msgid "CT: Advertisement"
+msgstr "CT: 広告"
+
+#: inc/widgets.php:76
+msgid "CT: Social Icons"
+msgstr "CT: ソーシャルアイコン"
+
+#. Template Name of the plugin/theme
+msgid "Blog"
+msgstr "ブログ"
+
+#: searchform.php:16 searchform.php:18
+msgid "Search"
+msgstr "検索開始"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: inc/widgets.php:259
+msgid "Add Advertisement Code or Image URL"
+msgstr "Add Advertisement Code or Image URL"
+
+#: inc/widgets.php:196
+msgid "Alt text:"
+msgstr "Alt テキスト: "
+
+#: inc/widgets.php:193
+msgid "Open Link in New Window"
+msgstr "リンクを新しいウィンドウで開く"
+
+#: inc/widgets.php:189
+msgid "Link URL:"
+msgstr "リンク URL: "
+
+#: inc/widgets.php:185
+msgid "Image Url:"
+msgstr "画像 URL: "
+
+#: inc/widgets.php:179
+msgid "Advertisement Code:"
+msgstr "Advertisement Code:"
+
+#: inc/widgets.php:156
+msgid "Use this widget to add any type of Advertisement as a widget."
+msgstr "このウィジェットを使用して、任意のタイプの広告をウィジェットとして追加します。"
+
+#: inc/widgets.php:90 inc/widgets.php:174
+msgid "Title (optional):"
+msgstr "タイトル (オプション): "
+
+#: inc/widgets.php:77
+msgid "Use this widget to add Social Icons from Social Icons Settings as a widget."
+msgstr "「ソーシャルアイコンの設定」からソーシャルアイコンをウィジェットとして追加するには、このウィジェットを使用します。"
+
+#: inc/widgets.php:47
+msgid "Footer Area Three"
+msgstr "フッターエリア3"
+
+#: inc/widgets.php:36
+msgid "Footer Area Two"
+msgstr "フッターエリア2"
+
+#: inc/widgets.php:27 inc/widgets.php:38 inc/widgets.php:49
+msgid "An optional widget area for your site footer"
+msgstr "フッター用のウィジェットエリア"
+
+#: inc/widgets.php:25
+msgid "Footer Area One"
+msgstr "フッターエリア1"
+
+#: inc/widgets.php:16
+msgid "Shows the Widgets at the side of Content"
+msgstr "コンテンツの横にウィジェットを表示する"
+
+#: inc/widgets.php:14
+msgid "Main Sidebar"
+msgstr "メインサイドバー"
+
+#: inc/template-tags.php:310
+msgid "<span class=\"on-date\">Posted on %3$s</span><span class=\"sep\"> | </span><span class=\"by-author\"> By %4$s</span>."
+msgstr "<span class=\"on-date\">投稿日: %3$s</span><span class=\"sep\"> | </span><span class=\"by-author\">投稿者: %4$s</span>"
+
+#: inc/template-tags.php:308
+msgid "<span class=\"on-date\">Posted on %3$s</span><span class=\"in-category\"> under in %1$s<span><span class=\"sep\"> | </span><span class=\"by-author\"> By %4$s</span>."
+msgstr "<span class=\"on-date\">Posted on %3$s</span><span class=\"in-category\"> under in %1$s<span><span class=\"sep\"> | </span><span class=\"by-author\"> By %4$s</span>."
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+#: inc/template-tags.php:306
+msgid "<span class=\"on-date\">Posted on %3$s</span><span class=\"in-category\"> under %1$s</span><span class=\"sep\"> | </span><span class=\"in-tag\">Tagged %2$s</span><span class=\"sep\"> | </span><span class=\"by-author\"> By %4$s</span>"
+msgstr "<span class=\"on-date\">投稿日: %3$s</span><span class=\"in-category\">カテゴリー: %1$s</span><span class=\"sep\"> | </span><span class=\"in-tag\">タグ: %2$s</span><span class=\"sep\"> | </span><span class=\"by-author\">投稿者: %4$s</span>"
+
+#: inc/template-tags.php:264
+msgid "<span class=\"in-category\">Posted in %1$s</span>"
+msgstr "<span class=\"in-category\">カテゴリー: %1$s</span>"
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+#: inc/template-tags.php:262
+msgid "<span class=\"in-category\">Posted in %1$s</span><span class=\"sep\"> | </span><span class=\"in-tag\">Tagged %2$s</span>"
+msgstr "<span class=\"in-category\">投稿日: %1$s</span><span class=\"sep\"> | </span><span class=\"in-tag\">タグ: %2$s</span>"
+
+#. Translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:254 inc/template-tags.php:257
+#: inc/template-tags.php:286 inc/template-tags.php:289
+msgid ", "
+msgstr "、"
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+#: inc/template-tags.php:232
+msgid "<span class=\"on-date\">Posted on %1$s</span><span class=\"by-author\"> by %2$s</span>"
+msgstr "<span class=\"on-date\">投稿日: %1$s</span> <span class=\"by-author\">投稿者: %2$s</span>"
+
+#: inc/template-tags.php:227 inc/template-tags.php:300
+msgid "View all posts by %s"
+msgstr "%s のすべての投稿を表示"
+
+#: inc/template-tags.php:198
+msgid "Reply"
+msgstr "返信"
+
+#: inc/template-tags.php:189
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:183
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/template-tags.php:177
+msgid "Post author"
+msgstr "投稿作成者"
+
+#: inc/template-tags.php:162
+msgid "(Edit)"
+msgstr "(編集)"
+
+#: inc/template-tags.php:162
+msgid "Pingback:"
+msgstr "ピンバック: "
+
+#: inc/template-tags.php:71 inc/template-tags.php:132
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい記事 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:67 inc/template-tags.php:128
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 以前の記事"
+
+#: inc/template-tags.php:55 inc/template-tags.php:116
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:54 inc/template-tags.php:115
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:50 inc/template-tags.php:111
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/panel/theme-options.php:1310
+msgid "All Rights Reserved"
+msgstr "All Rights Reserved"
+
+#: inc/panel/theme-options.php:1310
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/panel/theme-options.php:1290
+msgid "Catch Everest Theme by "
+msgstr "Catch Everest Theme by "
+
+#: inc/panel/theme-options.php:1259
+msgid "Y"
+msgstr "Y"
+
+#: inc/panel/theme-options.php:864
+msgid "Note: Here you can put scripts from Google, Facebook, Twitter, Add This etc. which will load on footer"
+msgstr "注意：Goolge、Facebook、Add Thisなどから入手したスクリプトをここに入力する と、フッターの位置にロードされます"
+
+#: inc/panel/customizer/customizer.php:869 inc/panel/theme-options.php:857
+msgid "Code to display on Footer"
+msgstr "フッターに表示されるコード"
+
+#: inc/panel/theme-options.php:854
+msgid "Note: Note: Here you can put scripts from Google, Facebook, Twitter, Add This etc. which will load on Header"
+msgstr "注意: ヘッダーにロードさせる、GoogleやFacebookなどのスクリプトをここに入力し ます。"
+
+#: inc/panel/customizer/customizer.php:858 inc/panel/theme-options.php:848
+msgid "Code to display on Header"
+msgstr "ヘッダーに表示されるコード"
+
+#: inc/panel/theme-options.php:843
+msgid "Header and Footer Codes"
+msgstr "ヘッダー・フッターのコード"
+
+#: inc/panel/customizer/customizer.php:816 inc/panel/theme-options.php:813
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: inc/panel/customizer/customizer.php:796 inc/panel/theme-options.php:803
+msgid "Goodreads"
+msgstr "GoodReads"
+
+#: inc/panel/customizer/customizer.php:646 inc/panel/theme-options.php:728
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: inc/panel/customizer/customizer.php:636 inc/panel/theme-options.php:723
+msgid "Slideshare"
+msgstr "SlideShare"
+
+#: inc/panel/theme-options.php:718
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/panel/customizer/customizer.php:606 inc/panel/theme-options.php:707
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/panel/theme-options.php:674
+msgid "Note: Here You can put your Post IDs which displays on Homepage as slider."
+msgstr "注: ここにホームページでスライダーとして表示する投稿の記事 ID を入力できます。"
+
+#: inc/panel/theme-options.php:668
+msgid "Click Here To Edit"
+msgstr "クリックして編集"
+
+#: inc/panel/theme-options.php:666
+msgid "Featured Slider Post #"
+msgstr "アイキャッチ投稿の記事番号"
+
+#: inc/panel/theme-options.php:661
+msgid "Check to exclude"
+msgstr "ここをクリックして除外する"
+
+#: inc/panel/theme-options.php:659
+msgid "Exclude Slider post from Homepage posts?"
+msgstr "ホームページの投稿からスライダーを除外する?"
+
+#: inc/panel/theme-options.php:655
+msgid "Featured Post Slider Options"
+msgstr "アイキャッチ投稿スライダー設定"
+
+#: inc/panel/customizer/customizer.php:536 inc/panel/theme-options.php:641
+msgid "Transition Length"
+msgstr "遷移の長さ"
+
+#: inc/panel/theme-options.php:637 inc/panel/theme-options.php:644
+msgid "second(s)"
+msgstr "秒"
+
+#: inc/panel/customizer/customizer.php:520 inc/panel/theme-options.php:634
+msgid "Transition Delay"
+msgstr "遷移遅延"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:159
+#: inc/panel/theme-options.php:629
+msgid "shuffle"
+msgstr "シャッフル"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:158
+#: inc/panel/theme-options.php:628
+msgid "cover"
+msgstr "カバー"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:157
+#: inc/panel/theme-options.php:627
+msgid "blindZ"
+msgstr "ブラインド Z"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:156
+#: inc/panel/theme-options.php:626
+msgid "blindY"
+msgstr "ブラインド Y"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:155
+#: inc/panel/theme-options.php:625
+msgid "blindX"
+msgstr "ブラインド X"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:154
+#: inc/panel/theme-options.php:624
+msgid "scrollRight"
+msgstr "右にスクロール"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:153
+#: inc/panel/theme-options.php:623
+msgid "scrollLeft"
+msgstr "左にスクロール"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:151
+#: inc/panel/theme-options.php:622
+msgid "scrollDown"
+msgstr "下にスクロール"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:150
+#: inc/panel/catcheverest-theme-options-defaults.php:152
+#: inc/panel/theme-options.php:621
+msgid "scrollUp"
+msgstr "上にスクロール"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:149
+#: inc/panel/theme-options.php:620
+msgid "wipe"
+msgstr "ワイプ"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:148
+#: inc/panel/theme-options.php:619
+msgid "fade"
+msgstr "フェード"
+
+#: inc/panel/theme-options.php:615
+msgid "Transition Effect:"
+msgstr "遷移効果:"
+
+#: inc/panel/customizer/customizer.php:492 inc/panel/theme-options.php:610
+msgid "Number of Slides"
+msgstr "スライド数"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:134
+#: inc/panel/theme-options.php:605
+msgid "Disable"
+msgstr "無効化"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:133
+#: inc/panel/customizer/customizer.php:212 inc/panel/theme-options.php:601
+msgid "Entire Site"
+msgstr "サイト全体"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:132
+#: inc/panel/theme-options.php:597
+msgid "Homepage / Frontpage"
+msgstr "ホームページ / フロントページ"
+
+#: inc/panel/customizer/customizer.php:481 inc/panel/theme-options.php:593
+msgid "Enable Slider"
+msgstr "スライダーを有効化"
+
+#: inc/panel/customizer/customizer.php:134 inc/panel/theme-options.php:589
+msgid "Slider Options"
+msgstr "スライドショー設定"
+
+#: inc/panel/theme-options.php:576
+msgid "You may select multiple categories by holding down the CTRL key."
+msgstr "CTRL キーを押すと複数のカテゴリーを選択できます。"
+
+#: inc/panel/theme-options.php:565
+msgid "--Disabled--"
+msgstr "--無効にする--"
+
+#: inc/panel/theme-options.php:560
+msgid "Only posts that belong to the categories selected here will be displayed on the front page."
+msgstr "ここで選択したカテゴリーに含まれる投稿のみがフロントページに表示されます。"
+
+#: inc/panel/customizer/customizer.php:431 inc/panel/theme-options.php:558
+msgid "Homepage posts categories:"
+msgstr "ホームページの投稿カテゴリー:"
+
+#: inc/panel/theme-options.php:554
+msgid "Click Here to Set Static Front Page Instead of Latest Posts"
+msgstr "最新記事の代わりに静的フロントページを設定するにはここをクリック"
+
+#: inc/panel/theme-options.php:554
+msgid "Widgets"
+msgstr "ウィジェット"
+
+#: inc/panel/theme-options.php:553
+msgid "Add Page instead of Latest Posts"
+msgstr "最近記事の代わりにページを追加"
+
+#: inc/panel/theme-options.php:550
+msgid "Check to Enable"
+msgstr "チェックすると有効化"
+
+#: inc/panel/theme-options.php:548
+msgid "Enable Latest Posts?"
+msgstr "最新記事を有効にしますか ?"
+
+#: inc/panel/customizer/customizer.php:121 inc/panel/theme-options.php:543
+msgid "Homepage / Frontpage Settings"
+msgstr "ホームページ / フロントページ設定"
+
+#: inc/panel/theme-options.php:529
+msgid "The appropriate length for Content is around 10 words."
+msgstr "コンテンツの適切な長さは約10ワードです。"
+
+#: inc/panel/customizer/customizer.php:1156 inc/panel/theme-options.php:528
+msgid "Content"
+msgstr "コンテンツ"
+
+#: inc/panel/customizer/customizer.php:1138 inc/panel/theme-options.php:524
+msgid "Leave empty if you want to remove title"
+msgstr "見出しを削除したい場合は空のままにしてください"
+
+#: inc/panel/customizer/customizer.php:1135 inc/panel/theme-options.php:521
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/panel/theme-options.php:516
+msgid "Check to open in new window"
+msgstr "新しいウィンドウで開くにはチェック"
+
+#: inc/panel/customizer/customizer.php:1115 inc/panel/theme-options.php:514
+msgid "Target. Open Link in New Window?"
+msgstr "ターゲット。新しいウィンドウでリンクを開きますか ?"
+
+#: inc/panel/theme-options.php:510
+msgid "Add in the Target URL for the content"
+msgstr "コンテンツのターゲット URL を追加"
+
+#: inc/panel/customizer/customizer.php:1095 inc/panel/theme-options.php:509
+msgid "Link URL"
+msgstr "リンク URL"
+
+#: inc/panel/theme-options.php:505
+msgid "Add Image"
+msgstr "画像を追加"
+
+#: inc/panel/theme-options.php:505
+msgid "Change Image"
+msgstr "画像の変更"
+
+#: inc/panel/theme-options.php:505
+msgid "Insert as Featured Content #%s"
+msgstr "おすすめコンテンツ #%s として挿入"
+
+#: inc/panel/customizer/customizer.php:1054 inc/panel/theme-options.php:496
+msgid "Featured Content #%s"
+msgstr "おすすめコンテンツ #%s"
+
+#: inc/panel/customizer/customizer.php:463 inc/panel/theme-options.php:488
+msgid "Number of Featured Content"
+msgstr "おすすめコンテンツの数"
+
+#: inc/panel/customizer/customizer.php:454 inc/panel/theme-options.php:484
+msgid "Leave empty if you want to remove headline"
+msgstr "見出しを削除したい場合はフィールドを空のままにしてください"
+
+#: inc/panel/theme-options.php:481
+msgid "Headline"
+msgstr "見出し"
+
+#: inc/panel/theme-options.php:475
+msgid "Disable Homepage Featured Content?"
+msgstr "Disable Homepage Featured Content?"
+
+#: inc/panel/customizer/customizer.php:116 inc/panel/theme-options.php:470
+msgid "Homepage Featured Content Options"
+msgstr "Homepage Featured Content Options"
+
+#: inc/panel/theme-options.php:459
+msgid "Disable Homepage Subheadline?"
+msgstr "ホームページのサブヘッドラインを無効にしますか ?"
+
+#: inc/panel/theme-options.php:454
+msgid "Disable Homepage Headline?"
+msgstr "ホームページのヘッドラインを無効にしますか ?"
+
+#: inc/panel/theme-options.php:446
+msgid "Homepage Subheadline Headline"
+msgstr "ホームページのサブヘッドライン・ヘッドライン"
+
+#: inc/panel/theme-options.php:439 inc/panel/theme-options.php:447
+msgid "The appropriate length for Headine is around 10 words."
+msgstr "ヘッドラインの適切な長さは約10ワードです。"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:29
+#: inc/panel/theme-options.php:438
+msgid "Homepage Headline"
+msgstr "Homepage Headline"
+
+#: inc/panel/customizer/customizer.php:106 inc/panel/theme-options.php:433
+msgid "Homepage Headline Options"
+msgstr "ホームページのヘッドライン設定"
+
+#: inc/panel/theme-options.php:399
+msgid "Click Here to Read"
+msgstr "ここをクリックして読む"
+
+#: inc/panel/theme-options.php:399
+msgid "CSS Tutorial"
+msgstr "CSS チュートリアル"
+
+#: inc/panel/theme-options.php:399
+msgid "http://www.w3schools.com/css/default.asp"
+msgstr "http://www.w3schools.com/css/default.asp"
+
+#: inc/panel/theme-options.php:397
+msgid "CSS Tutorial from W3Schools."
+msgstr "W3Schools の CSS チュートリアル。"
+
+#: inc/panel/theme-options.php:390
+msgid "Enter your custom CSS styles."
+msgstr "カスタム CSS スタイルを入力してください。"
+
+#: inc/panel/customizer/customizer.php:88 inc/panel/theme-options.php:385
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: inc/panel/theme-options.php:371
+msgid "Check to reset"
+msgstr "チェックしてリセット"
+
+#: inc/panel/theme-options.php:368
+msgid "Reset Layout?"
+msgstr "レイアウトをリセットしますか ?"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:119
+#: inc/panel/theme-options.php:362
+msgid "Excerpt/Blog Display"
+msgstr "抜粋記事/ブログ表示"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:118
+#: inc/panel/customizer/customizer.php:331 inc/panel/theme-options.php:358
+msgid "Full Content Display"
+msgstr "フルコンテンツ表示"
+
+#: inc/panel/theme-options.php:355
+msgid "Content Layout"
+msgstr "コンテンツのレイアウト"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:104
+#: inc/panel/theme-options.php:350
+msgid "No Sidebar, Full Width"
+msgstr "サイドバーなし、全幅"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:103
+#: inc/panel/theme-options.php:345
+msgid "No Sidebar"
+msgstr "サイドバーなし"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:102
+#: inc/panel/theme-options.php:340
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: inc/panel/catcheverest-theme-options-defaults.php:101
+#: inc/panel/theme-options.php:335
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: inc/panel/customizer/customizer.php:320 inc/panel/theme-options.php:331
+msgid "Sidebar Layout Options"
+msgstr "スライダーレイアウト設定"
+
+#: inc/panel/customizer/customizer.php:63 inc/panel/theme-options.php:326
+msgid "Layout Options"
+msgstr "レイアウト設定"
+
+#: inc/panel/theme-options.php:316
+msgid "Add in the Feedburner URL"
+msgstr "Feedburner URL を追加"
+
+#: inc/panel/customizer/customizer.php:307 inc/panel/theme-options.php:315
+msgid "Feed Redirect URL"
+msgstr "フィードリダイレクト URL"
+
+#: inc/panel/customizer/customizer.php:58 inc/panel/theme-options.php:310
+msgid "Feed Redirect"
+msgstr "フィードのリダイレクト"
+
+#: inc/panel/customizer/customizer.php:290 inc/panel/theme-options.php:300
+msgid "Excerpt length(words)"
+msgstr "抜粋の長さ (文字数)"
+
+#: inc/panel/customizer/customizer.php:280 inc/panel/theme-options.php:295
+msgid "More Tag Text"
+msgstr "「続きを読む」タグのテキスト"
+
+#: inc/panel/customizer/customizer.php:53 inc/panel/theme-options.php:290
+msgid "Excerpt / More Tag Settings"
+msgstr "抜粋 /「続きを読む」タグの設定"
+
+#: inc/panel/customizer/customizer.php:268 inc/panel/theme-options.php:279
+msgid "Default Display Text in Search"
+msgstr "検索フィールドのデフォルトテキスト"
+
+#: inc/panel/customizer/customizer.php:48 inc/panel/theme-options.php:274
+msgid "Search Text Settings"
+msgstr "検索テキスト設定"
+
+#: inc/panel/theme-options.php:269
+msgid "Custom Background. Need to replace or remove background?"
+msgstr "Custom Background. Need to replace or remove background?"
+
+#: inc/panel/theme-options.php:267
+msgid "Background"
+msgstr "背景"
+
+#: inc/panel/theme-options.php:256
+msgid "Disable Header Right Section?"
+msgstr "ヘッダー右セクションを無効化しますか ?"
+
+#: inc/panel/customizer/customizer.php:43 inc/panel/theme-options.php:251
+msgid "Header Right Section"
+msgstr "Header Right Section"
+
+#: inc/panel/theme-options.php:242
+msgid "Note: Web Clip Icon for Apple devices. Recommended Size - Width 144px and Height 144px height, which will support High Resolution Devices like iPad Retina."
+msgstr "注: Apple 端末用の Web クリップアイコン。推奨サイズは幅144px、高さ144pxです。このサイズであれば、iPad Retina のような高解像度端末にも対応できます。"
+
+#: inc/panel/theme-options.php:224
+msgid "Change Web Clip Icon"
+msgstr "ウェブクリップアイコンを変更する"
+
+#: inc/panel/theme-options.php:224
+msgid "Insert as Web Clip Icon"
+msgstr "Web クリップアイコンとして挿入"
+
+#: inc/panel/theme-options.php:218
+msgid "Web Clip Icon URL:"
+msgstr "Web クリップアイコンの URL:"
+
+#: inc/panel/theme-options.php:213
+msgid "Disable Web Clip Icon?"
+msgstr "Web クリップアイコンを無効化しますか ?"
+
+#: inc/panel/theme-options.php:208
+msgid "Web Clip Icon Options"
+msgstr "Web クリップアイコン設定"
+
+#: inc/panel/theme-options.php:190 inc/panel/theme-options.php:229
+msgid "Preview: "
+msgstr "プレビュー:␣"
+
+#: inc/panel/theme-options.php:185
+msgid "Change Fav Icon"
+msgstr "ファビコンを変更する"
+
+#: inc/panel/theme-options.php:185
+msgid "Insert as Fav Icon"
+msgstr "Favicon として挿入"
+
+#: inc/panel/theme-options.php:179
+msgid "Fav Icon URL:"
+msgstr "Favicon の URL:"
+
+#: inc/panel/theme-options.php:174
+msgid "Disable Favicon?"
+msgstr "Favicon を無効化しますか ?"
+
+#: inc/panel/theme-options.php:169
+msgid "Favicon"
+msgstr "Favicon"
+
+#: inc/panel/theme-options.php:153 inc/panel/theme-options.php:160
+#: inc/panel/theme-options.php:269
+msgid "<a class=\"button\" href=\"%s\">Click here</a>"
+msgstr "<a class=\"button\" href=\"%s\">Click here</a>"
+
+#: inc/panel/theme-options.php:153
+msgid "Custom Logo. Need to Add or Remove Logo?"
+msgstr "カスタムロゴ。ロゴを追加または削除する必要がありますか ?"
+
+#: inc/panel/theme-options.php:151
+msgid "Upload Logo"
+msgstr "ロゴをアップロード"
+
+#: inc/panel/theme-options.php:146 inc/panel/theme-options.php:203
+#: inc/panel/theme-options.php:243 inc/panel/theme-options.php:262
+#: inc/panel/theme-options.php:285 inc/panel/theme-options.php:305
+#: inc/panel/theme-options.php:321 inc/panel/theme-options.php:376
+#: inc/panel/theme-options.php:404 inc/panel/theme-options.php:465
+#: inc/panel/theme-options.php:538 inc/panel/theme-options.php:581
+#: inc/panel/theme-options.php:649 inc/panel/theme-options.php:675
+#: inc/panel/theme-options.php:834 inc/panel/theme-options.php:869
+msgid "Save"
+msgstr "保存"
+
+#: inc/panel/theme-options.php:142 inc/panel/theme-options.php:176
+#: inc/panel/theme-options.php:215 inc/panel/theme-options.php:258
+#: inc/panel/theme-options.php:419 inc/panel/theme-options.php:456
+#: inc/panel/theme-options.php:461 inc/panel/theme-options.php:477
+msgid "Check to disable"
+msgstr "チェックして無効化"
+
+#: inc/panel/theme-options.php:140
+msgid "Disable Responsive Design?"
+msgstr "レスポンシブデザインを無効にしますか ?"
+
+#: inc/panel/customizer/customizer.php:38 inc/panel/theme-options.php:135
+msgid "Responsive Design"
+msgstr "レスポンシブデザイン"
+
+#: inc/panel/customizer/customizer.php:154
+#: inc/panel/customizer/customizer.php:159 inc/panel/theme-options.php:127
+msgid "Webmaster Tools"
+msgstr "ウェブ管理者用ツール"
+
+#: inc/panel/customizer/customizer.php:142 inc/panel/theme-options.php:126
+msgid "Social Links"
+msgstr "ソーシャルリンク"
+
+#: inc/panel/customizer/customizer.php:129
+#: inc/panel/customizer/customizer.php:130 inc/panel/theme-options.php:125
+msgid "Featured Post Slider"
+msgstr "スライドショー"
+
+#: inc/panel/customizer/customizer.php:101
+#: inc/panel/customizer/customizer.php:102 inc/panel/theme-options.php:124
+msgid "Homepage Settings"
+msgstr "ホームページ設定"
+
+#: inc/panel/theme-options.php:108
+msgid "5 Star Rating"
+msgstr "5つ星で評価"
+
+#: inc/panel/theme-options.php:108
+msgid "Rate us 5 Star on WordPress"
+msgstr "WordPress サイトで5つ星評価をお願いします"
+
+#: inc/panel/theme-options.php:108
+msgid "http://wordpress.org/support/view/theme-reviews/catch-everest"
+msgstr "http://wordpress.org/support/view/theme-reviews/catch-everest"
+
+#: inc/panel/theme-options.php:107
+msgid "Follow Catch Themes on Twitter"
+msgstr "Twitter で CatchThemes をフォロー"
+
+#: inc/panel/theme-options.php:107
+msgid "https://twitter.com/catchthemes/"
+msgstr "https://twitter.com/catchthemes/"
+
+#: inc/panel/theme-options.php:106
+msgid "Like Catch Themes on Facebook"
+msgstr "Facebook で Catch Themes に、いいね！ する"
+
+#: inc/panel/theme-options.php:106
+msgid "https://www.facebook.com/catchthemes/"
+msgstr "https://www.facebook.com/catchthemes/"
+
+#: inc/panel/theme-options.php:105
+msgid "Theme Instruction"
+msgstr "テーマ設定方法"
+
+#: inc/panel/theme-options.php:105
+msgid "https://catchthemes.com/theme-instructions/catch-everest/"
+msgstr "https://catchthemes.com/theme-instructions/catch-everest/"
+
+#: inc/panel/customizer/customizer-custom-controls.php:65
+#: inc/panel/theme-options.php:104
+msgid "Support"
+msgstr "サポート"
+
+#: inc/panel/theme-options.php:104
+msgid "https://catchthemes.com/support/"
+msgstr "https://catchthemes.com/support/"
+
+#: inc/panel/customizer/customizer-custom-controls.php:73
+#: inc/panel/theme-options.php:103
+msgid "Donate Now"
+msgstr "今すぐ寄付"
+
+#: inc/panel/theme-options.php:103
+msgid "Donate to Catch Everest"
+msgstr "Donate to Catch Everest"
+
+#: inc/panel/theme-options.php:103
+msgid "https://catchthemes.com/donate/"
+msgstr "https://catchthemes.com/donate/"
+
+#: inc/panel/theme-options.php:98
+msgid "Upgrade to Catch Everest Pro"
+msgstr "Upgrade to Catch Everest Pro"
+
+#: inc/panel/theme-options.php:98
+msgid "https://catchthemes.com/themes/catch-everest-pro/"
+msgstr "https://catchthemes.com/themes/catch-everest-pro/"
+
+#. #-#-#-#-#  catch-everest.pot (Catch Everest 3.0.3)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/panel/theme-options.php:91 inc/panel/theme-options.php:92
+#: inc/panel/theme-options.php:1299
+msgid "Catch Themes"
+msgstr "Catch Themes"
+
+#: inc/panel/theme-options.php:91
+msgid "https://catchthemes.com/"
+msgstr "https://catchthemes.com/"
+
+#: inc/panel/theme-options.php:89
+msgid "Theme Options By"
+msgstr "テーマ設定"
+
+#: inc/panel/theme-options.php:84
+msgid "Options Saved"
+msgstr "設定を保存しました"
+
+#: inc/panel/customizer/customizer.php:33 inc/panel/theme-options.php:43
+#: inc/panel/theme-options.php:44 inc/panel/theme-options.php:123
+msgid "Theme Options"
+msgstr "テーマ設定"
+
+#: inc/catcheverest-metabox.php:57
+msgid "No sidebar, Full Width"
+msgstr "サイドバーなし、全幅"
+
+#: inc/catcheverest-metabox.php:51
+msgid "No sidebar"
+msgstr "サイドバーなし"
+
+#: inc/catcheverest-metabox.php:45
+msgid "Left sidebar"
+msgstr "左サイドバー"
+
+#: inc/catcheverest-metabox.php:39
+msgid "Right sidebar"
+msgstr "右サイドバー"
+
+#: inc/catcheverest-metabox.php:33
+msgid "Theme Settings"
+msgstr "テーマ設定"
+
+#: inc/catcheverest-metabox.php:33
+msgid "Default Layout Set in"
+msgstr "のデフォルトのレイアウトセット"
+
+#: inc/catcheverest-metabox.php:14 inc/catcheverest-metabox.php:20
+msgid "Select Sidebar layout"
+msgstr "Select Sidebar layout"
+
+#: inc/catcheverest-functions.php:1301 inc/catcheverest-functions.php:1315
+msgid "Menu"
+msgstr "メニュー"
+
+#: inc/catcheverest-functions.php:1265
+msgid "ID"
+msgstr "ID"
+
+#: inc/catcheverest-functions.php:1170 inc/panel/customizer/customizer.php:846
+#: inc/panel/theme-options.php:828
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/catcheverest-functions.php:1165 inc/panel/customizer/customizer.php:836
+#: inc/panel/theme-options.php:823
+msgid "Contact"
+msgstr "連絡先"
+
+#: inc/catcheverest-functions.php:1160 inc/panel/customizer/customizer.php:826
+#: inc/panel/theme-options.php:818
+msgid "Email"
+msgstr "メール"
+
+#: inc/catcheverest-functions.php:1155
+msgid "SoundCloud"
+msgstr "Soundcloud"
+
+#: inc/catcheverest-functions.php:1150 inc/panel/customizer/customizer.php:806
+#: inc/panel/theme-options.php:808
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/catcheverest-functions.php:1145
+msgid "GoodReads"
+msgstr "GoodReads"
+
+#: inc/catcheverest-functions.php:1140 inc/panel/customizer/customizer.php:786
+#: inc/panel/theme-options.php:798
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: inc/catcheverest-functions.php:1135 inc/panel/customizer/customizer.php:776
+#: inc/panel/theme-options.php:793
+msgid "My World"
+msgstr "My World"
+
+#: inc/catcheverest-functions.php:1130 inc/panel/customizer/customizer.php:766
+#: inc/panel/theme-options.php:788
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: inc/catcheverest-functions.php:1125 inc/panel/customizer/customizer.php:756
+#: inc/panel/theme-options.php:783
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/catcheverest-functions.php:1120 inc/panel/customizer/customizer.php:746
+#: inc/panel/theme-options.php:778
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/catcheverest-functions.php:1115 inc/panel/customizer/customizer.php:736
+#: inc/panel/theme-options.php:773
+msgid "Last.fm"
+msgstr "Last.fm"
+
+#: inc/catcheverest-functions.php:1110 inc/panel/customizer/customizer.php:726
+#: inc/panel/theme-options.php:768
+msgid "Delicious"
+msgstr "Delicious"
+
+#: inc/catcheverest-functions.php:1105 inc/panel/customizer/customizer.php:716
+#: inc/panel/theme-options.php:763
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/catcheverest-functions.php:1100 inc/panel/customizer/customizer.php:706
+#: inc/panel/theme-options.php:758 inc/panel/theme-options.php:1280
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/catcheverest-functions.php:1095 inc/panel/customizer/customizer.php:696
+#: inc/panel/theme-options.php:753
+msgid "MySpace"
+msgstr "MySpace"
+
+#: inc/catcheverest-functions.php:1090 inc/panel/customizer/customizer.php:686
+#: inc/panel/theme-options.php:748
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/catcheverest-functions.php:1085 inc/panel/customizer/customizer.php:676
+#: inc/panel/theme-options.php:743
+msgid "deviantART"
+msgstr "Deviantart"
+
+#: inc/catcheverest-functions.php:1080 inc/panel/customizer/customizer.php:666
+#: inc/panel/theme-options.php:738
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/catcheverest-functions.php:1075 inc/panel/customizer/customizer.php:656
+#: inc/panel/theme-options.php:733
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/catcheverest-functions.php:1070
+msgid "FourSquare"
+msgstr "FourSquare"
+
+#: inc/catcheverest-functions.php:1065
+msgid "SlideShare"
+msgstr "SlideShare"
+
+#: inc/catcheverest-functions.php:1060 inc/panel/customizer/customizer.php:616
+#: inc/panel/theme-options.php:712
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/catcheverest-functions.php:1055
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/catcheverest-functions.php:1050 inc/panel/customizer/customizer.php:596
+#: inc/panel/theme-options.php:702
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/catcheverest-functions.php:1045 inc/panel/customizer/customizer.php:626
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/catcheverest-functions.php:1040 inc/panel/customizer/customizer.php:586
+#: inc/panel/theme-options.php:697
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/catcheverest-functions.php:1035 inc/panel/customizer/customizer.php:576
+#: inc/panel/theme-options.php:107 inc/panel/theme-options.php:692
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/catcheverest-functions.php:1030 inc/panel/customizer/customizer.php:566
+#: inc/panel/theme-options.php:106 inc/panel/theme-options.php:687
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/catcheverest-functions.php:147
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: image.php:98
+msgid "Both comments and trackbacks are currently closed."
+msgstr "コメント・トラックバックは受け付けていません。"
+
+#: image.php:96
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "現在トラックバックは受け付けていませんが、<a class=\"comment-link\" href=\"#respond\" title=\"コメントを投稿\">コメントを投稿</a>できます。"
+
+#: image.php:94
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "現在コメントは受け付けていませんが、トラックバックを送信できます: <a class=\"trackback-link\" href=\"%s\" title=\"あなたの投稿用のトラックバック URL\" rel=\"trackback\">トラックバック URL</a>"
+
+#: image.php:92
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"コメントを投稿\">コメントを投稿</a>するか、トラックバックを送信できます: <a class=\"trackback-link\" href=\"%s\" title=\"この投稿のトラックバック URL\" rel=\"trackback\">トラックバック URL</a>"
+
+#: image.php:39
+msgid "Next &rarr;"
+msgstr "次へ &rarr;"
+
+#: image.php:38
+msgid "&larr; Previous"
+msgstr "&larr; 前へ"
+
+#: image.php:24
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "投稿日: <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> (<a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a>) ギャラリー: <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+
+#: functions.php:122 inc/catcheverest-functions.php:390
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: content.php:74
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s の投稿をすべて表示 <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:70
+msgid "About %s"
+msgstr "%s について"
+
+#: content.php:60
+msgid "% Replies"
+msgstr "%件の返信"
+
+#: content-video.php:17
+msgid "Video"
+msgstr "動画"
+
+#: content-video.php:17
+msgid "All Video Posts"
+msgstr "すべての動画投稿"
+
+#: content-status.php:20
+msgid "Status"
+msgstr "ステータス"
+
+#: content-status.php:20
+msgid "All Status Posts"
+msgstr "すべての投稿ステータス"
+
+#: content-link.php:16
+msgid "Link"
+msgstr "リンク"
+
+#: content-link.php:16
+msgid "All Link Posts"
+msgstr "すべてのリンク投稿"
+
+#: content-image.php:17 inc/panel/customizer/customizer.php:1075
+#: inc/panel/theme-options.php:501
+msgid "Image"
+msgstr "画像"
+
+#: content-image.php:17
+msgid "All Image Posts"
+msgstr "すべての画像投稿"
+
+#: content-gallery.php:32
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "このギャラリーには<a %1$s>%2$s枚の写真</a>が含まれています。"
+
+#: content-gallery.php:17
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: content-gallery.php:17
+msgid "All Gallery Posts"
+msgstr "すべてのギャラリー投稿"
+
+#: content-chat.php:17
+msgid "Chat"
+msgstr "チャット"
+
+#: content-chat.php:17
+msgid "All Chat Posts"
+msgstr "すべてのチャット投稿"
+
+#: content-audio.php:27 content-gallery.php:38 content-image.php:27
+#: content-page.php:17 content-video.php:27 content.php:51 image.php:86
+msgid "Pages:"
+msgstr "ページ: "
+
+#: content-audio.php:17
+msgid "Audio"
+msgstr "音声"
+
+#: content-audio.php:17
+msgid "All Audio Posts"
+msgstr "すべての音声投稿"
+
+#: content-aside.php:31 content-audio.php:37 content-chat.php:36
+#: content-gallery.php:47 content-image.php:37 content-link.php:29
+#: content-page.php:18 content-quote.php:25 content-status.php:33
+#: content-video.php:37 content.php:63 image.php:34 image.php:100
+#: inc/template-tags.php:194
+msgid "Edit"
+msgstr "編集"
+
+#: content-aside.php:29 content-audio.php:35 content-chat.php:34
+#: content-gallery.php:45 content-image.php:35 content-link.php:27
+#: content-quote.php:23 content-status.php:31 content-video.php:35
+msgid "% Replies;"
+msgstr "%件の返信。"
+
+#: content-aside.php:29 content-audio.php:35 content-chat.php:34
+#: content-gallery.php:45 content-image.php:35 content-link.php:27
+#: content-quote.php:23 content-status.php:31 content-video.php:35
+#: content.php:60
+msgid "1 Reply"
+msgstr "1件の返信"
+
+#: content-aside.php:29 content-audio.php:35 content-chat.php:34
+#: content-gallery.php:45 content-image.php:35 content-link.php:27
+#: content-quote.php:23 content-status.php:31 content-video.php:35
+#: content.php:60
+msgid "Leave a reply"
+msgstr "コメントを残す"
+
+#: content-aside.php:21 content-audio.php:26 content-gallery.php:37
+#: content-image.php:26 content-link.php:20 content-quote.php:16
+#: content-status.php:24 content-video.php:26 content.php:50
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-gallery.php:29 content-gallery.php:33 content.php:19
+msgid "Permalink to %s"
+msgstr "%s へのパーマリンク"
+
+#: comments.php:87
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:57 comments.php:77
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:56 comments.php:76
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:55 comments.php:75
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: sidebar.php:38
+msgid "Archives"
+msgstr "アーカイブ"
+
+#. translators: %1$s: smilie
+#: 404.php:37
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブを探してみてください: %1$s"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "よく使われているカテゴリー"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "このページは見つかりません。"
+
+#. Author URI of the plugin/theme
+msgid "https://catchthemes.com"
+msgstr "https://catchthemes.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://catchthemes.com/themes/catch-everest"
+msgstr "https://catchthemes.com/themes/catch-everest"

@@ -1,0 +1,634 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Edition lite v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-14 12:05+0100\n"
+"PO-Revision-Date: Wed Oct 05 2016 12:47:25 GMT+0200 (CEST)\n"
+"Last-Translator: Michael <info@mhthemes.com>\n"
+"Language-Team: \n"
+"Language: Finnish\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Target-Locale: fi_FI"
+
+#: ../admin/admin.php:36 ../includes/mh-customizer.php:54
+msgid "MH Themes Showcase"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#. Name of the theme
+msgid "MH Edition lite"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://www.mhthemes.com/themes/mh/edition-lite/"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"MH Edition lite is a flexible and visually sophisticated WordPress theme for "
+"technology and news magazines. This magazine theme can transform your "
+"current WordPress website into a powerful and yet lightweight online "
+"magazine or dynamic news website with a nice flat design. Benefit from a "
+"fully responsive layout which is suitable for all modern mobile devices and "
+"browsers. The premium version of MH Edition comes with additional features, "
+"custom widgets and options to customize your website."
+msgstr ""
+
+#. Author of the theme
+msgid "MH Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.mhthemes.com/"
+msgstr ""
+
+# @ mh-edition-lite
+#: ../404.php:7 ../content-none.php:9
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Emme valitettavasti löytäneet etsimääsi. Ehkä hakutoiminnosta on apua."
+
+# @ mh-edition-lite
+#: ../404.php:10 ../content-none.php:12
+msgid "Search"
+msgstr "Etsi"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:7
+msgid "Welcome to MH Edition lite"
+msgstr "Tervetuloa käyttämään MH Edition lite - teemaa"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:7
+msgid "Theme Info"
+msgstr "Teeman tiedot"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:17
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr "Tervetuloa %1s %2s"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:25
+msgid "Important Links:"
+msgstr "Tärkeitä linkkejä:"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:27
+msgid "Theme Info Page"
+msgstr "Teeman tiedot -sivu"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:30
+msgid "Support Center"
+msgstr "Tukikeskus"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:33 ../includes/mh-customizer.php:64
+msgid "Support Forum"
+msgstr "Tukifoorumi"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:39 ../admin/admin.php:101
+msgid "Rate this theme"
+msgstr "Arvostele teema"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:46
+#, php-format
+msgid "Getting Started with %s"
+msgstr "Aloittaminen %s"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:52 ../includes/mh-customizer.php:59
+msgid "Theme Documentation"
+msgstr "Teeman dokumentointi"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:55
+#, php-format
+msgid ""
+"Need any help with configuring %s? The documentation for this theme includes "
+"all theme related information that is needed to get your site up and running "
+"in no time. In case you have any additional questions, feel free to reach "
+"out in the theme support forums on WordPress.org."
+msgstr ""
+"Tarvitsetko apua %s -teeman asentamisessa? Teeman dokumentaatio sisältää "
+"kaiken tarvitsemasi tiedon sivustosi pystyttämiseen vain muutamassa "
+"minuutissa. Jos sinulla kysyttävää, vieraile teeman tukifoorumeilla tai "
+"osoitteessa WordPress.org."
+
+# @ mh-edition-lite
+#: ../admin/admin.php:59
+msgid "Visit Documentation"
+msgstr "Katso dokumentointi"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:65 ../includes/mh-customizer.php:72
+msgid "Theme Options"
+msgstr "Teeman asetukset"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:68
+#, php-format
+msgid ""
+"%s supports the Theme Customizer for all theme settings. Click \"Customize "
+"Theme\" to open the Customizer now."
+msgstr ""
+"%s tukee teeman muokkainta asetusten määrittämiseen. Klikkaa \"Mukauta\" "
+"avataksesi WordPressin muokkaintilan."
+
+# @ mh-edition-lite
+#: ../admin/admin.php:72
+msgid "Customize Theme"
+msgstr "Muokkaa teemaa"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:78 ../includes/mh-customizer.php:13
+msgid "MH Edition Pro"
+msgstr "MH Edition Pro"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:81 ../includes/mh-customizer.php:16
+msgid ""
+"If you like the free version of this theme, you will LOVE the full version "
+"of MH Edition which includes unique custom widgets, additional features and "
+"more useful options to customize your website."
+msgstr ""
+"Jos pidit tästä teemasta, tulet rakastamaan MH Edition premium-versiota, "
+"joka sisältää uniikkeja kustomoitavia vimpaimia, lisäominaisuuksia ja monia "
+"käytännöllisiä asetuksia sivustosi muokkaamiseen."
+
+# @ mh-edition-lite
+#: ../admin/admin.php:85 ../includes/mh-customizer.php:49
+msgid "Upgrade to MH Edition Pro"
+msgstr "Päivitä MH Edition Pro - teemaan"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:97
+#, php-format
+msgid "%1s is proudly brought to you by %2s. If you like %3s: %4s."
+msgstr "%1s sinulle tarjoaa %2s. Jos pidit %3s: %4s."
+
+# @ mh-edition-lite
+#: ../comments.php:11
+#, php-format
+msgid "1 Comment on %2$s"
+msgid_plural "%1$s Comments on %2$s"
+msgstr[0] "1 kommentti artikkelissa %2$s"
+msgstr[1] "%1$s kommenttia artikkelissa %2$s"
+
+# @ mh-edition-lite
+#: ../comments.php:20 ../includes/mh-custom-functions.php:182 ../includes/mh-
+#: custom-functions.php:367
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ mh-edition-lite
+#: ../comments.php:20 ../includes/mh-custom-functions.php:182 ../includes/mh-
+#: custom-functions.php:368
+msgid "&raquo;"
+msgstr "&raquo;"
+
+# @ mh-edition-lite
+#: ../comments.php:27
+#, php-format
+msgid "%s Trackbacks & Pingbacks"
+msgstr "%s paluuviitteet"
+
+# @ mh-edition-lite
+#: ../comments.php:39
+msgid "Comments are closed."
+msgstr "Kommentointi on suljettu."
+
+# @ mh-edition-lite
+#: ../comments.php:44
+msgid "Be the first to comment"
+msgstr "Ei kommentteja, oletko sinä ensimmäinen?"
+
+# @ mh-edition-lite
+#: ../comments.php:49
+msgid "Leave a Reply"
+msgstr "Kommentoi"
+
+# @ mh-edition-lite
+#: ../comments.php:50
+msgid "Your email address will not be published."
+msgstr "Sähköpostiosoitettasi ei julkaista."
+
+# @ mh-edition-lite
+#: ../comments.php:52
+msgid "Comment"
+msgstr "Kommentti"
+
+# @ mh-edition-lite
+#: ../content-author-box.php:11
+#, php-format
+msgid "About %s"
+msgstr "Tietoa %s"
+
+# @ mh-edition-lite
+#: ../content-author-box.php:20
+msgid ""
+"The author has not yet added any personal or biographical info to his author "
+"profile."
+msgstr "Kirjoittaja ei ole lisännyt profiiliin vielä tietoja."
+
+# @ mh-edition-lite
+#: ../content-carousel.php:7 ../content-list.php:8 ../content-loop.php:8 ..
+#: includes/widgets/mh-custom-posts.php:48 ../includes/widgets/mh-slider.php:47 .
+#: ./includes/widgets/mh-slider.php:49
+msgid "No Picture"
+msgstr "Ei kuvaa"
+
+# @ mh-edition-lite
+#: ../content-none.php:5
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr "Hakusanalla ei löytynyt sisältöä. Koita toisella hakusanalla."
+
+# @ mh-edition-lite
+#: ../footer.php:3
+#, php-format
+msgid "Copyright %1$s | MH Edition lite WordPress Theme by %2$s"
+msgstr "Copyright %1$s | MH Edition lite WordPress - teeman tarjoaa %2$s"
+
+# @ mh-edition-lite
+#: ../functions.php:45
+msgid "Main Navigation"
+msgstr "Päänavigointi"
+
+# @ mh-edition-lite
+#: ../functions.php:108
+msgctxt "widget area name"
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+# @ mh-edition-lite
+#: ../functions.php:108
+msgid "Widget area (sidebar left/right) on single posts, pages and archives."
+msgstr "Sivupalkin (vasen tai oikea) alue vimpaimille."
+
+# @ mh-edition-lite
+#: ../functions.php:109
+msgctxt "widget area name"
+msgid "Header - Advertisement"
+msgstr "Yläpalkki - Mainostila"
+
+# @ mh-edition-lite
+#: ../functions.php:109
+msgid "Widget area on top of the site."
+msgstr "Sivun yläosan alue vimpaimille."
+
+# @ mh-edition-lite
+#: ../functions.php:110
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d - Full Width"
+msgstr "Home %d - Täysi leveys"
+
+# @ mh-edition-lite
+#: ../functions.php:110 ../functions.php:111 ../functions.php:112 ../functions.
+#: php:113 ../functions.php:114 ../functions.php:115
+msgid "Widget area on homepage."
+msgstr "Etusivun alue vimpaimille."
+
+# @ mh-edition-lite
+#: ../functions.php:111 ../functions.php:114
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d - 2/3 Width"
+msgstr "Home %d - Leveys 2/3"
+
+# @ mh-edition-lite
+#: ../functions.php:112 ../functions.php:113 ../functions.php:115
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d - 1/3 Width"
+msgstr "Home %d - Leveys 1/3"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:103
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr "Kirjoittanut %s"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:115
+msgid "Archives"
+msgstr "Arkisto"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:121
+msgid "Page not found (404)"
+msgstr "Sivua ei löydy"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:123
+#, php-format
+msgid "Search Results for %s"
+msgstr "Tulokset haulle %s"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:224 ../includes/mh-custom-functions.php:229
+msgid "Back to article"
+msgstr "Palaa artikkeliin"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:226
+msgid "Previous image"
+msgstr "Edellinen kuva"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:232
+msgid "Previous article"
+msgstr "Edellinen artikkeli"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:239
+msgid "Next image"
+msgstr "Seuraava kuva"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:241
+msgid "Next article"
+msgstr "Seuraava artikkeli"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:309
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s klo %2$s"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:315
+msgid "Your comment is awaiting moderation."
+msgstr "Kommenttisi odottaa tarkistusta."
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:325
+msgid "Edit"
+msgstr "Muokkaa"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:339
+msgid "Name "
+msgstr "Nimi"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:340
+msgid "Email "
+msgstr "Sähköposti"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:341
+msgid "Website"
+msgstr "WWW-sivusto"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:19
+msgid "Additional Features:"
+msgstr "Lisäominaisuudet:"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:23
+msgid "Options to modify color scheme"
+msgstr "Väriasetukset"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:26
+msgid "Typography options"
+msgstr "Fontin asetukset"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:29
+msgid "Several additional widget areas"
+msgstr "Ylimääräisiä alueita vimpaimille"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:32
+msgid "Additional custom widgets"
+msgstr "Ylimääräisiä räätälöityjä vimpaimia"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:35
+msgid "Extended layout options"
+msgstr "Monipuolisemmat ulkoasun asetukset"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:38
+msgid "Additional custom menu slots"
+msgstr "Ylimääräisiä räätälöityjä navigointipalkin paikkoja"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:41
+msgid "Social buttons, related articles, ..."
+msgstr "Sosiaalisen median painikkeet, samankaltaiset artikkelit..."
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:44
+msgid "News ticker and many more..."
+msgstr "Uutispalkki ja paljon muuta..."
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:76
+msgid "General"
+msgstr "Yleiset asetukset"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:77
+msgid "Layout"
+msgstr "Ulkoasu"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:78
+msgid "More Features"
+msgstr "Lisää ominaisuuksia"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:83 ../includes/mh-customizer.php:141
+msgid "Read More"
+msgstr "Lue lisää"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:90
+msgid "Custom Excerpt Length in Words"
+msgstr "Artikkelin kuvauksen pituus sanoina"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:91
+msgid "Custom Excerpt More-Text"
+msgstr "Muokkaa kuvauksen \"Lue lisää\"-tekstiä"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:92
+msgid "Sidebar Position"
+msgstr "Sivupalkin sijainti"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:92 ../includes/mh-customizer.php:115
+msgid "Left"
+msgstr "Vasen"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:92 ../includes/mh-customizer.php:116
+msgid "Right"
+msgstr "Oikea"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:94
+msgid "Scale Background Image to Full Size"
+msgstr "Skaalaa taustakuva täyteen kokoon"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:8
+msgctxt "widget name"
+msgid "MH Carousel"
+msgstr "MH Carousel"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:11
+msgid "MH Carousel widget for use on homepage template."
+msgstr ""
+"Etusivulle käyttöön suunniteltu vimpain, joka näyttää sivuston artikkelit "
+"karusellimaisesti pyörivässä palkissa."
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:74 ../includes/widgets/mh-custom-posts.php:
+#: 125 ../includes/widgets/mh-posts-list.php:73
+msgid "Title:"
+msgstr "Otsikko:"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:78 ../includes/widgets/mh-custom-posts.php:
+#: 129 ../includes/widgets/mh-posts-list.php:77 ../includes/widgets/mh-slider.php:
+#: 102
+msgid "Select a Category:"
+msgstr "Valitse kategoria:"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:80 ../includes/widgets/mh-custom-posts.php:
+#: 131 ../includes/widgets/mh-posts-list.php:79 ../includes/widgets/mh-slider.php:
+#: 104
+msgid "All"
+msgstr "Kaikki"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:86 ../includes/widgets/mh-custom-posts.php:
+#: 137 ../includes/widgets/mh-posts-list.php:85 ../includes/widgets/mh-slider.php:
+#: 110
+msgid "Select a category to display posts from."
+msgstr "Valitse kategoria näytettäville artikkeleille."
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:89 ../includes/widgets/mh-custom-posts.php:
+#: 140 ../includes/widgets/mh-posts-list.php:88 ../includes/widgets/mh-slider.php:
+#: 113
+msgid "Post Count (max. 50):"
+msgstr "Artikkelien määrä (max. 50):"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:93 ../includes/widgets/mh-custom-posts.php:
+#: 144 ../includes/widgets/mh-posts-list.php:92 ../includes/widgets/mh-slider.php:
+#: 117
+msgid "Skip Posts (max. 50):"
+msgstr "Ohita artikkelit (max. 50):"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:98 ../includes/widgets/mh-custom-posts.php:
+#: 149 ../includes/widgets/mh-slider.php:129
+msgid "Ignore Sticky Posts"
+msgstr "Ohita kiinnitetyt artikkelit"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:101 ../includes/widgets/mh-custom-posts.
+#: php:152 ../includes/widgets/mh-posts-list.php:96 ../includes/widgets/mh-slider.
+#: php:132
+msgid "Info:"
+msgstr "Info:"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:101 ../includes/widgets/mh-custom-posts.
+#: php:152 ../includes/widgets/mh-posts-list.php:96 ../includes/widgets/mh-slider.
+#: php:132
+msgid ""
+"This is the lite version of this widget with basic features. If you need "
+"more advanced features and options, you can upgrade to the premium version "
+"of this theme."
+msgstr ""
+"Tämä on vimpaimen ilmaisversio perusominaisuuksilla. Jos haluat lisää "
+"ominaisuuksia ja asetuksia, voit päivittää teeman premium-versioon."
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-custom-posts.php:8
+msgctxt "widget name"
+msgid "MH Custom Posts"
+msgstr "MH Custom Posts"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-custom-posts.php:11
+msgid "MH Custom Posts widget to display posts based on categories or tags."
+msgstr "Tämä vimpain listaa sivuston artikkelit kategorian tai avainsanan pohjalta."
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-posts-list.php:8
+msgctxt "widget name"
+msgid "MH Posts List"
+msgstr "MH Posts List"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-posts-list.php:11
+msgid "MH Posts List widget to display a list of posts with thumbnails."
+msgstr "Tämä vimpain listaa sivuston artikkelit esikatselukuvineen."
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-slider.php:8
+msgctxt "widget name"
+msgid "MH Slider"
+msgstr "MH Slider"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-slider.php:11
+msgid "MH Slider widget for use on homepage template."
+msgstr ""
+"Etusivulle käyttöön suunniteltu vimpain, joka näyttää sivuston artikkelit "
+"leveässä liikkuvassa palkissa."
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-slider.php:121
+msgid "Image size:"
+msgstr "Kuvan koko:"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-slider.php:123
+msgid "Normal"
+msgstr "Normaali"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-slider.php:124
+msgid "Large"
+msgstr "Suuri"

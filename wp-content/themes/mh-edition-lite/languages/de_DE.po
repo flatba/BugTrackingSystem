@@ -1,0 +1,632 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Edition lite v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-14 12:05+0100\n"
+"PO-Revision-Date: 2016-10-05 12:48+0200\n"
+"Last-Translator: Michael <info@mhthemes.com>\n"
+"Language-Team: \n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../admin/admin.php:36 ../includes/mh-customizer.php:54
+msgid "MH Themes Showcase"
+msgstr "MH Themes Showcase"
+
+#. Name of the template
+msgid "Full Width"
+msgstr "Full Width"
+
+#. Name of the template
+msgid "Homepage"
+msgstr "Homepage"
+
+#. Name of the theme
+msgid "MH Edition lite"
+msgstr "MH Edition lite"
+
+#. Theme URI of the theme
+msgid "http://www.mhthemes.com/themes/mh/edition-lite/"
+msgstr "http://www.mhthemes.com/themes/mh/edition-lite/"
+
+#. Description of the theme
+msgid ""
+"MH Edition lite is a flexible and visually sophisticated WordPress theme for "
+"technology and news magazines. This magazine theme can transform your current "
+"WordPress website into a powerful and yet lightweight online magazine or dynamic "
+"news website with a nice flat design. Benefit from a fully responsive layout which "
+"is suitable for all modern mobile devices and browsers. The premium version of MH "
+"Edition comes with additional features, custom widgets and options to customize "
+"your website."
+msgstr ""
+
+#. Author of the theme
+msgid "MH Themes"
+msgstr "MH Themes"
+
+#. Author URI of the theme
+msgid "http://www.mhthemes.com/"
+msgstr "http://www.mhthemes.com/"
+
+# @ mh-edition-lite
+#: ../404.php:7 ../content-none.php:9
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can "
+"help."
+msgstr ""
+"Es konnten keine passenden Inhalte gefunden werden. Vielleicht kann Ihnen die "
+"Suchfunktion weiterhelfen."
+
+# @ mh-edition-lite
+#: ../404.php:10 ../content-none.php:12
+msgid "Search"
+msgstr "Suche"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:7
+msgid "Welcome to MH Edition lite"
+msgstr "Willkommen zu MH Edition lite"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:7
+msgid "Theme Info"
+msgstr "Theme Info"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:17
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr "Willkommen zu %1s %2s"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:25
+msgid "Important Links:"
+msgstr "Wichtige Links:"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:27
+msgid "Theme Info Page"
+msgstr "Theme Info Seite"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:30
+msgid "Support Center"
+msgstr "Support Center"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:33 ../includes/mh-customizer.php:64
+msgid "Support Forum"
+msgstr "Support Forum"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:39 ../admin/admin.php:101
+msgid "Rate this theme"
+msgstr "Theme bewerten"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:46
+#, php-format
+msgid "Getting Started with %s"
+msgstr "Erste Schritte mit %s"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:52 ../includes/mh-customizer.php:59
+msgid "Theme Documentation"
+msgstr "Theme Dokumentation"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:55
+#, php-format
+msgid ""
+"Need any help with configuring %s? The documentation for this theme includes all "
+"theme related information that is needed to get your site up and running in no "
+"time. In case you have any additional questions, feel free to reach out in the "
+"theme support forums on WordPress.org."
+msgstr ""
+"Ben&ouml;tigen Sie Hilfe bei der Einrichtung von %s? In der Dokumentation f&uuml;r "
+"dieses Theme finden Sie alle theme-relevanten Informationen um dieses WordPress "
+"Theme kinderleicht einzurichten. Falls Sie Fragen haben, so erhalten Sie Hilfe im "
+"Theme Support Forum auf WordPress.org."
+
+# @ mh-edition-lite
+#: ../admin/admin.php:59
+msgid "Visit Documentation"
+msgstr "Besuchen Sie die Dokumentation"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:65 ../includes/mh-customizer.php:72
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:68
+#, php-format
+msgid ""
+"%s supports the Theme Customizer for all theme settings. Click \"Customize Theme\" "
+"to open the Customizer now."
+msgstr ""
+"%s unterst&uuml;tzt den Theme Customizer f&uuml;r alle Optionen. Klicken Sie "
+"\"Theme anpassen\" um den Customizer zu &ouml;ffnen."
+
+# @ mh-edition-lite
+#: ../admin/admin.php:72
+msgid "Customize Theme"
+msgstr "Theme anpassen"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:78 ../includes/mh-customizer.php:13
+msgid "MH Edition Pro"
+msgstr "MH Edition Pro"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:81 ../includes/mh-customizer.php:16
+msgid ""
+"If you like the free version of this theme, you will LOVE the full version of MH "
+"Edition which includes unique custom widgets, additional features and more useful "
+"options to customize your website."
+msgstr ""
+"Falls Sie dieses kostenlose Theme m&ouml;gen, so werden Sie die Vollversion von MH "
+"Edition mit den zus&auml;tzlichen Custom Widgets, Features und Optionen lieben, um "
+"damit Ihre Webseite flexibel aufzusetzen."
+
+# @ mh-edition-lite
+#: ../admin/admin.php:85 ../includes/mh-customizer.php:49
+msgid "Upgrade to MH Edition Pro"
+msgstr "Upgrade auf MH Edition Pro"
+
+# @ mh-edition-lite
+#: ../admin/admin.php:97
+#, php-format
+msgid "%1s is proudly brought to you by %2s. If you like %3s: %4s."
+msgstr "%1s wurde entwickelt von %2s. Falls Sie %3s m&ouml;gen: %4s."
+
+# @ mh-edition-lite
+#: ../comments.php:11
+#, php-format
+msgid "1 Comment on %2$s"
+msgid_plural "%1$s Comments on %2$s"
+msgstr[0] "1 Kommentar zu %2$s"
+msgstr[1] "%1$s Kommentare zu %2$s"
+
+# @ mh-edition-lite
+#: ../comments.php:20 ../includes/mh-custom-functions.php:182 ../includes/mh-
+#: custom-functions.php:367
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ mh-edition-lite
+#: ../comments.php:20 ../includes/mh-custom-functions.php:182 ../includes/mh-
+#: custom-functions.php:368
+msgid "&raquo;"
+msgstr "&raquo;"
+
+# @ mh-edition-lite
+#: ../comments.php:27
+#, php-format
+msgid "%s Trackbacks & Pingbacks"
+msgstr "%s Trackbacks & Pingbacks"
+
+# @ mh-edition-lite
+#: ../comments.php:39
+msgid "Comments are closed."
+msgstr "Kommentare sind deaktiviert."
+
+# @ mh-edition-lite
+#: ../comments.php:44
+msgid "Be the first to comment"
+msgstr "Hinterlasse jetzt einen Kommentar"
+
+# @ mh-edition-lite
+#: ../comments.php:49
+msgid "Leave a Reply"
+msgstr "Kommentar hinterlassen"
+
+# @ mh-edition-lite
+#: ../comments.php:50
+msgid "Your email address will not be published."
+msgstr "E-Mail Adresse wird nicht ver&ouml;ffentlicht."
+
+# @ mh-edition-lite
+#: ../comments.php:52
+msgid "Comment"
+msgstr "Kommentar"
+
+# @ mh-edition-lite
+#: ../content-author-box.php:11
+#, php-format
+msgid "About %s"
+msgstr "&Uuml;ber %s"
+
+# @ mh-edition-lite
+#: ../content-author-box.php:20
+msgid ""
+"The author has not yet added any personal or biographical info to his author "
+"profile."
+msgstr ""
+"Dieser Autor hat noch keine pers&ouml;nlichen oder biographischen Angaben zum "
+"Autorenprofil hinzugef&uuml;gt."
+
+# @ mh-edition-lite
+#: ../content-carousel.php:7 ../content-list.php:8 ../content-loop.php:8 ..
+#: includes/widgets/mh-custom-posts.php:48 ../includes/widgets/mh-slider.php:47 .
+#: includes/widgets/mh-slider.php:49
+msgid "No Picture"
+msgstr "Kein Bild"
+
+# @ mh-edition-lite
+#: ../content-none.php:5
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with different "
+"keywords."
+msgstr ""
+"Es konnten keine passenden Inhalte gefunden werden. Bitte versuchen Sie es erneut "
+"mit einem anderen Suchbegriff."
+
+# @ mh-edition-lite
+#: ../footer.php:3
+#, php-format
+msgid "Copyright %1$s | MH Edition lite WordPress Theme by %2$s"
+msgstr "Copyright %1$s | MH Edition lite WordPress Theme von %2$s"
+
+# @ mh-edition-lite
+#: ../functions.php:45
+msgid "Main Navigation"
+msgstr "Hauptnavigation"
+
+# @ mh-edition-lite
+#: ../functions.php:108
+msgctxt "widget area name"
+msgid "Sidebar"
+msgstr "Sidebar"
+
+# @ mh-edition-lite
+#: ../functions.php:108
+msgid "Widget area (sidebar left/right) on single posts, pages and archives."
+msgstr "Widgetbereich (Sidebar links/rechts) auf Artikeln, Seiten und Archiven."
+
+# @ mh-edition-lite
+#: ../functions.php:109
+msgctxt "widget area name"
+msgid "Header - Advertisement"
+msgstr "Header - Anzeige"
+
+# @ mh-edition-lite
+#: ../functions.php:109
+msgid "Widget area on top of the site."
+msgstr "Widgetbereich oberhalb des Seitencontainers."
+
+# @ mh-edition-lite
+#: ../functions.php:110
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d - Full Width"
+msgstr "Home %d - Volle Breite"
+
+# @ mh-edition-lite
+#: ../functions.php:110 ../functions.php:111 ../functions.php:112 ../functions.
+#: php:113 ../functions.php:114 ../functions.php:115
+msgid "Widget area on homepage."
+msgstr "Widgetbereich auf der Homepage."
+
+# @ mh-edition-lite
+#: ../functions.php:111 ../functions.php:114
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d - 2/3 Width"
+msgstr "Home %d - 2/3 Breite"
+
+# @ mh-edition-lite
+#: ../functions.php:112 ../functions.php:113 ../functions.php:115
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d - 1/3 Width"
+msgstr "Home %d - 1/3 Breite"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:103
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr "Artikel von %s"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:115
+msgid "Archives"
+msgstr "Archive"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:121
+msgid "Page not found (404)"
+msgstr "Seite nicht gefunden (404)"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:123
+#, php-format
+msgid "Search Results for %s"
+msgstr "Suchergebnisse f&uuml;r %s"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:224 ../includes/mh-custom-functions.php:229
+msgid "Back to article"
+msgstr "Zur&uuml;ck zum Artikel"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:226
+msgid "Previous image"
+msgstr "Vorheriges Bild"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:232
+msgid "Previous article"
+msgstr "Vorheriger Artikel"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:239
+msgid "Next image"
+msgstr "N&auml;chstes Bild"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:241
+msgid "Next article"
+msgstr "N&auml;chster Artikel"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:309
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:315
+msgid "Your comment is awaiting moderation."
+msgstr "Der Kommentar wartet auf Freischaltung."
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:325
+msgid "Edit"
+msgstr "Bearbeiten"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:339
+msgid "Name "
+msgstr "Name"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:340
+msgid "Email "
+msgstr "E-Mail"
+
+# @ mh-edition-lite
+#: ../includes/mh-custom-functions.php:341
+msgid "Website"
+msgstr "Webseite"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:19
+msgid "Additional Features:"
+msgstr "Zus&auml;tzliche Features:"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:23
+msgid "Options to modify color scheme"
+msgstr "Optionen um das Farbschema anzupassen"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:26
+msgid "Typography options"
+msgstr "Typographie Optionen"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:29
+msgid "Several additional widget areas"
+msgstr "Zus&auml;tzliche Widgetbereiche"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:32
+msgid "Additional custom widgets"
+msgstr "Zus&auml;tzliche Custom Widgets"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:35
+msgid "Extended layout options"
+msgstr "Erweiterte Layout Optionen"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:38
+msgid "Additional custom menu slots"
+msgstr "Zus&auml;tzliche Men&uuml;s"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:41
+msgid "Social buttons, related articles, ..."
+msgstr "Social Buttons, &Auml;hnliche Artikel, ..."
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:44
+msgid "News ticker and many more..."
+msgstr "News Ticker und vieles mehr…"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:76
+msgid "General"
+msgstr "General"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:77
+msgid "Layout"
+msgstr "Layout"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:78
+msgid "More Features"
+msgstr "Weitere Features"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:83 ../includes/mh-customizer.php:141
+msgid "Read More"
+msgstr "Weiterlesen"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:90
+msgid "Custom Excerpt Length in Words"
+msgstr "L&auml;nge der Textausz&uuml;ge in Worten"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:91
+msgid "Custom Excerpt More-Text"
+msgstr "Beliebiger More-Text"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:92
+msgid "Sidebar Position"
+msgstr "Sidebar Position"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:92 ../includes/mh-customizer.php:115
+msgid "Left"
+msgstr "Links"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:92 ../includes/mh-customizer.php:116
+msgid "Right"
+msgstr "Rechts"
+
+# @ mh-edition-lite
+#: ../includes/mh-customizer.php:94
+msgid "Scale Background Image to Full Size"
+msgstr "Hintergrundbild automatisch skalieren"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:8
+msgctxt "widget name"
+msgid "MH Carousel"
+msgstr "MH Carousel"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:11
+msgid "MH Carousel widget for use on homepage template."
+msgstr "MH Carousel Widget f&uuml;r die Verwendung auf dem Homepage Template."
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:74 ../includes/widgets/mh-custom-posts.php: 125
+#: ../includes/widgets/mh-posts-list.php:73
+msgid "Title:"
+msgstr "Titel:"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:78 ../includes/widgets/mh-custom-posts.php: 129
+#: ../includes/widgets/mh-posts-list.php:77 ../includes/widgets/mh-slider.php: 102
+msgid "Select a Category:"
+msgstr "Kategorie w&auml;hlen:"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:80 ../includes/widgets/mh-custom-posts.php: 131
+#: ../includes/widgets/mh-posts-list.php:79 ../includes/widgets/mh-slider.php: 104
+msgid "All"
+msgstr "Alle"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:86 ../includes/widgets/mh-custom-posts.php: 137
+#: ../includes/widgets/mh-posts-list.php:85 ../includes/widgets/mh-slider.php: 110
+msgid "Select a category to display posts from."
+msgstr "Kategorie der gew&uuml;nschten Artikel ausw&auml;hlen."
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:89 ../includes/widgets/mh-custom-posts.php: 140
+#: ../includes/widgets/mh-posts-list.php:88 ../includes/widgets/mh-slider.php: 113
+msgid "Post Count (max. 50):"
+msgstr "Anzahl Artikel (max. 50):"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:93 ../includes/widgets/mh-custom-posts.php: 144
+#: ../includes/widgets/mh-posts-list.php:92 ../includes/widgets/mh-slider.php: 117
+msgid "Skip Posts (max. 50):"
+msgstr "Anzahl &uuml;berspringen (max. 50):"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:98 ../includes/widgets/mh-custom-posts.php: 149
+#: ../includes/widgets/mh-slider.php:129
+msgid "Ignore Sticky Posts"
+msgstr "Sticky Posts ignorieren"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:101 ../includes/widgets/mh-custom-posts.
+#: php:152 ../includes/widgets/mh-posts-list.php:96 ../includes/widgets/mh-slider.
+#: php:132
+msgid "Info:"
+msgstr "Info:"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-carousel.php:101 ../includes/widgets/mh-custom-posts.
+#: php:152 ../includes/widgets/mh-posts-list.php:96 ../includes/widgets/mh-slider.
+#: php:132
+msgid ""
+"This is the lite version of this widget with basic features. If you need more "
+"advanced features and options, you can upgrade to the premium version of this theme."
+msgstr ""
+"Dies ist die lite Version dieses Widgets mit abgespecktem Funktionsumfang. Falls "
+"Sie erweiterte Optionen und einen gr&ouml;&szlig;eren Funktionsumfang ben&ouml;"
+"tigen, so k&ouml;nnen Sie auf die Premium Version dieses Themes upgraden."
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-custom-posts.php:8
+msgctxt "widget name"
+msgid "MH Custom Posts"
+msgstr "MH Custom Posts"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-custom-posts.php:11
+msgid "MH Custom Posts widget to display posts based on categories or tags."
+msgstr "MH Custom Posts Widget um Artikel anhand von Kategorien oder Tags anzuzeigen."
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-posts-list.php:8
+msgctxt "widget name"
+msgid "MH Posts List"
+msgstr "MH Posts List"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-posts-list.php:11
+msgid "MH Posts List widget to display a list of posts with thumbnails."
+msgstr "MH Posts List Widget um Artikel als Liste inklusive Thumbnails anzuzeigen."
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-slider.php:8
+msgctxt "widget name"
+msgid "MH Slider"
+msgstr "MH Slider"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-slider.php:11
+msgid "MH Slider widget for use on homepage template."
+msgstr ""
+"MH Slider Widget zur Ausgabe von Artikeln für die Nutzung auf dem Homepage Template."
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-slider.php:121
+msgid "Image size:"
+msgstr "Bildgr&ouml;&szlig;e:"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-slider.php:123
+msgid "Normal"
+msgstr "Normal"
+
+# @ mh-edition-lite
+#: ../includes/widgets/mh-slider.php:124
+msgid "Large"
+msgstr "Gro&szlig;"

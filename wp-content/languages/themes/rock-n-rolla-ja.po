@@ -1,0 +1,383 @@
+# Translation of Themes - Rock N Rolla in Japanese
+# This file is distributed under the same license as the Themes - Rock N Rolla package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-24 00:24:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Rock N Rolla\n"
+
+#. Theme Name of the plugin/theme
+msgid "Rock N Rolla"
+msgstr "Rock N Rolla"
+
+#. Template Name of the plugin/theme
+msgid "Full-width, no sidebar"
+msgstr "全幅、サイドバーなし"
+
+#: template-parts/content-search.php:42 template-parts/content.php:51
+msgid "Read More"
+msgstr "続きを読む"
+
+#: template-parts/content-page.php:20 template-parts/content-single.php:21
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: searchform.php:9
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:6
+msgid "Search for:"
+msgstr "検索:"
+
+#: searchform.php:4
+msgid "Search here.."
+msgstr "ここを検索..."
+
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: inc/widget.php:105
+msgid "Number of posts to show:"
+msgstr "表示する投稿数:"
+
+#: inc/widget.php:102
+msgid "Display Thumbnail:"
+msgstr "サムネイルを表示:"
+
+#: inc/widget.php:97
+msgid "Title:"
+msgstr "タイトル:"
+
+#: inc/widget.php:10 inc/widget.php:19
+msgid "Rock N Rolla Recent Post"
+msgstr "Rock N Rolla 最新記事"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:78 template-parts/content-page.php:31
+msgid "Edit %s"
+msgstr "%s を編集"
+
+#. translators: %s: post title
+#: inc/template-tags.php:71
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s に</span>コメントを残す"
+
+#: inc/template-tags.php:64
+msgid "Tagged %1$s"
+msgstr "タグ:  %1$s"
+
+#: inc/template-tags.php:58
+msgid "Posted in %1$s"
+msgstr "カテゴリー: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:56 inc/template-tags.php:62
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:43 inc/widget.php:52
+msgid "Comment is Closed"
+msgstr "コメントは受け付けていません"
+
+#: inc/template-tags.php:41 inc/widget.php:50
+msgid "Leave a Comment"
+msgstr "コメントする"
+
+#: inc/template-tags.php:34
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/customizer.php:398
+msgid "Theme Primary Color"
+msgstr "テーマのメイン色"
+
+#: inc/customizer.php:385
+msgid "Enter your email address"
+msgstr "メールアドレスを入力"
+
+#: inc/customizer.php:374
+msgid "Enter your RSS url"
+msgstr "RSS URL を入力"
+
+#: inc/customizer.php:364
+msgid "Enter your Vimeo url"
+msgstr "Vimeo URL を入力"
+
+#: inc/customizer.php:353
+msgid "Enter your Flickr url"
+msgstr "Flickr URL を入力"
+
+#: inc/customizer.php:342
+msgid "Enter your Instagram url"
+msgstr "Instagram URL を入力"
+
+#: inc/customizer.php:331
+msgid "Enter your Tumblr url"
+msgstr "Tumblr URL を入力"
+
+#: inc/customizer.php:320
+msgid "Enter your Youtube url"
+msgstr "YouTube URL を入力"
+
+#: inc/customizer.php:309
+msgid "Enter your Linkedin url"
+msgstr "LinkedIn URL を入力"
+
+#: inc/customizer.php:298
+msgid "Enter your Pinterest url"
+msgstr "Pinterest URL を入力"
+
+#: inc/customizer.php:287
+msgid "Enter your Google+ url"
+msgstr "Google+ URL を入力"
+
+#: inc/customizer.php:276
+msgid "Enter your Twitter url"
+msgstr "Twitter URL を入力"
+
+#: inc/customizer.php:265
+msgid "Enter your Facebook url"
+msgstr "Facebook URL を入力"
+
+#: inc/customizer.php:257
+msgid "Optional social media buttons in the header"
+msgstr "ヘッダーのオプションのソーシャルメディアボタン"
+
+#: inc/customizer.php:255
+msgid "Social Media Icons"
+msgstr "SNS アイコン"
+
+#: inc/customizer.php:241 index.php:34
+msgid "Latest post"
+msgstr "最新の投稿"
+
+#: inc/customizer.php:236
+msgid "Post Label Option"
+msgstr "投稿ラベル設定"
+
+#: inc/customizer.php:234
+msgid "Post Label"
+msgstr "投稿ラベル"
+
+#: inc/customizer.php:226
+msgid "Display Music Album"
+msgstr "音楽アルバムを表示"
+
+#: inc/customizer.php:190 inc/customizer.php:196
+msgid "Enter Album or Music link"
+msgstr "アルバムまたは音楽へのリンクを入力"
+
+#: inc/customizer.php:185
+msgid "Music Player Option"
+msgstr "音楽プレイヤー設定"
+
+#: inc/customizer.php:183
+msgid "Music Player"
+msgstr "音楽プレイヤー"
+
+#: inc/customizer.php:132
+msgid "Display Carousel"
+msgstr "カルーセル表示"
+
+#: inc/customizer.php:118 inc/customizer.php:211 inc/customizer.php:246
+msgid "Enter Desired Label"
+msgstr "目的のラベルを入力"
+
+#: inc/customizer.php:107
+msgid "Carousel Option"
+msgstr "カルーセル設定"
+
+#: inc/customizer.php:105
+msgid "Carousel"
+msgstr "カルーセル"
+
+#: inc/customizer.php:97 inc/customizer.php:175
+msgid "Slider Speed (milliseconds)"
+msgstr "スライダーの速さ (ミリ秒)"
+
+#: inc/customizer.php:84
+msgid "Select Category:"
+msgstr "カテゴリーを選択:"
+
+#: inc/customizer.php:55
+msgid "Display Slider"
+msgstr "スライダー表示"
+
+#: inc/customizer.php:44
+msgid "Slider Option"
+msgstr "スライダー設定"
+
+#: inc/customizer.php:42
+msgid "Slider"
+msgstr "スライダー"
+
+#: inc/customizer.php:37
+msgid "Home Page Features Panel"
+msgstr "ホームページ機能画面"
+
+#: inc/customizer.php:36
+msgid "Home Page Features"
+msgstr "ホームページの機能"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:143
+msgid "Footer Three"
+msgstr "フッター3"
+
+#: functions.php:134
+msgid "Footer Two"
+msgstr "フッター2"
+
+#: functions.php:125
+msgid "Footer One"
+msgstr "フッター1"
+
+#: functions.php:117
+msgid "Add widgets here."
+msgstr "ここにウィジェットを追加。"
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:60
+msgid "Primary"
+msgstr "メイン"
+
+#: footer.php:83
+msgid "Bandthemes"
+msgstr "Bandthemes"
+
+#: footer.php:83
+msgid " and "
+msgstr " and "
+
+#: footer.php:82
+msgid "Powered by <a href=\"%s\">WordPress</a>"
+msgstr "Powered by <a href=\"%s\">WordPress</a>"
+
+#: footer.php:74 header.php:95
+msgid "Email"
+msgstr "メール"
+
+#: footer.php:74 header.php:95
+msgid "mailto:"
+msgstr "送信先:"
+
+#: footer.php:71 header.php:92
+msgid "RSS"
+msgstr "RSS"
+
+#: footer.php:68 header.php:89
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: footer.php:65 header.php:86
+msgid "Flicker"
+msgstr "Flickr"
+
+#: footer.php:62 header.php:83
+msgid "Instagram"
+msgstr "Instagram"
+
+#: footer.php:59 header.php:80
+msgid "Tumbler"
+msgstr "Tumblr"
+
+#: footer.php:56 header.php:77
+msgid "Youtube"
+msgstr "Youtube"
+
+#: footer.php:53 header.php:74
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: footer.php:50 header.php:71
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: footer.php:47 header.php:68
+msgid "Google Plus"
+msgstr "Google+"
+
+#: footer.php:44 header.php:65
+msgid "Twitter"
+msgstr "Twitter"
+
+#: footer.php:41 header.php:62
+msgid "Facebook"
+msgstr "Facebook"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: comments.php:45 comments.php:67
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:44 comments.php:66
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:41 comments.php:63
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#: 404.php:27
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここにはなにもないようです。下記のリンクまたは検索を試してみてください。"
+
+#: 404.php:23
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "このページは見つかりません。"
+
+#. Author URI of the plugin/theme
+msgid "http://bandthemes.net/"
+msgstr "http://bandthemes.net/"
+
+#. Author of the plugin/theme
+msgid "Band Themes"
+msgstr "Band Themes"
+
+#. Theme URI of the plugin/theme
+msgid "http://bandthemes.net/rock-n-rolla/"
+msgstr "http://bandthemes.net/rock-n-rolla/"

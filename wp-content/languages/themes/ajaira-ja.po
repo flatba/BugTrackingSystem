@@ -1,0 +1,295 @@
+# Translation of Themes - ajaira in Japanese
+# This file is distributed under the same license as the Themes - ajaira package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-23 10:14:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - ajaira\n"
+
+#. Description of the plugin/theme
+msgid "Simple Responsive WordPress Blog theme"
+msgstr "シンプルでレスポンシブの WordPress ブログテーマ"
+
+#. Theme Name of the plugin/theme
+msgid "ajaira"
+msgstr "ajaira"
+
+#. Template Name of the plugin/theme
+msgid "Page with no sidebar"
+msgstr "サイドバーなしページ"
+
+#: template-parts/content-page.php:31
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: template-parts/biography.php:29
+msgid "View all posts by %s"
+msgstr "%s のすべての投稿を表示"
+
+#: template-parts/biography.php:24
+msgid "Author:"
+msgstr "作成者:"
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: inc/template-tags.php:205
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/template-tags.php:197 single.php:26
+msgid "Next"
+msgstr "次"
+
+#: inc/template-tags.php:196 single.php:22
+msgid "Previous"
+msgstr "前"
+
+#. translators: %s: Name of current post.
+#: inc/template-tags.php:98
+msgid "<span class=\"continue-reading\"> Continue  reading%s </span> "
+msgstr "<span class=\"continue-reading\">%s の続きを読む</span> "
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:81 template-parts/content-page.php:43
+msgid "Edit %s"
+msgstr "%s を編集"
+
+#: inc/template-tags.php:72
+msgid "  %1$s"
+msgstr "  %1$s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:54
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span>にコメントを残す"
+
+#: inc/template-tags.php:45
+msgctxt "post author"
+msgid "by %s"
+msgstr "by %s"
+
+#: inc/template-tags.php:40
+msgctxt "post date"
+msgid " %s"
+msgstr " %s"
+
+#: inc/template-tags.php:16
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:14 inc/template-tags.php:70
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:171
+msgid "Show Search Bar"
+msgstr "検索バーを表示"
+
+#: inc/customizer.php:157
+msgid "Show Header Social Menu"
+msgstr "ヘッダーソーシャルメニューを表示"
+
+#: inc/customizer.php:119
+msgid "Social Link Hover Color"
+msgstr "ソーシャルリンクのホバー色"
+
+#: inc/customizer.php:111
+msgid "Social Link Color"
+msgstr "ソーシャルリンクの色"
+
+#: inc/customizer.php:82
+msgid "GitHub URL"
+msgstr "GitHub URL"
+
+#: inc/customizer.php:77
+msgid "Tumblr URL"
+msgstr "Tumblr URL"
+
+#: inc/customizer.php:72
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: inc/customizer.php:67
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: inc/customizer.php:62
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: inc/customizer.php:57
+msgid "Linkedin URL"
+msgstr "Linkedin URL"
+
+#: inc/customizer.php:52
+msgid "Google Plus URL"
+msgstr "Google+ URL"
+
+#: inc/customizer.php:47
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/customizer.php:42
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: inc/customizer.php:29
+msgid "Header Social Options"
+msgstr "ヘッダー・ソーシャル設定"
+
+#: inc/customizer.php:20
+msgid "Header Settings"
+msgstr "ヘッダー設定"
+
+#: header.php:97
+msgid "GitHub"
+msgstr "GitHub"
+
+#: header.php:93
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: header.php:89
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: header.php:85
+msgid "YouTube"
+msgstr "Youtube"
+
+#: header.php:81
+msgid "Instagram"
+msgstr "Instagram"
+
+#: header.php:77
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: header.php:73
+msgid "Google Plus"
+msgstr "Google+"
+
+#: header.php:69
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:65
+msgid "Facebook"
+msgstr "Facebook"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:116
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:99
+msgid "Add widgets here."
+msgstr "ここにウィジェットを追加。"
+
+#: functions.php:97
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:49
+msgid "Footer Social Menu"
+msgstr "フッターソーシャルメニュー"
+
+#: functions.php:48
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: functions.php:47
+msgid "Primary"
+msgstr "メイン"
+
+#: footer.php:58
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:56
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:56
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#: comments.php:98
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: comments.php:94
+msgid "Email "
+msgstr "メール"
+
+#: comments.php:90
+msgid "Name: "
+msgstr "名前: "
+
+#: comments.php:85
+msgid "Comment"
+msgstr "コメント"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: comments.php:44 comments.php:67
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:43 comments.php:66
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:40 comments.php:63
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここにはなにもないようです。下記のリンクまたは検索を試してみてください。"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "このページは見つかりません。"
+
+#. Author URI of the plugin/theme
+msgid "http://mrakib.me/"
+msgstr "http://mrakib.me/"
+
+#. Author of the plugin/theme
+msgid "rakib"
+msgstr "rakib"
+
+#. Theme URI of the plugin/theme
+msgid "http://ajaira.mrakib.me"
+msgstr "http://ajaira.mrakib.me"

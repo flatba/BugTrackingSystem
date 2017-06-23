@@ -1,0 +1,32 @@
+# Translation of Themes - Grace in Japanese
+# This file is distributed under the same license as the Themes - Grace package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-05 14:14:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Grace\n"
+
+#. Description of the plugin/theme
+msgid "Grace theme is a responsive WordPress theme for blogger, pastor, non profit ministry and organization. Grace specially designed for site owner who want to setup a clean and lean site with minimal setup. Sola gratia"
+msgstr "Grace テーマは、ブロガー、牧師、非営利組織、組織のためのレスポンシブ WordPress テーマです。 Grace は、最小限のセットアップできれいでリーンなサイトを設定したいサイト所有者向けに特別に設計されています。"
+
+#. Theme Name of the plugin/theme
+msgid "Grace"
+msgstr "Grace"
+
+#. Author URI of the plugin/theme
+msgid "http://sitechurch.com"
+msgstr "http://sitechurch.com"
+
+#. Author of the plugin/theme
+msgid "SiteChurch"
+msgstr "SiteChurch"
+
+#. Theme URI of the plugin/theme
+msgid "http://sitechurch.com/grace"
+msgstr "http://sitechurch.com/grace"

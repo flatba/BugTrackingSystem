@@ -1,0 +1,1107 @@
+# Translation of Plugins - WP Live Chat Support - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - WP Live Chat Support - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-26 22:42:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WP Live Chat Support - Development (trunk)\n"
+
+#: wp-live-chat-support.php:2704
+msgid "Already installed"
+msgstr "インストール済み"
+
+#: wp-live-chat-support.php:2676
+msgid "Pro version"
+msgstr "Pro 版 (有料版)"
+
+#: wp-live-chat-support.php:2675
+msgid "Free version"
+msgstr "無料版"
+
+#: wp-live-chat-support.php:2674
+msgid "Both"
+msgstr "すべて"
+
+#: wp-live-chat-support.php:2673
+msgid "For:"
+msgstr "対象"
+
+#: wp-live-chat-support.php:2670
+msgid "Paid"
+msgstr "有料"
+
+#: wp-live-chat-support.php:2669
+msgid "Free"
+msgstr "無料"
+
+#: wp-live-chat-support.php:2668
+msgid "All"
+msgstr "すべて"
+
+#: wp-live-chat-support.php:2667
+msgid "Price:"
+msgstr "価格: "
+
+#. Author of the plugin/theme
+msgid "WP-LiveChat"
+msgstr "WP-LiveChat"
+
+#. Description of the plugin/theme
+msgid "The easiest to use website live chat plugin. Let your visitors chat with you and increase sales conversion rates with WP Live Chat Support. No third party connection required!"
+msgstr "サードパーティへの接続不要、自サイト独自で今すぐライブチャットを稼動できる WordPress プラグインです!　WPライブチャットサポートで、お客様満足度をアップしましょう!"
+
+#. #-#-#-#-#  tmp-wp-live-chat-support.pot (WP Live Chat Support 5.0.10) 
+#. #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-wp-live-chat-support.pot (WP Live Chat Support 5.0.10) 
+#. #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.wp-livechat.com"
+msgstr "http://www.wp-livechat.com"
+
+#: wp-live-chat-support.php:2803
+msgid "WP Live Chat Support is a product of"
+msgstr "WP ライブチャットサポート開発元: "
+
+#: wp-live-chat-support.php:2798
+msgid "Thank you for using <a href=\"%1$s\" target=\"_blank\">WP Live Chat Support</a>! Please <a href=\"%2$s\" target=\"_blank\">rate us</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a>"
+msgstr "<a href=\"%1$s\" target=\"_blank\">WP ライブチャットサポート</a>のご利用ありがとうございます!　ぜひ、<a href=\"%2$s\" target=\"_blank\">WordPress.org</a> のサイトでこのプラグインを<a href=\"%2$s\" target=\"_blank\">評価してください</a>!"
+
+#: wp-live-chat-support.php:2784
+msgid "for only $19.95 once off."
+msgstr "価格は $19.95。月額ではなく買い切り価格です。"
+
+#: wp-live-chat-support.php:2784
+msgid " with the Pro add-on of WP Live Chat Support"
+msgstr "何人でも制限なくスタッフを追加できます!"
+
+#: wp-live-chat-support.php:2783
+msgid "accept and handle multiple chats."
+msgstr "複数のチャットを受ける"
+
+#: wp-live-chat-support.php:2783
+msgid "Multiple Chats"
+msgstr "複数同時チャット"
+
+#: wp-live-chat-support.php:2782
+msgid "Initiate Chats"
+msgstr "チャットを開始する"
+
+#: wp-live-chat-support.php:2767
+msgid "Contact us"
+msgstr "お問い合わせ"
+
+#: wp-live-chat-support.php:2766
+msgid "Support forum"
+msgstr "サポートフォーラム"
+
+#: wp-live-chat-support.php:2764
+msgid "Still need help? Use one of these links below."
+msgstr "探している質問や答えが見つからない時は、以下のリンクもご参考に。"
+
+#: wp-live-chat-support.php:2758
+msgid "The chat window never goes offline"
+msgstr "チャットウィンドウが消えません。"
+
+#: wp-live-chat-support.php:2757
+msgid "I'm not getting any notifications of a new chat"
+msgstr "新しいチャットの通知が送られてきません。"
+
+#: wp-live-chat-support.php:2756
+msgid "Messages only show when I refresh the chat window"
+msgstr "再読込しないとチャットのメッセージが表示されません。"
+
+#: wp-live-chat-support.php:2755
+msgid "This chat has already been answered. Please close the chat window"
+msgstr "このチャットは応答済みです。チャットウィンドウを閉じてください。"
+
+#: wp-live-chat-support.php:2754
+msgid "The chat window disappears when I logout or go offline"
+msgstr "ログアウトした時やインターネット接続がない時、チャットウィンドウが消えてしまいます。"
+
+#: wp-live-chat-support.php:2753
+msgid "The chat box doesnt show up"
+msgstr "チャットボックスが表示されません。"
+
+#: wp-live-chat-support.php:2751
+msgid "Common issues:"
+msgstr "よくある症状: "
+
+#: wp-live-chat-support.php:2750
+msgid "WP Live Chat Support  has a diverse and wide range of features which may, from time to time, run into conflicts with the thousands of themes and other plugins on the market."
+msgstr "WP ライブチャットサポートは非常に多機能なため、多くのテーマや他のプラグインとの共存により問題が生じる場合があります。"
+
+#: wp-live-chat-support.php:2748
+msgid "Troubleshooting"
+msgstr "トラブルシューティング"
+
+#: wp-live-chat-support.php:2744
+msgid "How do I check for JavaScript errors on my site?"
+msgstr "自サイトの JavaScript エラーはどうすればチェックできますか?"
+
+#: wp-live-chat-support.php:2743
+msgid "Do you have a mobile app?"
+msgstr "モバイル用のアプリはありますか?"
+
+#: wp-live-chat-support.php:2742
+msgid "How do I disable APC Object Cache?"
+msgstr "APC Object Cache を無効にする方法は?"
+
+#: wp-live-chat-support.php:2741
+msgid "Can I use this plugin on my multi-site?"
+msgstr "自分が運営する複数のサイトでプラグインを使用できますか?"
+
+#: wp-live-chat-support.php:2740
+msgid "What are Quick Responses?"
+msgstr "クイック定型文とはなんですか?"
+
+#: wp-live-chat-support.php:2739
+msgid "Do I have to be logged into the dashboard to chat with visitors?"
+msgstr "ビジターとチャットするには管理画面にログインが必要ですか?"
+
+#: wp-live-chat-support.php:2738
+msgid "Minimum System Requirements"
+msgstr "最小限のシステム構成"
+
+#: wp-live-chat-support.php:2736
+msgid "Documentation:"
+msgstr "ドキュメンテーション: "
+
+#: wp-live-chat-support.php:2735
+msgid "Getting started? Read through some of these articles to help you along your way."
+msgstr "初めての方は、まず、これらの記事をお読みください。"
+
+#: wp-live-chat-support.php:2733
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#. #-#-#-#-#  tmp-wp-live-chat-support.pot (WP Live Chat Support 5.0.10) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wp-live-chat-support.php:2730
+msgid "WP Live Chat Support"
+msgstr "WPライブチャットサポート"
+
+#: wp-live-chat-support.php:2633
+msgid "Create and send newsletters, automatic post notifications and autoresponders that are modern and beautiful with Nifty Newsletters."
+msgstr "Nifty Newsletters は、ニュースレターの作成と配信を可能にするプラグインです。自動送信や自動返信の機能も搭載。洗練されたデザインのニュースレターで、あなたのサイトをイメージアップしましょう!"
+
+#: wp-live-chat-support.php:2628 wp-live-chat-support.php:2629
+#: wp-live-chat-support.php:2630 wp-live-chat-support.php:2635
+msgid "Nifty Newsletters"
+msgstr "Nifty Newsletters"
+
+#: wp-live-chat-support.php:2624 wp-live-chat-support.php:2635
+msgid "Get this Plugin"
+msgstr "プラグインを入手"
+
+#: wp-live-chat-support.php:2622
+msgid "The easiest to use Help Desk & Support Ticket plugin. Create a support help desk quickly and easily with Sola Support Tickets."
+msgstr "Sola Support Tickets は、あなたのサイトにヘルプデスクとサポート・チケットの機能を追加する WordPress プラグインです。"
+
+#: wp-live-chat-support.php:2617 wp-live-chat-support.php:2618
+#: wp-live-chat-support.php:2619 wp-live-chat-support.php:2624
+msgid "Sola Support Tickets"
+msgstr "Sola Support Tickets"
+
+#: wp-live-chat-support.php:2606
+msgid "Suggested Plugins"
+msgstr "おすすめのプラグイン"
+
+#: wp-live-chat-support.php:2606
+msgid "Add-ons"
+msgstr "アドオン"
+
+#: wp-live-chat-support.php:2584
+msgid "WPLC: Safe mode is enabled on this server. You may experience issues while using WP Live Chat Support as a result of this. Please contact your host to get safe mode disabled."
+msgstr "WPLC: このサーバーはセーフモードで運用されています。これにより、WP ライブチャットサポートの使用中になんらかの問題が発生する可能性があります。セーフモードを無効化するには、サーバー管理者へご連絡ください。"
+
+#: wp-live-chat-support.php:2578
+msgid "WPLC: set_time_limit() is not enabled on this server. You may experience issues while using WP Live Chat Support as a result of this. Please get in contact your host to get this function enabled."
+msgstr "WPLC: このサーバーでは set_time_limit() が有効化されていません。これにより、WP ライブチャットサポートの使用中に何らかの問題が発生する可能性があります。このファンクションを有効化するには、サーバー管理者へご連絡ください。"
+
+#: wp-live-chat-support.php:2544
+msgid "There was a problem sending your feedback. Please log your feedback on "
+msgstr "フィードバック送信中に問題が発生しました。フィードバックにログインしてください。"
+
+#: wp-live-chat-support.php:2528 wp-live-chat-support.php:2541
+msgid "Thank you for your feedback. We will be in touch soon"
+msgstr "ご意見ありがとうございます。のちほどご連絡いたします。"
+
+#: wp-live-chat-support.php:2524
+msgid "Thank You for your feedback!"
+msgstr "ご意見ありがとうございます!"
+
+#: wp-live-chat-support.php:2509
+msgid "Your settings have been saved."
+msgstr "設定を保存しました。"
+
+#: wp-live-chat-support.php:2466
+msgid "Please click 'Start Chat' to initiate a chat with an agent"
+msgstr "[チャットの開始] をクリックして、エージェントとチャットを開始してください"
+
+#: wp-live-chat-support.php:2391
+msgid "Get it now for only $19.95."
+msgstr "$19.95 だけで入手可能です。"
+
+#: wp-live-chat-support.php:2388
+msgid "Please update to the latest version of WP Live Chat Support Pro to start recording any offline messages."
+msgstr "オフラインメッセージの録音を開始するには、WP Live Chat Support Proの最新バージョンに更新してください。"
+
+#: wp-live-chat-support.php:2383
+msgid "WP Live Chat Offline Messages"
+msgstr "WP Live Chat Offline Messages"
+
+#: wp-live-chat-support.php:2375
+msgid "WP Live Chat Missed Chats"
+msgstr "WP Live Chat Missed Chats"
+
+#: wp-live-chat-support.php:2369
+msgid "Get it now for only $19.95"
+msgstr "$19.95 だけで入手可能です。"
+
+#: wp-live-chat-support.php:2362
+msgid "WP Live Chat History"
+msgstr "WP Live Chat History"
+
+#: wp-live-chat-support.php:2095
+msgid "User has closed and ended the chat"
+msgstr "ユーザーがチャットウィンドウを閉じ、チャットを終了しました。"
+
+#: wp-live-chat-support.php:2090
+msgid "User has maximized the chat window"
+msgstr "ユーザーがチャットウィンドウを最大化しました。"
+
+#: wp-live-chat-support.php:2085
+msgid "User has minimized the chat window"
+msgstr "ユーザーがチャットウィンドウを最小化しました。"
+
+#: wp-live-chat-support.php:2080
+msgid "User has opened the chat window"
+msgstr "ユーザーがチャットウィンドウを開きました。"
+
+#: wp-live-chat-support.php:1957
+msgid "type here..."
+msgstr "ここに入力….."
+
+#: wp-live-chat-support.php:1946
+msgid "Pro version only"
+msgstr "Pro 版のみ"
+
+#: wp-live-chat-support.php:1946
+msgid "Add Quick Responses to your Live Chat"
+msgstr "ライブチャットにクイック定型文機能を追加"
+
+#: wp-live-chat-support.php:1946
+msgid "Assign Quick Response"
+msgstr "クイック定型文を選択"
+
+#: wp-live-chat-support.php:1910
+msgid "End chat"
+msgstr "チャット終了"
+
+#: wp-live-chat-support.php:1907
+msgid "Chat with"
+msgstr "チャット対象者"
+
+#: wp-live-chat-support.php:1898
+msgid "Active"
+msgstr "有効"
+
+#: wp-live-chat-support.php:1896
+msgid "Previous"
+msgstr "前"
+
+#: wp-live-chat-support.php:1833 wp-live-chat-support.php:1835
+#: wp-live-chat-support.php:2782 wp-live-chat-support.php:2783
+msgid "Buy the Pro add-on now for only $19.95 once off."
+msgstr "Pro 版 (アドオン) は $19.95 の買い切り価格です。"
+
+#: wp-live-chat-support.php:1832 wp-live-chat-support.php:2782
+msgid "with your online visitors with the click of a button."
+msgstr "することができます。"
+
+#: wp-live-chat-support.php:1831 wp-live-chat-support.php:2782
+msgid "initiate chats"
+msgstr "チャットを開始する"
+
+#: wp-live-chat-support.php:1830 wp-live-chat-support.php:2782
+msgid "see who's online and initiate chats"
+msgstr "オンラインのビジターの状況を見たり、チャットを開始"
+
+#: wp-live-chat-support.php:1829 wp-live-chat-support.php:2782
+#: wp-live-chat-support.php:2783
+msgid "With the Pro add-on of WP Live Chat Support, you can"
+msgstr "WP ライブチャットサポートの Pro 版では、ボタンのクリックだけで"
+
+#: wp-live-chat-support.php:1822
+msgid "Action"
+msgstr "操作"
+
+#: wp-live-chat-support.php:1821
+msgid "Status"
+msgstr "状態"
+
+#: wp-live-chat-support.php:1820
+msgid "Data"
+msgstr "データ"
+
+#: wp-live-chat-support.php:1819
+msgid "Type"
+msgstr "タイプ"
+
+#: wp-live-chat-support.php:1818
+msgid "Time"
+msgstr "時刻"
+
+#: wp-live-chat-support.php:1817
+msgid "Visitor"
+msgstr "ビジター"
+
+#: wp-live-chat-support.php:1807
+msgid "Agent(s) online"
+msgstr "オンラインのスタッフ"
+
+#: wp-live-chat-support.php:1802
+msgid "Visitors online"
+msgstr "オンラインのビジター"
+
+#: wp-live-chat-support.php:1792
+msgid "Please note: This window must be open in order to receive new chat notifications."
+msgstr "注意: リアルタイムでチャット通知を受け取るには、このウィンドウを開いておきます。"
+
+#: wp-live-chat-support.php:1789
+msgid "Chat Dashboard"
+msgstr "チャットのダッシュボード"
+
+#: wp-live-chat-support.php:1755
+msgid "Hide"
+msgstr "非表示"
+
+#: wp-live-chat-support.php:1753
+msgid "Visit our troubleshooting section."
+msgstr "トラブルシューティングをごらんください。(英語のみ)"
+
+#: wp-live-chat-support.php:1753
+msgid "Experiencing issues?"
+msgstr "問題が発生したときは、"
+
+#: wp-live-chat-support.php:1752
+msgid "You may <a href='?page=wplivechat-menu-settings' target='_BLANK'>modify your chat box settings here."
+msgstr "チャットボックスの設定は<a href='?page=wplivechat-menu-settings' target='_BLANK'>こちらで行えます。"
+
+#: wp-live-chat-support.php:1751
+msgid "Chat notifications will start appearing once visitors send a request."
+msgstr "ビジターがチャット要求をすると、チャット通知が表示されます。"
+
+#: wp-live-chat-support.php:1750
+msgid "The live chat box has automatically been enabled on your website."
+msgstr "チャットボックスは自動的に有効化されています。"
+
+#: wp-live-chat-support.php:1749
+msgid "You are now accepting live chat requests on your site."
+msgstr "お客様のチャットを受け付ける準備ができました。"
+
+#: wp-live-chat-support.php:1748
+msgid "Congratulations"
+msgstr "おめでとうございます"
+
+#: wp-live-chat-support.php:1716
+msgid "Version 5.0.1"
+msgstr "バージョン 5.0.1"
+
+#: wp-live-chat-support.php:1715
+msgid "Please update to the latest version of WP Live Chat Support Pro"
+msgstr "WP ライブチャットサポート Pro 版の最新版へアップデートして、"
+
+#: wp-live-chat-support.php:1713
+msgid "You are using an outdated version of <strong>WP Live Chat Support Pro</strong>."
+msgstr "現在お使いの <strong>WP ライブチャットサポート Pro 版</strong>は、旧バージョンです。"
+
+#: wp-live-chat-support.php:1701 wp-live-chat-support.php:1721
+msgid "If you are having difficulty updating the plugin, please contact"
+msgstr "プラグインの更新が困難な場合の連絡先: "
+
+#: wp-live-chat-support.php:1700 wp-live-chat-support.php:1720
+msgid "You can update your plugin <a href='./update-core.php'>here</a>, <a href='./plugins.php'>here</a> or <a href='http://wp-livechat.com/get-updated-version/' target='_BLANK'>here</a>."
+msgstr "更新プログラムは、<a href='./update-core.php'>こちら (コアプログラム)</a> か <a href='./plugins.php'>こちら (プラグイン)</a>、もしくは<a href='http://wp-livechat.com/get-updated-version/' target='_BLANK'>こちら ( WP ライブチャット更新ページ)</a> で入手できます。"
+
+#: wp-live-chat-support.php:1699
+msgid "You're live chat box on your website has been temporarily disabled until the Pro plugin has been updated. This is to ensure a smooth and hassle-free user experience for both yourself and your visitors."
+msgstr "このサイトのチャットボックスは、Pro 版プラグインが更新されるまで一時的に無効化しています。これにより、管理側、ビジター側ともに、不具合のストレスなくスムーズに利用できます。"
+
+#: wp-live-chat-support.php:1698
+msgid "to ensure all functionality is in working order"
+msgstr "すべての機能を有効にするには、少なくとも"
+
+#: wp-live-chat-support.php:1698
+msgid "You are using an outdated version of <strong>WP Live Chat Support Pro</strong>. Please"
+msgstr "現在お使いの <strong>WP ライブチャットサポート Pro 版</strong>は、旧バージョンです。"
+
+#: wp-live-chat-support.php:1697 wp-live-chat-support.php:1712
+msgid "Dear Pro User"
+msgstr "Pro 版ユーザーのみなさま"
+
+#: wp-live-chat-support.php:1247
+msgid "A new chat has been received. Please go the 'Live Chat' page to accept the chat"
+msgstr "新しいチャット要求が来ています。"
+
+#: wp-live-chat-support.php:1245
+msgid "New chat received"
+msgstr "新しいチャット要求"
+
+#: wp-live-chat-support.php:853 wp-live-chat-support.php:1037
+#: wp-live-chat-support.php:1959
+msgid "Send"
+msgstr "送信"
+
+#: wp-live-chat-support.php:849 wp-live-chat-support.php:1033
+#: wp-live-chat-support.php:1945
+msgid "Press ENTER to send your message"
+msgstr "Enter キーを押すと、メッセージを送信します。"
+
+#: wp-live-chat-support.php:786 wp-live-chat-support.php:967
+msgid "Start Live Chat"
+msgstr "ライブチャットを開始"
+
+#: wp-live-chat-support.php:450
+msgid "Extensions"
+msgstr "拡張機能"
+
+#: wp-live-chat-support.php:449 wp-live-chat-support.php:2762
+msgid "Support"
+msgstr "作者を応援　"
+
+#: wp-live-chat-support.php:447
+msgid "Missed Chats"
+msgstr "取り逃しチャット"
+
+#: wp-live-chat-support.php:446
+msgid "History"
+msgstr "履歴"
+
+#: wp-live-chat-support.php:445
+msgid "Settings"
+msgstr "設定"
+
+#: wp-live-chat-support.php:444
+msgid "Live Chat"
+msgstr "ライブチャット"
+
+#: wp-live-chat-support.php:407 wp-live-chat-support.php:2233
+msgid "Please click \\'Start Chat\\' to initiate a chat with an agent"
+msgstr "「チャットを始める」をクリックして、チャット担当者を呼び出します。"
+
+#: includes/welcome_page.php:49
+msgid "Skip"
+msgstr "スキップ"
+
+#: includes/welcome_page.php:47
+msgid "Submit"
+msgstr "送信"
+
+#: includes/welcome_page.php:38
+msgid "Please Explain"
+msgstr "具体的に"
+
+#: includes/welcome_page.php:34
+msgid "Other"
+msgstr "その他"
+
+#: includes/welcome_page.php:28
+msgid "Friend recommendation"
+msgstr "友人知人のおすすめ"
+
+#: includes/welcome_page.php:22
+msgid "Google or other search Engine"
+msgstr "Google などの検索エンジン"
+
+#: includes/welcome_page.php:18
+msgid "Search Term"
+msgstr "検索キーワード"
+
+#: includes/welcome_page.php:15
+msgid "WordPress.org plugin repository "
+msgstr "WordPress.org プラグインリポジトリ"
+
+#: includes/welcome_page.php:10
+msgid "How did you find us?"
+msgstr "当サイトをどのようにして知りましたか?"
+
+#: includes/welcome_page.php:8
+msgid "Provide Instant Live Chat Support!"
+msgstr "ライブチャットサポートを提供しましょう!"
+
+#: includes/welcome_page.php:6
+msgid "Version 5"
+msgstr "バージョン 5"
+
+#: includes/welcome_page.php:4
+msgid "Welcome to "
+msgstr "ようこそ、"
+
+#: includes/settings_page.php:583
+msgid "Save Settings"
+msgstr "設定を保存"
+
+#: includes/settings_page.php:569
+msgid "All messages will be encrypted when being sent to and from the user and agent."
+msgstr "すべてのチャット・メッセージの送受信が暗号化されます。"
+
+#: includes/settings_page.php:569
+msgid "Enable Encryption"
+msgstr "暗号化を有効にする"
+
+#: includes/settings_page.php:566
+msgid "Chat Encryption"
+msgstr "チャットの暗号化"
+
+#: includes/settings_page.php:563
+msgid "Blocking a user's IP Address here will hide the chat window from them, preventing them from chatting with you. Each IP Address must be on a new line"
+msgstr "IP アドレスをブロックすると、その IP からのアクセスに対してチャットボックスが非表示となります。IP アドレスは 1 行に 1 つ記入します。"
+
+#: includes/settings_page.php:552
+msgid "Enter each IP Address you would like to block on a new line"
+msgstr "ブロックしたいビジターの IP アドレスを 1 行に 1 つ入力します。"
+
+#: includes/settings_page.php:551
+msgid "Blocked Visitors - Based on IP Address"
+msgstr "ブロックしたビジター ( IP アドレス)"
+
+#: includes/settings_page.php:540
+msgid "Pro version for only $19.95 once off."
+msgstr "$19.95の買い切り価格です。"
+
+#: includes/settings_page.php:540
+msgid "Add as many agents as you need with the "
+msgstr "スタッフを何人でも追加できる Pro 版は、"
+
+#: includes/settings_page.php:539
+msgid "Add Agent"
+msgstr "スタッフを追加"
+
+#: includes/settings_page.php:535
+msgid "Author"
+msgstr "登録者"
+
+#: includes/settings_page.php:529
+msgid "Editor"
+msgstr "エディター"
+
+#: includes/settings_page.php:523
+msgid "Administrator"
+msgstr "管理者"
+
+#: includes/settings_page.php:516 wp-live-chat-support.php:1946
+msgid "Select"
+msgstr "選択"
+
+#: includes/settings_page.php:514
+msgid "Add New Agent"
+msgstr "スタッフを追加"
+
+#: includes/settings_page.php:503
+msgid "Online"
+msgstr "オンライン"
+
+#: includes/settings_page.php:495
+msgid "Current Users that are Chat Agents"
+msgstr "現在オンライン中のスタッフ"
+
+#: includes/settings_page.php:451
+msgid "No Animation"
+msgstr "アニメーションしない"
+
+#: includes/settings_page.php:447
+msgid "Fade In"
+msgstr "フェードイン"
+
+#: includes/settings_page.php:443
+msgid "Slide From The Side"
+msgstr "サイドからスライド"
+
+#: includes/settings_page.php:439
+msgid "Slide Up"
+msgstr "スライドアップ (下から上)"
+
+#: includes/settings_page.php:432
+msgid "Pro"
+msgstr "プロ版"
+
+#: includes/settings_page.php:431
+msgid "Choose an animation. Only available in the"
+msgstr "アニメーションを選択してください。"
+
+#: includes/settings_page.php:393 wp-live-chat-support.php:844
+#: wp-live-chat-support.php:1028
+msgid "Reactivating your previous chat..."
+msgstr "前回のチャットを再開中…"
+
+#: includes/settings_page.php:391
+msgid "Reactivate chat section text"
+msgstr "チャットを再起動中のテキスト"
+
+#: includes/settings_page.php:384 wp-live-chat-support.php:838
+#: wp-live-chat-support.php:1022
+msgid "Start Chat"
+msgstr "チャットの開始"
+
+#: includes/settings_page.php:382
+msgid "Second section text"
+msgstr "第 2 セクションのテキスト"
+
+#: includes/settings_page.php:378 wp-live-chat-support.php:779
+#: wp-live-chat-support.php:960
+msgid "Chat with us"
+msgstr "(オンライン)"
+
+#: includes/settings_page.php:377 wp-live-chat-support.php:779
+#: wp-live-chat-support.php:960
+msgid "Questions?"
+msgstr "ご質問はございますか ?"
+
+#: includes/settings_page.php:375
+msgid "First section text"
+msgstr "第 1 セクションのテキスト"
+
+#: includes/settings_page.php:368
+msgid "Chat box font color"
+msgstr "チャットボックスの文字色"
+
+#: includes/settings_page.php:355
+msgid "Colour Scheme 6"
+msgstr "カラースキーム 6"
+
+#: includes/settings_page.php:354
+msgid "Colour Scheme 5"
+msgstr "カラースキーム 5"
+
+#: includes/settings_page.php:353
+msgid "Colour Scheme 4"
+msgstr "カラースキーム 4"
+
+#: includes/settings_page.php:352
+msgid "Colour Scheme 3"
+msgstr "カラースキーム 3"
+
+#: includes/settings_page.php:351
+msgid "Colour Scheme 2"
+msgstr "カラースキーム 2"
+
+#: includes/settings_page.php:350
+msgid "Colour Scheme 1"
+msgstr "カラースキーム 1"
+
+#: includes/settings_page.php:346
+msgid "Pro add-on"
+msgstr "Pro 版アドオン"
+
+#: includes/settings_page.php:346
+msgid "Choose a colour scheme. Only available in the"
+msgstr "配色を選択してください。利用可能なのは、"
+
+#: includes/settings_page.php:321
+msgid "The chat window will be hidden when it is offline. Users will not be able to send offline messages to you"
+msgstr "スタッフがオフラインのときはチャットウィンドウを非表示にし、ユーザーがオフラインメッセージを送れないようにします。"
+
+#: includes/settings_page.php:321
+msgid "Do not allow users to send offline messages"
+msgstr "ユーザーがオフラインメッセージを送信することを許可しない"
+
+#: includes/settings_page.php:312 includes/settings_page.php:396
+msgid "Edit these text fields using the "
+msgstr "これらのテキストフィールドを編集する"
+
+#: includes/settings_page.php:310
+msgid "Chat offline. Leave a message"
+msgstr "チャットはオフラインです。メッセージを送信できます。"
+
+#: includes/settings_page.php:307
+msgid "Offline text"
+msgstr "オフラインテキスト"
+
+#: includes/settings_page.php:298
+msgid "Get offline messages with the "
+msgstr "オフラインメッセージは"
+
+#: includes/settings_page.php:292
+msgid "Email Address"
+msgstr "メールアドレス"
+
+#: includes/settings_page.php:274
+msgid "By checking this, only users that are logged in will be able to chat with you."
+msgstr "ログインした登録ユーザーのみにチャットを許可する場合、オンにします。"
+
+#: includes/settings_page.php:274
+msgid "Only show the chat window to users that are logged in"
+msgstr "ログインユーザーだけにチャット画面を表示"
+
+#: includes/settings_page.php:264
+msgid "Display the agent and user name above each message in the chat window."
+msgstr "チャット中、各発言に発言者名とアバターを表示します。"
+
+#: includes/settings_page.php:264
+msgid "Display name and avatar in chat"
+msgstr "チャット中に名前とアバターを表示"
+
+#: includes/settings_page.php:252
+msgid "Alert me via email as soon as someone wants to chat"
+msgstr "チャット要求をすぐにメールで知らせる(オンライン時のみ有効)"
+
+#: includes/settings_page.php:248
+msgid "Chat notifications"
+msgstr "チャット通知"
+
+#: includes/settings_page.php:232
+msgid "Chat delay (seconds)"
+msgstr "チャット遅延 (秒)"
+
+#: includes/settings_page.php:216
+msgid "Logo"
+msgstr "ロゴ"
+
+#: includes/settings_page.php:203 includes/settings_page.php:219
+msgid "Upload Image"
+msgstr "画像をアップロード"
+
+#: includes/settings_page.php:200
+msgid "Picture"
+msgstr "画像"
+
+#: includes/settings_page.php:175
+msgid "Expand the chat box automatically (prompts the user to enter their name and email address)."
+msgstr "チャットボックスを最初から開いた状態で表示します。"
+
+#: includes/settings_page.php:175
+msgid "Auto Pop-up"
+msgstr "自動ポップアップ"
+
+#: includes/settings_page.php:169
+msgid "Right"
+msgstr "右"
+
+#: includes/settings_page.php:168
+msgid "Left"
+msgstr "左"
+
+#: includes/settings_page.php:167
+msgid "Bottom right"
+msgstr "右下"
+
+#: includes/settings_page.php:166
+msgid "Bottom left"
+msgstr "左下"
+
+#: includes/settings_page.php:163
+msgid "Chat box alignment"
+msgstr "チャットボックスの位置"
+
+#: includes/settings_page.php:160
+msgid "Chat Window Settings"
+msgstr "チャットウィンドウの設定"
+
+#: includes/settings_page.php:140
+msgid "Do not show the chat window on the following pages. Leave blank to show on all. (Use comma-separated Page ID's)"
+msgstr "特定のページでチャットボックスを表示させたくない場合、ページIDで指定します。(カンマ区切りで複数のページを指定可)　空白で全ページに表示します。"
+
+#: includes/settings_page.php:140
+msgid "Exclude chat window on the following pages"
+msgstr "チャットウィンドウを表示しないページ"
+
+#: includes/settings_page.php:125
+msgid "Show the chat window on the following pages. Leave blank to show on all. (Use comma-separated Page ID's)"
+msgstr "チャットボックスを表示させるページを ID で指定します。(カンマ区切りで複数のページを指定可)　空白で全ページに表示します。"
+
+#: includes/settings_page.php:125
+msgid "Include chat window on the following pages"
+msgstr "チャットウィンドウを表示するページ"
+
+#: includes/settings_page.php:117
+msgid "Disable this to mute the sound that is played when a new chat message is received"
+msgstr "無効にすると、新しいチャット要求が来たときに着信音が鳴りません。"
+
+#: includes/settings_page.php:117
+msgid "Play a sound when a new message is received"
+msgstr "新しいメッセージを受信したときにサウンドを再生する"
+
+#: includes/settings_page.php:109
+msgid "Disable this to enable anonymity for your visitors"
+msgstr "ビジターの IP アドレスを記録しない場合はオフにします"
+
+#: includes/settings_page.php:109
+msgid "Record a visitor's IP Address"
+msgstr "ビジターの IP アドレスを記録"
+
+#: includes/settings_page.php:101
+msgid "Disabling this will mean that the Chat Box will not be displayed on mobile devices. (Smartphones and Tablets)"
+msgstr "モバイル機器でもチャットボックスを表示する場合はチェック (スマートフォンおよびタブレット)"
+
+#: includes/settings_page.php:101
+msgid "Enable On Mobile Devices"
+msgstr "モバイルでも有効にする"
+
+#: includes/settings_page.php:93
+msgid "A user's Name and Email Address will be used by default if they are logged in."
+msgstr "ユーザーがログインしている場合は、該当ユーザーの登録情報を参照します。"
+
+#: includes/settings_page.php:93
+msgid "Use Logged In User Details"
+msgstr "ログインユーザーは登録情報を使用"
+
+#: includes/settings_page.php:85
+msgid "This is the text that will show in place of the Name And Email fields"
+msgstr "名前とメールアドレスなしでチャットを要求できる場合、入力フィールドの代わりに表示するテキスト"
+
+#: includes/settings_page.php:85
+msgid "Input Field Replacement Text"
+msgstr "入力フィールドの代替テキスト"
+
+#: includes/settings_page.php:77
+msgid "Users will have to enter their Name and Email Address when starting a chat"
+msgstr "ビジターがチャットを要求する際、名前とEmailを必須入力とします。"
+
+#: includes/settings_page.php:77
+msgid "Require Name And Email"
+msgstr "名前とメールアドレスが必要です"
+
+#: includes/settings_page.php:61
+msgid "Hides chat for 24hrs when user clicks X"
+msgstr "チャットボックス右上の「X」でチャットボックスを閉じたユーザに対して、以降24時間チャットボックスを非表示にします。"
+
+#: includes/settings_page.php:61
+msgid "Hide Chat"
+msgstr "チャットを非表示"
+
+#: includes/settings_page.php:53 includes/settings_page.php:68
+#: includes/settings_page.php:132 includes/settings_page.php:147
+#: includes/settings_page.php:191 includes/settings_page.php:207
+#: includes/settings_page.php:223 includes/settings_page.php:239
+#: includes/settings_page.php:256 includes/settings_page.php:299
+#: includes/settings_page.php:313 includes/settings_page.php:397
+#: includes/settings_page.php:574 wp-live-chat-support.php:2369
+#: wp-live-chat-support.php:2391
+msgid "Pro Add-on"
+msgstr "Pro 版アドオン"
+
+#: includes/settings_page.php:46
+msgid "Checking this will allow you to change your status to Online or Offline on the Live Chat page."
+msgstr "これをチェックすると、ライブチャットページのステータスをオンラインまたはオフラインに変更できます。"
+
+#: includes/settings_page.php:41
+msgid "No"
+msgstr "いいえ"
+
+#: includes/settings_page.php:40
+msgid "Yes"
+msgstr "はい"
+
+#: includes/settings_page.php:37
+msgid "Chat enabled"
+msgstr "チャットを有効にする"
+
+#: includes/settings_page.php:34
+msgid "Main Settings"
+msgstr "メイン設定"
+
+#: includes/settings_page.php:31
+msgid "Encryption"
+msgstr "暗号化"
+
+#: includes/settings_page.php:30
+msgid "Blocked Visitors"
+msgstr "ブロックしたビジター"
+
+#: includes/settings_page.php:29
+msgid "Agents"
+msgstr "スタッフ"
+
+#: includes/settings_page.php:28 includes/settings_page.php:342
+msgid "Styling"
+msgstr "スタイル"
+
+#: includes/settings_page.php:27 includes/settings_page.php:288
+msgid "Offline Messages"
+msgstr "オフラインメッセージ"
+
+#: includes/settings_page.php:26
+msgid "Chat Box"
+msgstr "チャットボックス"
+
+#: includes/settings_page.php:25
+msgid "General Settings"
+msgstr "一般設定"
+
+#: includes/settings_page.php:11
+msgid "WP Live Chat Support Settings"
+msgstr "WP Live Chat Support の設定"
+
+#: includes/feedback-page.php:48
+msgid "Send Feedback"
+msgstr "フィードバックを送信"
+
+#: includes/feedback-page.php:37 wp-live-chat-support.php:448
+msgid "Feedback"
+msgstr "フィードバック"
+
+#: includes/feedback-page.php:29
+msgid "Your Website"
+msgstr "ウェブサイト"
+
+#: includes/feedback-page.php:21
+msgid "Your Email"
+msgstr "メールアドレス"
+
+#: includes/feedback-page.php:13
+msgid "Your Name"
+msgstr "お名前"
+
+#: includes/feedback-page.php:8
+msgid "We'd love to hear your comments and/or suggestions"
+msgstr "あなたのコメントや提案をお待ちしています"
+
+#: includes/feedback-page.php:7
+msgid "WP Live Chat Support Feedback"
+msgstr "WP Live Chat Support へのフィードバック"
+
+#: functions.php:1283
+msgid "You have not missed any chat requests."
+msgstr "取り逃しチャットはありません。"
+
+#: functions.php:1256
+msgid "URL"
+msgstr "URL"
+
+#: functions.php:1255 wp-live-chat-support.php:821
+#: wp-live-chat-support.php:1004
+msgid "Email"
+msgstr "メールアドレス"
+
+#: functions.php:1254 includes/settings_page.php:184
+#: wp-live-chat-support.php:820 wp-live-chat-support.php:1003
+msgid "Name"
+msgstr "名前"
+
+#: functions.php:1253
+msgid "Date"
+msgstr "日付"
+
+#: functions.php:1036
+msgid "Get Pro Add-on to accept more chats"
+msgstr "Pro 版にアップグレードして、より多くのチャットを受け付けましょう!"
+
+#: functions.php:899
+msgid "User is browsing but doesn't want to chat"
+msgstr "サイト閲覧中だがチャット要求なし"
+
+#: functions.php:896
+msgid "Chat Ended - User still browsing"
+msgstr "チャット終了後、まだサイトを閲覧中"
+
+#: functions.php:893
+msgid "requesting chat"
+msgstr "チャットをリクエスト中"
+
+#: functions.php:890
+msgid "browsing"
+msgstr "閲覧"
+
+#: functions.php:887
+msgid "deleted"
+msgstr "削除済み"
+
+#: functions.php:884
+msgid "active"
+msgstr "アクティブ"
+
+#: functions.php:881
+msgid "pending"
+msgstr "保留"
+
+#: functions.php:878
+msgid "complete"
+msgstr "完了"
+
+#: functions.php:488
+msgid "New"
+msgstr "新規"
+
+#: functions.php:467
+msgid "Initiate Chat"
+msgstr "チャットを開始"
+
+#: functions.php:462
+msgid "Open Chat"
+msgstr "チャットを開始"
+
+#: functions.php:335 wp-live-chat-support.php:1936
+msgid "IP Address:"
+msgstr "IP アドレス:"
+
+#: functions.php:334 wp-live-chat-support.php:1935
+msgid "Browser:"
+msgstr "ブラウザー: "
+
+#: functions.php:332 wp-live-chat-support.php:1933
+msgid "Advanced Info"
+msgstr "詳細情報"
+
+#: functions.php:328 wp-live-chat-support.php:1929
+msgid "Chat initiated on:"
+msgstr "チャットを開始したページ: "
+
+#: functions.php:326 wp-live-chat-support.php:1927
+msgid "Site Info"
+msgstr "サイト情報"
+
+#: functions.php:303 functions.php:464
+msgid "This chat is active"
+msgstr "このチャットは応答中です"
+
+#: functions.php:303 functions.php:464
+msgid "Chat Active"
+msgstr "応答中のチャット"
+
+#: functions.php:301
+msgid "Open Chat Window"
+msgstr "チャットウィンドウを開く"
+
+#: functions.php:297 functions.php:455
+msgid "You have an incoming chat."
+msgstr "チャット要求が来ています。"
+
+#: functions.php:297 functions.php:455
+msgid "Incoming Chat"
+msgstr "チャット要求"
+
+#: functions.php:295 functions.php:453 functions.php:1036
+msgid "Accept Chat"
+msgstr "チャットを受ける"
+
+#: functions.php:290 functions.php:448 wp-live-chat-support.php:1904
+msgid "Whois for"
+msgstr "Whois を表示"
+
+#: functions.php:288 functions.php:446 wp-live-chat-support.php:1902
+msgid "IP Address not recorded"
+msgstr "IP アドレスは記録されていません。"
+
+#: functions.php:273
+msgid "Active Chats"
+msgstr "アクティブなチャット"
+
+#: functions.php:271
+msgid "No chat sessions available at the moment"
+msgstr "現在、チャットセッションはありません。"
+
+#: ajax_new.php:238
+msgid "There is No Answer. Please Try Again Later"
+msgstr "応答がありません。後ほどやり直してください。"
+
+#: ajax_new.php:214
+msgid "Admin has closed and ended the chat"
+msgstr "管理者がチャットを終了しました。"

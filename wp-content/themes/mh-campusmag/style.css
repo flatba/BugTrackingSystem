@@ -1,0 +1,146 @@
+/*****
+Theme Name: MH CampusMag
+Theme URI: https://www.mhthemes.com/themes/mh/campusmag/
+Description: MH CampusMag is a clean and flexible news / magazine WordPress theme for schools, colleges, universities or other educational institutions to run editorial websites like modern online magazines or dynamic news websites. This education magazine theme is a child theme for the popular MH Magazine lite theme which includes various custom widgets to build a well-organized front page with your educational content. Publish latest news from the campus and inform students about what your institution offers for their education. If you like this magazine theme for educational websites and if you need more features and options, then you can have the same layout in the premium version of MH Magazine (without the need of a child theme) which can be configured by making use of the flexible layout options. MH Magazine offers additional widget areas, multiple unique custom widgets, great features and extended layout options to manage several layout elements on your site including changing the color scheme and typography.
+Author: MH Themes
+Author URI: https://www.mhthemes.com/
+Template: mh-magazine-lite
+Version: 1.0.1
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-header, custom-menu, featured-images, full-width-template, theme-options, threaded-comments, translation-ready, rtl-language-support, blog, education, news
+Text Domain: mh-campusmag
+Domain Path: /languages/
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*****/
+
+/***** Typography *****/
+
+body { font-family: "Noto Sans", sans-serif; background: #f7f7f7; }
+h1, h2, h3, h4, h5, h6, .mh-custom-posts-small-title { font-family: "Lusitana", serif; }
+blockquote { border-color: #822433; }
+a { color: #000; }
+a:hover { color: #822433; }
+
+/***** Header *****/
+
+.mh-header { background: #1b294f; }
+.mh-header-title, .mh-header-tagline { color: #fff; }
+
+/***** Navigation *****/
+
+.mh-main-nav-wrap { background: #00204e; }
+.mh-main-nav { background: #00204e; border-bottom: none; }
+.mh-main-nav li:hover { background: #822433; }
+.mh-main-nav ul li:hover > ul { background: #00204e; }
+.mh-main-nav .menu > .current-menu-item { background: none; }
+.mh-main-nav .menu > .current-menu-item:hover { background: #822433; }
+
+/***** SlickNav Custom Style *****/
+
+.slicknav_btn { background: #822433; }
+.slicknav_menu { border-color: #00204e; background: #822433; }
+.slicknav_nav ul { border-color: #00204e; }
+.slicknav_nav .slicknav_item:hover, .slicknav_nav a:hover { background: #822433; }
+.mh-main-nav-wrap .slicknav_btn, .mh-main-nav-wrap .slicknav_menu, .mh-main-nav-wrap .slicknav_nav .slicknav_item:hover, .mh-main-nav-wrap .slicknav_nav a:hover { background: transparent; }
+.mh-main-nav-wrap .slicknav_nav ul { border-color: #822433; }
+.mh-main-nav-wrap .slicknav_nav ul ul { border: none; }
+
+/***** Posts/Pages *****/
+
+.entry-content a { color: #822433; }
+.entry-content a:hover, .mh-meta a:hover { color: #822433; }
+.entry-tags li { background: #00204e; }
+.entry-tags li:hover, .entry-tags .fa { background: #822433; }
+
+/***** Loop / Archives / Search Results *****/
+
+.mh-posts-grid { padding-bottom: 20px; border-bottom: 1px dotted #ebebeb; }
+.mh-posts-grid-col { width: 48.24%; margin-left: 3.52%; }
+.mh-posts-grid-col:first-child { margin: 0; }
+.mh-posts-grid-thumb { position: relative; margin-bottom: 10px; }
+.mh-posts-grid-thumb img { width: 100%; max-width: 326px; }
+.mh-posts-grid-title { font-size: 20px; font-size: 1.25rem; }
+.mh-posts-grid-meta { margin-top: 5px; }
+.mh-posts-grid-excerpt { margin-top: 10px; }
+.mh-posts-grid-more { margin-top: 20px; }
+
+/***** Pagination *****/
+
+.page-numbers:hover, .mh-loop-pagination .current, .mh-comments-pagination .current, a:hover .pagelink, .pagelink { background: #822433; }
+
+/***** Footer *****/
+
+.mh-footer { background: #00204e; }
+.mh-footer a, .mh-footer .mh-meta, .mh-footer .mh-meta a, .mh-footer .mh-meta a:hover { color: #fff; }
+.mh-copyright-wrap { border-color: rgba(255, 255, 255, 0.3); background: #00204e; }
+.mh-copyright, .mh-copyright a { color: #fff; }
+
+/***** Comments *****/
+
+.bypostauthor .mh-comment-meta-author:after, .mh-comment-meta-links .comment-reply-link:before, #respond #cancel-comment-reply-link:before { color: #822433; }
+
+/***** Forms *****/
+
+input[type=text]:hover, input[type=email]:hover, input[type=tel]:hover, input[type=url]:hover, textarea:hover { border-color: #822433; }
+input[type=submit] { background: #822433; }
+input[type=submit]:hover { background: #00204e; }
+
+/***** Widgets *****/
+
+.mh-widget-title { position: relative; padding: 0; border: none; text-align: center; }
+.mh-widget-title:after { position: absolute; top: 50%; left: 0; right: 0; content: ""; border-bottom: 2px solid #822433; }
+.mh-widget-title-inner { position: relative; display: inline-block; padding: 0 10px; background: #fff; z-index: 999; }
+.mh-widget-title .mh-footer-widget-title-inner { background: #00204e; }
+
+/***** MH Slider Widget *****/
+
+.mh-slider-widget img { width: 100%; display: block; }
+.mh-slider-widget .flex-control-paging li a.flex-active { background: #822433; }
+.mh-slider-caption { border-color: #822433; background: #00204e; background: rgba(0, 32, 78, 0.8); }
+.mh-widget-col-1 .mh-slider-caption { background: #00204e; }
+.mh-footer-widget .mh-slider-caption { background: rgba(255, 255, 255, 0.1); }
+
+/***** MH Posts Stacked Widget *****/
+
+.mh-posts-stacked-title { background: #00204e; background: rgba(0, 32, 78, 0.8); }
+.mh-posts-stacked-meta { background: #822433; }
+#mh-mobile .mh-footer-widget .mh-posts-stacked-overlay { border-color: #00204e; }
+
+/***** MH Tabbed Widget *****/
+
+.mh-tabbed-widget a:hover { color: #822433; }
+.mh-tabbed-widget .tagcloud a { color: #fff; }
+.mh-tab-buttons { border-bottom: 3px solid #822433; }
+.mh-tab-button.active, .mh-tab-button.active:hover { color: #fff; background: #822433; }
+.mh-tab-comment-excerpt { background: rgba(255, 255, 255, 0.6); }
+.mh-footer-widget .mh-tabbed-widget, .mh-footer-widget .mh-tabbed-widget a { color: #fff; }
+.mh-footer-widget .mh-tab-button.active { background: #822433; }
+.mh-footer-widget .mh-tab-comment-excerpt { background: #00204e; }
+
+/***** WP Tag Cloud Widget *****/
+
+.mh-widget .tagcloud a { background: #00204e; }
+.mh-footer-widget .tagcloud a { background: rgba(255, 255, 255, 0.1); }
+.tagcloud a:hover, .mh-widget .tagcloud a:hover, .mh-footer-widget .tagcloud a:hover { background: #822433; }
+
+/***** Media Queries *****/
+
+@media screen and (max-width: 900px) {
+	#mh-mobile .mh-slider-caption { background: #00204e; background: rgba(0, 32, 78, 1); }
+}
+@media screen and (max-width: 767px) {
+	.mh-posts-grid-col { width: 48.75%; margin-left: 2.5%; }
+	.mh-posts-grid-thumb img { max-width: 100%; }
+}
+@media screen and (max-width: 620px) {
+	#mh-mobile .mh-posts-grid { padding: 0; border: none; }
+	#mh-mobile .mh-posts-grid-col { float: none; width: 100%; margin: 20px 0 0 0; border-bottom: 1px dotted #ebebeb; }
+	#mh-mobile .mh-posts-grid-col:first-child { margin-top: 0; }
+	.mh-posts-grid-thumb { float: left; max-width: 80px; margin: 0 15px 20px 0; }
+	.mh-posts-grid-title { font-size: 14px; font-size: 0.875rem; }
+	.mh-posts-grid-meta { font-size: 11px; font-size: 0.6875rem; }
+	.mh-posts-grid-excerpt { display: none; }
+}
+@media only screen and (max-width: 420px) {
+	.mh-copyright-wrap { padding: 15px 20px; }
+}
