@@ -1,0 +1,3317 @@
+# Copyright (C) 2017 Tareq Hasan
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP User Frontend 2.5\n"
+"Report-Msgid-Bugs-To: https://wedevs.com/support/forum/plugin-support/wp-"
+"user-frontend/\n"
+"POT-Creation-Date: 2017-03-30 09:58+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-03-30 10:15+0900\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: Poedit 2.0\n"
+"Last-Translator: hirapapa <hana_kappa_kokeyan@yahoo.co.jp>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja_JP\n"
+
+#: admin/add-ons.php:2
+msgid "WP User Frontend - Add-Ons"
+msgstr "WP User Frontend - 追加機能"
+
+#: admin/form-builder/assets/js/components/builder-stage/template.php:3
+msgid "Add fields by dragging the fields from the right sidebar to this area."
+msgstr ""
+"このエリアに右のサイドバーからフィールドをドラッグしてフィールドを追加しま"
+"す。"
+
+#: admin/form-builder/assets/js/components/builder-stage/template.php:28
+msgid "is available in Pro Version"
+msgstr "は有料版でのみ使用可能です"
+
+#: admin/form-builder/assets/js/components/builder-stage/template.php:52
+msgid "Hidden Fields"
+msgstr "表示しない項目"
+
+#: admin/form-builder/assets/js/components/builder-stage/template.php:59
+msgid "key"
+msgstr "キー"
+
+#: admin/form-builder/assets/js/components/builder-stage/template.php:59
+msgid "value"
+msgstr "値"
+
+#: admin/form-builder/assets/js/components/field-option-data/template.php:5
+#: admin/template.php:223
+msgid "Show values"
+msgstr "値の表示"
+
+#: admin/form-builder/assets/js/components/field-option-data/template.php:16
+#: admin/template.php:226 admin/template.php:284
+msgid "Label"
+msgstr "ラベル"
+
+#: admin/form-builder/assets/js/components/field-option-data/template.php:20
+#: admin/template.php:226 admin/template.php:284
+msgid "Value"
+msgstr "値"
+
+#: admin/form-builder/assets/js/components/field-option-pro-feature-alert/template.php:4
+msgid "Available in Pro Version"
+msgstr "有料版でのみ使用可能です"
+
+#: admin/form-builder/assets/js/components/field-select/template.php:7
+msgid "Select an option"
+msgstr "オプションを選択してください"
+
+#: admin/form-builder/assets/js/components/form-featured_image/template.php:5
+#: admin/form-builder/assets/js/components/form-image_upload/template.php:5
+#: class/render-form.php:1409
+msgid "Select Image"
+msgstr "画像を選択して追加"
+
+#: admin/form-builder/assets/js/components/form-post_content/template.php:4
+#: class/render-form.php:873
+msgid "Insert Photo"
+msgstr "画像を追加する"
+
+#: admin/form-builder/assets/js/components/form-taxonomy/template.php:12
+msgid "— Select —"
+msgstr "— 選択 —"
+
+#: admin/form-builder/class-wpuf-admin-form-builder-ajax.php:29
+msgid "Unauthorized operation"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-admin-form-builder-ajax.php:34
+msgid "Invalid form id"
+msgstr "フォームIDが無効です"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:291
+msgid "Custom Fields"
+msgstr "カスタムフィールド"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:312
+msgid "Others"
+msgstr "その他"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:328
+msgid "Advanced Options"
+msgstr "詳細設定"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:329
+msgid "Are you sure you want to delete this field?"
+msgstr "このフィールドを本当に削除しますか？"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:330
+msgid "Yes, delete it"
+msgstr "はい"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:331
+msgid "No, cancel it"
+msgstr "いいえ"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:332
+msgid "OK"
+msgstr "OK"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:333
+#: class/payment.php:168 class/subscription.php:829
+#: templates/dashboard/subscription.php:59
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:334
+msgid "Close"
+msgstr "閉じる"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:335
+msgid "This field must contain at least one choice"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:336
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:362
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:402
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:458
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:513
+msgid "Option"
+msgstr "オプション"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:337
+msgid "Column"
+msgstr "列"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:338
+msgid "This field must contain at least one column"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:339
+msgid "is available in Pro version"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:340
+msgid "Please upgrade to the Pro version to unlock all these awesome features"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:341
+msgid "Get the Pro version"
+msgstr "有料版を入手"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:342 admin/form.php:1111
+msgid "Select"
+msgstr "選択"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:343
+msgid "Saved form data"
+msgstr "フォームを保存しました"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:344
+msgid "You have unsaved changes."
+msgstr "変更はありません"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:345
+#: admin/form-builder/views/form-builder.php:45
+msgid "Click to copy shortcode"
+msgstr "ショートコードをクリックしてコピー"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:44
+#: admin/template.php:79
+msgid "Field Label"
+msgstr "フィールド名"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:48
+#: admin/template.php:80
+msgid "Enter a title of this field"
+msgstr "タイトルを入力してください"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:53
+#: admin/template.php:97
+msgid "Help text"
+msgstr "項目の説明文"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:57
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:81
+#: admin/template.php:98
+msgid "Give the user some information about this field"
+msgstr "入力窓下に表示するこのフィールドの説明を入力してください"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:62
+#: admin/template.php:70
+msgid "Required"
+msgstr "必須"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:65
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:429
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:484
+#: admin/post-forms-list-table.php:340 admin/settings-options.php:94
+#: admin/settings-options.php:174 admin/settings-options.php:185
+#: admin/settings-options.php:274 admin/subscription.php:145
+#: admin/template.php:73 includes/free/form-element.php:475
+msgid "Yes"
+msgstr "Yes"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:66
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:430
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:485
+#: admin/post-forms-list-table.php:341 admin/settings-options.php:95
+#: admin/settings-options.php:175 admin/settings-options.php:186
+#: admin/settings-options.php:275 admin/subscription.php:147
+#: admin/template.php:74 includes/free/form-element.php:476
+msgid "No"
+msgstr "No"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:72
+msgid ""
+"Check this option to mark the field required. A form will not submit unless "
+"all required fields are provided."
+msgstr ""
+"チェックすると必須項目になります。この項目を空欄のまま投稿することができなく"
+"なります。"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:77
+#: admin/template.php:102
+msgid "CSS Class Name"
+msgstr "CSS Class名"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:88
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:602
+#: admin/template.php:85 admin/template.php:565
+msgid "Meta Key"
+msgstr "メタキー"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:92
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:606
+#: admin/template.php:86 admin/template.php:566
+msgid "Name of the meta key this field will save to"
+msgstr "テンプレートで使用するメタキーを入力してください"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:110
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:167
+#: admin/template.php:127 admin/template.php:175
+msgid "Placeholder text"
+msgstr "入力例"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:114
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:171
+#: admin/template.php:128
+msgid "Text for HTML5 placeholder attribute"
+msgstr "入力欄へ表示する例文を入力"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:119
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:179
+#: admin/template.php:132 admin/template.php:180
+msgid "Default value"
+msgstr "無記入の場合の値"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:123
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:183
+#: admin/template.php:133
+msgid "The default value this field will have"
+msgstr "入力前に定型値を入れる場合に入力"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:128
+#: admin/template.php:137
+msgid "Size"
+msgstr "サイズ"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:133
+#: admin/template.php:138
+msgid "Size of this input field"
+msgstr "入力枠の大きさ"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:149
+#: admin/template.php:165
+msgid "Rows"
+msgstr "行"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:153
+msgid "Number of rows in textarea"
+msgstr "複数行テキスト項目の行数を設定します"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:158
+#: admin/template.php:170
+msgid "Columns"
+msgstr "文字数数"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:162
+msgid "Number of columns in textarea"
+msgstr "複数行テキスト項目の１行あたりの文字数を設定します"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:188
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:276
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:283
+#: admin/template.php:185
+msgid "Textarea"
+msgstr "複数行のテキスト"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:191
+#: admin/template.php:188
+msgid "Normal"
+msgstr "標準"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:192
+#: admin/template.php:189
+msgid "Rich textarea"
+msgstr "リッチテキスト"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:193
+#: admin/template.php:190
+msgid "Teeny Rich textarea"
+msgstr "簡易リッチテキスト"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:202
+#: admin/template-post.php:53 admin/template.php:363
+msgid "Word Restriction"
+msgstr "文字数の制限"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:206
+#: admin/template-post.php:57 admin/template.php:367
+msgid "Numebr of words the author to be restricted in"
+msgstr "投稿できる最大文字数を数字で設定します"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:223
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:363
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:403
+msgid "- select -"
+msgstr "--選択してください--"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:241
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:248
+msgid "Text"
+msgstr "テキスト"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:313
+#: admin/template.php:388 admin/template.php:412 admin/template.php:444
+#: admin/template.php:476 templates/dashboard/posts.php:84
+#: templates/dashboard.php:38
+msgid "Options"
+msgstr "設定"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:318
+msgid "Add options for the form field"
+msgstr "項目にオプションを追加"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:337
+#: admin/template.php:439 admin/template.php:471
+msgid "Select Text"
+msgstr "選択フィールドの文字列"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:341
+#: admin/template.php:428 admin/template.php:460
+msgid ""
+"First element of the select dropdown. Leave this empty if you don't want to "
+"show this field"
+msgstr ""
+"選択ドロップダウンの最初の要素。このフィールドを表示したくない場合は、この空"
+"のままにします"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:349
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:356
+#: admin/template-post.php:166
+msgid "Dropdown"
+msgstr "ドロップダウン"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:389
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:396
+#: admin/form.php:1112 admin/template-post.php:167
+msgid "Multi Select"
+msgstr "複数選択"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:426
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:481
+msgid "Show in inline list"
+msgstr "選択項目を表示"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:436
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:491
+msgid "Show this option in an inline list"
+msgstr "選択項目をリスト表示します"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:444
+msgid "Radio"
+msgstr "ラジオボタン"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:451
+msgid "Radio Field"
+msgstr "ラジオボタンの項目です"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:499
+#: admin/form.php:1113 admin/template-post.php:168
+msgid "Checkbox"
+msgstr "チェックボックス"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:506
+msgid "Checkbox Field"
+msgstr "チェックボックスの項目です"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:534
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:541
+msgid "URL"
+msgstr "URL"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:569
+msgid "Email Address"
+msgstr "メールアドレス"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:576
+#: admin/form.php:286 class/transactions-list-table.php:48
+#: includes/free/edit-user.php:153
+msgid "Email"
+msgstr "メール"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:611
+#: admin/template.php:572
+msgid "Meta Value"
+msgstr "値"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:615
+#: admin/template.php:573
+msgid "Enter the meta value"
+msgstr ""
+" meta値を入力してください（ショートコードで任意の場所に項目を呼び出す際に利用"
+"します）"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:621
+msgid "Hidden Field"
+msgstr "表示しない項目"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:651
+#: admin/form.php:1030 admin/template-post.php:115 admin/template.php:636
+msgid "Max. file size"
+msgstr "最大ファイルサイズ"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:655
+#: admin/form.php:1034 admin/template-post.php:103 admin/template.php:624
+msgid "Enter maximum upload size limit in KB"
+msgstr "アップロードサイズの上限を数字で入力（単位：ＫＢ）"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:660
+#: admin/template.php:641
+msgid "Max. files"
+msgstr "最大ファイル数"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:664
+#: admin/template.php:625
+msgid "Number of images can be uploaded"
+msgstr "アップロードできる画像の数"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:670
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:677
+#: includes/free/form-element.php:8
+msgid "Image Upload"
+msgstr "画像のアップロード"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:702
+#: admin/template.php:534 admin/template.php:594 class/upload.php:164
+#: templates/dashboard/posts.php:74 templates/dashboard.php:28
+#: wpuf-functions.php:703
+msgid "Title"
+msgstr "タイトル"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:706
+msgid "Title of the section"
+msgstr "投稿タイトルになります"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:711
+#: admin/subscription.php:206 admin/template.php:599 class/upload.php:166
+#: wpuf-functions.php:709
+msgid "Description"
+msgstr "詳細"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:715
+msgid "Some details text about the section"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:721
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:727
+msgid "Section Break"
+msgstr "フォームの区切り"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:728
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:764
+msgid "Some description about this section"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:747
+#: admin/template.php:539
+msgid "HTML Codes"
+msgstr "HTMLコード"
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:751
+msgid "Paste your HTML codes, WordPress shortcodes will also work here"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:757
+#: admin/form-builder/class-wpuf-form-builder-field-settings.php:763
+msgid "Custom HTML"
+msgstr ""
+
+#: admin/form-builder/views/form-builder.php:5
+msgid "Form Editor"
+msgstr "フォーム"
+
+#: admin/form-builder/views/form-builder.php:9 admin/settings.php:72
+msgid "Settings"
+msgstr "設定"
+
+#: admin/form-builder/views/form-builder.php:16
+msgid "Save Form"
+msgstr "フォームを保存"
+
+#: admin/form-builder/views/form-builder.php:20
+msgid "Saving Form Data"
+msgstr "フォームのデータを保存します"
+
+#: admin/form-builder/views/form-builder.php:42
+msgid "Click to copy %s shortcode"
+msgstr "%sをクリックしてショートコードをコピー"
+
+#: admin/form-builder/views/form-builder.php:72
+msgid "Add Fields"
+msgstr "項目を追加"
+
+#: admin/form-builder/views/form-builder.php:78
+msgid "Field Options"
+msgstr "項目のオプション"
+
+#: admin/form-handler.php:5 admin/form.php:38 admin/settings.php:55
+msgid "User Frontend"
+msgstr "User Frontend"
+
+#: admin/form-handler.php:56 admin/form-handler.php:183
+msgid "You do not have sufficient permissions to do this action"
+msgstr "この作業を行う権限がありません"
+
+#: admin/form-handler.php:319 admin/form-handler.php:339
+msgid "%d form moved to the trash."
+msgid_plural "%d forms moved to the trash."
+msgstr[0] "%dのフォームをゴミ箱へ移動しました"
+
+#: admin/form-handler.php:323 admin/form-handler.php:343
+msgid "%d form restored from the trash."
+msgid_plural "%d forms restored from the trash."
+msgstr[0] "%dのフォームがゴミ箱から復元されました"
+
+#: admin/form-handler.php:327 admin/form-handler.php:347
+msgid "%d form permanently deleted."
+msgid_plural "%d forms permanently deleted."
+msgstr[0] "%dのフォームは完全に削除されました"
+
+#: admin/form-handler.php:332 admin/form-handler.php:352
+msgid "Form duplicated successfully. <a href=\"%s\">View form.</a>"
+msgstr "フォームを複製しました。<a href=\"%s\">フォームを表示</a>"
+
+#: admin/form-template.php:166
+msgid "Form Template"
+msgstr "フォームのテンプレート"
+
+#: admin/form-template.php:169
+msgid "&mdash; No Template &mdash;"
+msgstr "テンプレートなし"
+
+#: admin/form-template.php:178
+msgid ""
+"If selected a form template, it will try to execute that integration options "
+"when new post created and updated."
+msgstr ""
+
+#: admin/form.php:51 admin/form.php:71 admin/form.php:73 admin/form.php:109
+msgid "Forms"
+msgstr "フォーム"
+
+#: admin/form.php:72 admin/form.php:110
+msgid "Form"
+msgstr "フォーム"
+
+#: admin/form.php:74 admin/form.php:112 admin/post-forms-list-table-view.php:8
+msgid "Add Form"
+msgstr "新規フォーム追加"
+
+#: admin/form.php:75 admin/form.php:113
+msgid "Add New Form"
+msgstr "フォームの新規作成"
+
+#: admin/form.php:76 admin/form.php:114 admin/installer.php:75
+#: admin/post-forms-list-table.php:387 admin/subscription.php:227
+#: class/subscription.php:361 includes/free/edit-user.php:100
+#: templates/dashboard/posts.php:150 templates/dashboard.php:105
+msgid "Edit"
+msgstr "編集"
+
+#: admin/form.php:77 admin/form.php:115
+msgid "Edit Form"
+msgstr "フォームの編集"
+
+#: admin/form.php:78 admin/form.php:116
+msgid "New Form"
+msgstr "新しいフォーム"
+
+#: admin/form.php:79 admin/form.php:80 admin/form.php:117 admin/form.php:118
+msgid "View Form"
+msgstr "フォームの表示"
+
+#: admin/form.php:81 admin/form.php:119
+msgid "Search Form"
+msgstr "フォーム検索"
+
+#: admin/form.php:82 admin/form.php:120
+msgid "No Form Found"
+msgstr "フォームが見つかりませんでした"
+
+#: admin/form.php:83 admin/form.php:121
+msgid "No Form Found in Trash"
+msgstr "ゴミ箱にフォームがありませんでした"
+
+#: admin/form.php:84 admin/form.php:122
+msgid "Parent Form"
+msgstr "親フォーム"
+
+#: admin/form.php:89
+msgid "Registraton Forms"
+msgstr "メンバー登録フォーム"
+
+#: admin/form.php:111 includes/free/loader.php:65
+msgid "Registration Forms"
+msgstr "メンバー登録フォーム"
+
+#: admin/form.php:196 includes/free/form-element.php:211
+#: includes/free/form-element.php:248
+msgid "Notification"
+msgstr "通知"
+
+#: admin/form.php:229
+msgid "Post Settings"
+msgstr "投稿設定"
+
+#: admin/form.php:230
+msgid "Edit Settings"
+msgstr "編集設定"
+
+#: admin/form.php:231 includes/free/form-element.php:55
+msgid "Post Expiration"
+msgstr "投稿の期限"
+
+#: admin/form.php:276
+msgid "This page is restricted. Please Log in / Register to view this page."
+msgstr ""
+"このページはログインしているユーザーのみ見ることができます。閲覧するにはユー"
+"ザー登録してください。"
+
+#: admin/form.php:285 admin/form.php:1127 admin/subscription.php:205
+#: admin/template-post.php:177 includes/free/edit-profile.php:92
+msgid "Name"
+msgstr "名前"
+
+#: admin/form.php:290
+msgid "Post saved"
+msgstr "投稿は保存されました"
+
+#: admin/form.php:291 admin/form.php:536
+msgid "Post updated successfully"
+msgstr "投稿の更新が完了しました"
+
+#: admin/form.php:296
+msgid "Submit"
+msgstr "送信する"
+
+#: admin/form.php:297 admin/form.php:791 class/render-form.php:587
+msgid "Save Draft"
+msgstr "下書きとして保存"
+
+#: admin/form.php:298
+msgid "Preview"
+msgstr "プレビュー"
+
+#: admin/form.php:306 admin/form.php:310
+msgid "Disable Subscription"
+msgstr "投稿の機能を停止する"
+
+#: admin/form.php:313
+msgid ""
+"If checked, any subscription and pay-per-post will be disabled on the form "
+"and will take no effect."
+msgstr "チェックするとこのフォームを使った投稿を停止します"
+
+#: admin/form.php:318 admin/post-forms-list-table.php:292
+msgid "Post Type"
+msgstr "投稿タイプ"
+
+#: admin/form.php:338 admin/post-forms-list-table.php:293
+msgid "Post Status"
+msgstr "投稿の状態"
+
+#: admin/form.php:352
+msgid "Post Format"
+msgstr "投稿の形式"
+
+#: admin/form.php:355 admin/form.php:378
+msgid "- None -"
+msgstr "- なし -"
+
+#: admin/form.php:370
+msgid "Default Post Category"
+msgstr "基本カテゴリー"
+
+#: admin/form.php:382
+msgid ""
+"If users are not allowed to choose any category, this category will be used "
+"instead (if post type supports)"
+msgstr ""
+"ユーザーが任意のカテゴリを選択することが許可されていない場合は、このカテゴリ"
+"が代わりに使用されます（ポストタイプがサポートされている場合）"
+
+#: admin/form.php:387 admin/post-forms-list-table.php:294
+msgid "Guest Post"
+msgstr "訪問者の投稿"
+
+#: admin/form.php:392
+msgid "Enable Guest Post"
+msgstr "訪問者の投稿を許可する"
+
+#: admin/form.php:394
+msgid "Unregistered users will be able to submit posts"
+msgstr "チェックを入れると登録ユーザー以外でも投稿できるようになります"
+
+#: admin/form.php:399
+msgid "User Details"
+msgstr "ユーザーについて"
+
+#: admin/form.php:404
+msgid "Require Name and Email address"
+msgstr "ユーザー名およびメールアドレスを必須にする"
+
+#: admin/form.php:406
+msgid ""
+"If requires, users will be automatically registered to the site using the "
+"name and email address"
+msgstr ""
+
+#: admin/form.php:411
+msgid "Name Label"
+msgstr "名前ラベル"
+
+#: admin/form.php:416
+msgid "Label text for name field"
+msgstr "名前フィールドの文字列"
+
+#: admin/form.php:421
+msgid "E-Mail Label"
+msgstr "メールアドレスラベル"
+
+#: admin/form.php:426
+msgid "Label text for email field"
+msgstr "メール項目の文字列"
+
+#: admin/form.php:431 admin/settings-options.php:231
+msgid "Unauthorized Message"
+msgstr "未ログイン状態の場合のメッセージ"
+
+#: admin/form.php:434 admin/settings-options.php:232
+msgid "Not logged in users will see this message"
+msgstr "ログインしていないユーザーに対するメッセージを設定します"
+
+#: admin/form.php:439 admin/form.php:562 includes/free/form-element.php:374
+msgid "Redirect To"
+msgstr "リダイレクト先"
+
+#: admin/form.php:444 admin/form.php:567
+msgid "Newly created post"
+msgstr "新規投稿追加画面"
+
+#: admin/form.php:445 admin/form.php:568 includes/free/form-element.php:379
+msgid "Same Page"
+msgstr "同一ページ"
+
+#: admin/form.php:446 admin/form.php:569 includes/free/form-element.php:380
+msgid "To a page"
+msgstr "指定ページへ"
+
+#: admin/form.php:447 admin/form.php:570 includes/free/form-element.php:381
+msgid "To a custom URL"
+msgstr "指定URLへ"
+
+#: admin/form.php:456 admin/form.php:579 includes/free/form-element.php:390
+msgid "After successfull submit, where the page will redirect to"
+msgstr "投稿完了後のリダイレクト先を選択します"
+
+#: admin/form.php:462
+msgid "Message to show"
+msgstr "メッセージを表示する"
+
+#: admin/form.php:469 admin/form.php:592 includes/free/form-element.php:410
+msgid "Page"
+msgstr "固定ページ"
+
+#: admin/form.php:484 admin/form.php:607 includes/free/form-element.php:425
+msgid "Custom URL"
+msgstr "カスタムURL"
+
+#: admin/form.php:491
+msgid "Comment Status"
+msgstr "コメントの状態"
+
+#: admin/form.php:494
+msgid "Open"
+msgstr "オープン（コメント使用）"
+
+#: admin/form.php:495
+msgid "Closed"
+msgstr "クローズ（禁止）"
+
+#: admin/form.php:501
+msgid "Submit Post Button text"
+msgstr "送信ボタンの文言"
+
+#: admin/form.php:508
+msgid "Post Draft"
+msgstr "投稿の下書き"
+
+#: admin/form.php:513
+msgid "Enable Saving as draft"
+msgstr "下書きとして保存できる"
+
+#: admin/form.php:515
+msgid "It will show a button to save as draft"
+msgstr "下書き保存ボタンを表示する"
+
+#: admin/form.php:539
+msgid "Update"
+msgstr "更新"
+
+#: admin/form.php:545
+msgid "Set Post Status to"
+msgstr "投稿の状態"
+
+#: admin/form.php:555
+msgid "No Change"
+msgstr "変更しない"
+
+#: admin/form.php:585
+msgid "Post Update Message"
+msgstr "投稿更新時の文言"
+
+#: admin/form.php:614
+msgid "Subscription Title"
+msgstr "課金投稿のタイトル"
+
+#: admin/form.php:623
+msgid "Update Post Button text"
+msgstr "更新ボタンの文言"
+
+#: admin/form.php:645 admin/form.php:649
+msgid "- Select -"
+msgstr "- 選択してください -"
+
+#: admin/form.php:683
+msgid "Post Fields"
+msgstr "投稿項目"
+
+#: admin/form.php:689
+msgid "Taxonomies"
+msgstr "タクソノミー"
+
+#: admin/form.php:901 admin/form.php:908
+msgid "Post Title"
+msgstr "記事タイトル"
+
+#: admin/form.php:937 admin/template-post.php:43
+msgid "Enable Image Insertion"
+msgstr "画像追加ボタン"
+
+#: admin/form.php:939 admin/template-post.php:49
+msgid "Enable image upload in post area"
+msgstr "画像アップロード用のボタンを付加する"
+
+#: admin/form.php:948 admin/form.php:955
+msgid "Post Body"
+msgstr "記事本文"
+
+#: admin/form.php:992 admin/form.php:999
+msgid "Excerpt"
+msgstr "要約"
+
+#: admin/form.php:1040 admin/form.php:1047 templates/dashboard/posts.php:71
+#: templates/dashboard.php:25
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: admin/form.php:1074 admin/form.php:1080
+msgid "Tags"
+msgstr "タグ"
+
+#: admin/form.php:1108 admin/template-post.php:164
+msgid "Type"
+msgstr "投稿タイプ"
+
+#: admin/form.php:1114 admin/template-post.php:169
+msgid "Text Input"
+msgstr "文字入力欄"
+
+#: admin/form.php:1115 admin/template-post.php:170
+msgid "Ajax"
+msgstr "Ajax"
+
+#: admin/form.php:1124 admin/template-post.php:175
+msgid "Order By"
+msgstr "並び替え"
+
+#: admin/form.php:1128 admin/template-post.php:178
+msgid "Term ID"
+msgstr "カテゴリーID"
+
+#: admin/form.php:1129 admin/template-post.php:179
+msgid "Slug"
+msgstr "スラグ"
+
+#: admin/form.php:1130 admin/template-post.php:180
+msgid "Count"
+msgstr "投稿数"
+
+#: admin/form.php:1131 admin/template-post.php:181
+msgid "Term Group"
+msgstr "グループ"
+
+#: admin/form.php:1140 admin/template-post.php:186
+msgid "Order"
+msgstr "並び順"
+
+#: admin/form.php:1144 admin/template-post.php:188
+msgid "ASC"
+msgstr "昇順"
+
+#: admin/form.php:1145 admin/template-post.php:189
+msgid "DESC"
+msgstr "降順"
+
+#: admin/form.php:1154 admin/template-post.php:194
+msgid "Selection Type"
+msgstr "下欄で選択したカテゴリーを"
+
+#: admin/form.php:1157 admin/template-post.php:196
+msgid "Exclude"
+msgstr "除外する"
+
+#: admin/form.php:1158 admin/template-post.php:197
+msgid "Include"
+msgstr "含める"
+
+#: admin/form.php:1159 admin/template-post.php:198
+msgid "Child of"
+msgstr "子カテゴリー"
+
+#: admin/form.php:1168
+msgid "Selection Terms"
+msgstr ""
+
+#: admin/form.php:1172 admin/template-post.php:204
+msgid ""
+"Enter the term IDs as comma separated (without space) to exclude/include in "
+"the form."
+msgstr "複数のカテゴリーを選択する場合には「,」で区切ってください"
+
+#: admin/form.php:1180 admin/template-post.php:214
+msgid "This taxonomy is a WooCommerce attribute"
+msgstr "このカテゴリーはWooCommerce属性"
+
+#: admin/form.php:1191 admin/template-post.php:226
+msgid "Visible on product page"
+msgstr "プロダクトページの表示"
+
+#: admin/form.php:1239
+msgid "Post Forms must have either Post Title, Post Body or Excerpt field"
+msgstr ""
+
+#: admin/html/modal.php:4
+msgid "Modal window. Press escape to close."
+msgstr "「ESC」押下で閉じる"
+
+#: admin/html/modal.php:5
+msgid "Close modal window"
+msgstr "ウインドウを閉じる"
+
+#: admin/html/modal.php:9
+msgid "Select a Template"
+msgstr "テンプレートを選択"
+
+#: admin/html/modal.php:12
+msgid ""
+"Select from a pre-defined template or from a <a href=\"%s\">blank form</a>"
+msgstr "<a href=\"%s\">空のフォーム</a>か標準のフォームを選択してください"
+
+#: admin/html/modal.php:25
+msgid "Blank Form"
+msgstr "空のフォーム"
+
+#: admin/html/modal.php:42
+msgid "This integration is not installed."
+msgstr "この機能はインストールされていません"
+
+#: admin/html/modal.php:59
+msgid ""
+"List of available templates can be found <a href=\"%s\" target=\"_blank"
+"\">here</a>."
+msgstr ""
+"利用できるテンプレートのリストは<a href=\"%s\" target=\"_blank\">こちら</a>"
+
+#: admin/html/modal.php:60
+msgid ""
+"Want a new integration? <a href=\"%s\" target=\"_blank\">Let us know</a>."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">ここ</a>をクリックして新しい機能を探す"
+
+#: admin/installer.php:27
+msgid ""
+"If you have not created <strong>WP User Frontend Pro</strong> pages yet, you "
+"can do this by one click."
+msgstr "<strong>有料版</strong>のみ追加できます"
+
+#: admin/installer.php:30 admin/tools.php:348
+msgid "Install WPUF Pages"
+msgstr "WPUF標準の管理ページをすべて追加する"
+
+#: admin/installer.php:32
+msgid "Skip Setup"
+msgstr "設定をスキップする"
+
+#: admin/installer.php:42
+msgid "Congratulations!"
+msgstr "成功しました"
+
+#: admin/installer.php:42
+msgid ""
+"Pages for <strong>WP User Frontend Pro</strong> has been successfully "
+"installed and saved!"
+msgstr ""
+
+#: admin/installer.php:73 admin/settings-options.php:17 wpuf-functions.php:1320
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: admin/installer.php:74
+msgid "Account"
+msgstr "アカウント"
+
+#: admin/installer.php:78
+msgid "Login"
+msgstr "ログイン"
+
+#: admin/installer.php:83 class/subscription.php:336 class/subscription.php:356
+#: class/subscription.php:357 class/subscription.php:358
+#: wpuf-functions.php:1322
+msgid "Subscription"
+msgstr "投稿課金"
+
+#: admin/installer.php:83
+msgid "[wpuf_sub_pack]"
+msgstr "[wpuf_sub_pack]"
+
+#: admin/installer.php:84 templates/dashboard/posts.php:81
+#: templates/dashboard.php:35
+msgid "Payment"
+msgstr "支払"
+
+#: admin/installer.php:84
+msgid "Please select a gateway for payment"
+msgstr ""
+
+#: admin/installer.php:85
+msgid "Thank You"
+msgstr "ありがとうございます"
+
+#: admin/installer.php:85
+msgid ""
+"<h1>Payment is complete</h1><p>Congratulations, your payment has been "
+"completed!</p>"
+msgstr ""
+
+#: admin/installer.php:86
+msgid "Order Received"
+msgstr ""
+
+#: admin/installer.php:86
+msgid ""
+"Hi, we have received your order. We will validate the order and will take "
+"necessary steps to move forward."
+msgstr ""
+
+#: admin/installer.php:165
+msgid "Registration"
+msgstr "新規登録"
+
+#: admin/installer.php:174
+msgid "Sample Form"
+msgstr "サンプルフォーム"
+
+#: admin/post-forms-list-table-view.php:4 admin/settings.php:57
+msgid "Post Forms"
+msgstr "投稿フォーム"
+
+#: admin/post-forms-list-table-view.php:23
+msgid "Search Forms"
+msgstr "検索フォーム"
+
+#: admin/post-forms-list-table.php:38 admin/tools.php:38 admin/tools.php:94
+#: class/transactions-list-table.php:85
+msgid "All"
+msgstr "すべて承認が必要"
+
+#: admin/post-forms-list-table.php:39 wpuf-functions.php:61
+msgid "Published"
+msgstr "公開済み"
+
+#: admin/post-forms-list-table.php:40 admin/post-forms-list-table.php:388
+msgid "Trash"
+msgstr "ゴミ箱"
+
+#: admin/post-forms-list-table.php:90
+msgid "No form found."
+msgstr "フォームはありません"
+
+#: admin/post-forms-list-table.php:104
+msgid "Move to Trash"
+msgstr "ゴミ箱へ移動"
+
+#: admin/post-forms-list-table.php:108 admin/post-forms-list-table.php:400
+msgid "Restore"
+msgstr "復元"
+
+#: admin/post-forms-list-table.php:109 admin/post-forms-list-table.php:401
+msgid "Delete Permanently"
+msgstr "完全に削除"
+
+#: admin/post-forms-list-table.php:291
+msgid "Form Name"
+msgstr "フォームの名前"
+
+#: admin/post-forms-list-table.php:295
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: admin/post-forms-list-table.php:389
+msgid "Duplicate"
+msgstr "複製"
+
+#: admin/post-forms-list-table.php:410 wpuf-functions.php:65
+msgid "Draft"
+msgstr "下書き"
+
+#: admin/posting.php:52 class/render-form.php:1421 wpuf.php:350
+msgid "Are you sure?"
+msgstr "ログアウトしますか？"
+
+#: admin/posting.php:58 wpuf.php:356
+msgid "Allowed Files"
+msgstr "ファイルを許可しました"
+
+#: admin/posting.php:61 wpuf.php:359
+msgid "Maximum number of files reached!"
+msgstr "ファイルの数が多すぎます"
+
+#: admin/posting.php:62 wpuf.php:360
+msgid ""
+"The file you have uploaded exceeds the file size limit. Please try again."
+msgstr "ファイルのサイズが大きすぎます"
+
+#: admin/posting.php:63 wpuf.php:361
+msgid "You have uploaded an incorrect file type. Please try again."
+msgstr "このファイルの種類は使用できません"
+
+#: admin/posting.php:72
+msgid "WPUF Custom Fields"
+msgstr "WPUFカスタムフィールド"
+
+#: admin/posting.php:100
+msgid "No custom fields found."
+msgstr "カスタムフィールドがありません"
+
+#: admin/promotion.php:38
+msgid "Pro upgrade and all extensions, "
+msgstr ""
+
+#: admin/promotion.php:38
+msgid "all extensions, "
+msgstr ""
+
+#: admin/promotion.php:40
+msgid ""
+"<h2><span class=\"dashicons dashicons-awards\"></span> weDevs 4th Year "
+"Anniversary Offer</h2>"
+msgstr ""
+
+#: admin/promotion.php:41
+msgid ""
+"<p>Get <strong class=\"highlight-text\">44&#37; discount</strong> on %2$s "
+"also <a target=\"_blank\" href=\"%1$s\"><strong>WIN any product</strong></a> "
+"from our 4th year anniversary giveaway. Offer ending soon!</p>"
+msgstr ""
+
+#: admin/settings-options.php:13
+msgid "General Options"
+msgstr "基本設定"
+
+#: admin/settings-options.php:21
+msgid "Login / Registration"
+msgstr "ユーザーログイン/新規登録（Pro）"
+
+#: admin/settings-options.php:25
+msgid "Payments"
+msgstr "支払い管理（Pro）"
+
+#: admin/settings-options.php:29
+msgid "Support"
+msgstr "サポート情報"
+
+#: admin/settings-options.php:53
+msgid "Fixed Form Elements "
+msgstr "フォームの要素を固定する"
+
+#: admin/settings-options.php:54
+msgid "Show fixed form elements sidebar in form editor"
+msgstr ""
+"サイドバーに表示するフォームの要素を固定表示する場合にはチェックを入れる"
+
+#: admin/settings-options.php:60
+msgid "Edit Page"
+msgstr "編集ページ"
+
+#: admin/settings-options.php:61
+msgid "Select the page where [wpuf_edit] is located"
+msgstr " [wpuf_edit] ショートコードを挿入した固定ページの名前を選択する"
+
+#: admin/settings-options.php:67
+msgid "Default Post Owner"
+msgstr "標準の記事管理者"
+
+#: admin/settings-options.php:68
+msgid ""
+"If guest post is enabled and user details are OFF, the posts are assigned to "
+"this user"
+msgstr ""
+"訪問者からの投稿を受け付けたとき、投稿者を管理者にする場合にはチェックを入れ"
+"る"
+
+#: admin/settings-options.php:75
+msgid "Admin area access"
+msgstr "管理画面へのアクセス"
+
+#: admin/settings-options.php:76
+msgid "Allow you to block specific user role to WordPress admin area."
+msgstr "Wordpressの管理画面へアクセスできる権限を設定する"
+
+#: admin/settings-options.php:80
+msgid "Admin Only"
+msgstr "管理者のみ"
+
+#: admin/settings-options.php:81
+msgid "Admins, Editors"
+msgstr "管理者と編集者"
+
+#: admin/settings-options.php:82
+msgid "Admins, Editors, Authors"
+msgstr "管理者と編集者と投稿者"
+
+#: admin/settings-options.php:83
+msgid "Admins, Editors, Authors, Contributors"
+msgstr "管理者・編集者・投稿者・寄稿者"
+
+#: admin/settings-options.php:84
+msgid "Default"
+msgstr "ワードプレスの標準設定"
+
+#: admin/settings-options.php:89
+msgid "Override the post edit link"
+msgstr "投稿の編集リンクを上書きします"
+
+#: admin/settings-options.php:90
+msgid ""
+"Users see the edit link in post if s/he is capable to edit the post/page. "
+"Selecting <strong>Yes</strong> will override the default WordPress edit post "
+"link in frontend"
+msgstr ""
+"フロントエンドの「編集」リンクがクリックされたとき、このプラグインの編集機能"
+"を使用するようにします"
+
+#: admin/settings-options.php:100
+msgid "Custom Fields in post"
+msgstr "投稿にカスタムフィールドの値をすべて挿入する"
+
+#: admin/settings-options.php:101
+msgid "Show custom fields on post content area"
+msgstr "カスタムフィールドの値を投稿編集画面に表示する"
+
+#: admin/settings-options.php:107
+msgid "Load Scripts"
+msgstr "スクリプトを有効にする"
+
+#: admin/settings-options.php:108
+msgid "Load scripts/styles in all pages"
+msgstr "全てのページでscriptsやstylesの動作を有効にします"
+
+#: admin/settings-options.php:114
+msgid "Insert Photo image size"
+msgstr "挿入する画像の最大サイズ"
+
+#: admin/settings-options.php:115
+msgid ""
+"Default image size of \"<strong>Insert Photo</strong>\" button in post "
+"content area"
+msgstr ""
+"投稿本文の<strong>画像を挿入</strong>ボタンで挿入される画像の標準サイズを設定"
+"します"
+
+#: admin/settings-options.php:122
+msgid "Insert Photo image type"
+msgstr "挿入する写真画像の種類"
+
+#: admin/settings-options.php:123
+msgid ""
+"Default image type of \"<strong>Insert Photo</strong>\" button in post "
+"content area"
+msgstr ""
+"本文の<strong>画像を挿入</strong>ボタンで挿入される画像の種類を設定します"
+
+#: admin/settings-options.php:126
+msgid "Image only"
+msgstr "画像のみ"
+
+#: admin/settings-options.php:127
+msgid "Image with link"
+msgstr "画像にリンクを付加する"
+
+#: admin/settings-options.php:133
+msgid "Enable Image Caption"
+msgstr "画像の説明を付加する"
+
+#: admin/settings-options.php:134
+msgid "Allow users to update image/video title, caption and description"
+msgstr ""
+"アップロードする画像に「タイトル」「抜粋」「キャプション」を設定できるように"
+"する"
+
+#: admin/settings-options.php:140
+msgid "Default Post Form"
+msgstr "基本フォーム"
+
+#: admin/settings-options.php:141
+msgid "Fallback form for post editing if no associated form found"
+msgstr ""
+"フォームを削除したなどの理由で正常にフォームが呼び出せなかったときの代替"
+"フォームを設定します"
+
+#: admin/settings-options.php:147
+msgid "reCAPTCHA Site Key"
+msgstr ""
+
+#: admin/settings-options.php:151
+msgid "reCAPTCHA Secret Key"
+msgstr ""
+
+#: admin/settings-options.php:152
+msgid ""
+"<a target=\"_blank\" href=\"https://www.google.com/recaptcha/\">Register "
+"here</a> to get reCaptcha Site and Secret keys."
+msgstr ""
+
+#: admin/settings-options.php:156
+msgid "Google Map API"
+msgstr "Google Map API"
+
+#: admin/settings-options.php:157
+msgid ""
+"<a target=\"_blank\" href=\"https://developers.google.com/maps/documentation/"
+"javascript\">API</a> key is needed to render Google Maps"
+msgstr ""
+"<a target=\"_blank\" href=\"https://developers.google.com/maps/documentation/"
+"javascript\">API</a> key is needed to render Google Maps"
+
+#: admin/settings-options.php:161
+msgid "Custom CSS codes"
+msgstr "カスタムCSSコード"
+
+#: admin/settings-options.php:162
+msgid ""
+"If you want to add your custom CSS code, it will be added on page header "
+"wrapped with style tag"
+msgstr ""
+"ここにカスタムCSSコードを記述することで、ページヘッダーにスタイルタグが挿入さ"
+"れます"
+
+#: admin/settings-options.php:169
+msgid "Users can edit post?"
+msgstr "ユーザーが投稿を編集できるようにする"
+
+#: admin/settings-options.php:170
+msgid "Users will be able to edit their own posts"
+msgstr "ユーザーが自身の投稿を編集できるようにするにはチェックを入れる"
+
+#: admin/settings-options.php:180
+msgid "User can delete post?"
+msgstr "ユーザーが投稿を削除できるようにする"
+
+#: admin/settings-options.php:181
+msgid "Users will be able to delete their own posts"
+msgstr "ユーザーが自身の投稿を削除できるようにするにはチェックを入れる"
+
+#: admin/settings-options.php:191
+msgid "Pending Post Edit"
+msgstr "編集の中断"
+
+#: admin/settings-options.php:192
+msgid "Disable post editing while post in \"pending\" status"
+msgstr "中断になっている投稿の編集を無効にします"
+
+#: admin/settings-options.php:198
+msgid "Posts per page"
+msgstr "１ページにあたりの投稿数"
+
+#: admin/settings-options.php:199
+msgid "How many posts will be listed in a page"
+msgstr "１ページに表示する投稿数を設定します"
+
+#: admin/settings-options.php:205
+msgid "Show user bio"
+msgstr "ユーザーの自己紹介を表示"
+
+#: admin/settings-options.php:206
+msgid "Users biographical info will be shown"
+msgstr "ユーザーの自己紹介へ入力した文章を表示します"
+
+#: admin/settings-options.php:212
+msgid "Show post count"
+msgstr "投稿数を表示"
+
+#: admin/settings-options.php:213
+msgid "Show how many posts are created by the user"
+msgstr "ユーザーが作成した投稿の数を表示する"
+
+#: admin/settings-options.php:219
+msgid "Show Featured Image"
+msgstr "アイキャッチ画像を表示する"
+
+#: admin/settings-options.php:220
+msgid "Show featured image of the post"
+msgstr "投稿のアイキャッチ画像を表示する"
+
+#: admin/settings-options.php:225
+msgid "Featured Image size"
+msgstr "アイキャッチ画像のサイズ"
+
+#: admin/settings-options.php:239
+msgid "Auto Login After Registration"
+msgstr "新規ユーザー登録後自動的にログインする"
+
+#: admin/settings-options.php:240
+msgid "If enabled, users after registration will be logged in to the system"
+msgstr "有効化すると登録後に自動ログインします"
+
+#: admin/settings-options.php:246
+msgid "Login/Registration override"
+msgstr "ログイン／新規登録を上書きします"
+
+#: admin/settings-options.php:247
+msgid ""
+"If enabled, default login and registration forms will be overridden by WPUF "
+"with pages below"
+msgstr "有効化するとログインと登録ページをWPUFのページと置き換えます"
+
+#: admin/settings-options.php:253
+msgid "Registration Page"
+msgstr "新規ユーザー登録ページ"
+
+#: admin/settings-options.php:254
+msgid ""
+"Select the page you want to use as registration page override <em>(should "
+"have shortcode)</em>"
+msgstr ""
+
+#: admin/settings-options.php:260
+msgid "Login Page"
+msgstr "ログインページ"
+
+#: admin/settings-options.php:261
+msgid "Select the page which contains <code>[wpuf-login]</code> shortcode"
+msgstr ""
+
+#: admin/settings-options.php:269
+msgid "Charge for posting"
+msgstr ""
+
+#: admin/settings-options.php:270
+msgid "Charge user for submitting a post"
+msgstr ""
+
+#: admin/settings-options.php:280
+msgid "Force pack purchase"
+msgstr ""
+
+#: admin/settings-options.php:281
+msgid "When active, users must have to buy a pack for posting"
+msgstr ""
+
+#: admin/settings-options.php:285
+msgid "Disable"
+msgstr "無効"
+
+#: admin/settings-options.php:286
+msgid "Enable"
+msgstr "有効"
+
+#: admin/settings-options.php:291
+msgid "Subscription Pack Page"
+msgstr "投稿毎の課金ページ"
+
+#: admin/settings-options.php:292
+msgid "Select the page where <code>[wpuf_sub_pack]</code> located."
+msgstr ""
+
+#: admin/settings-options.php:298
+msgid "Subscription at registration"
+msgstr ""
+
+#: admin/settings-options.php:299
+msgid "Registration time redirect to subscription page"
+msgstr ""
+
+#: admin/settings-options.php:304
+msgid "Currency"
+msgstr ""
+
+#: admin/settings-options.php:311
+msgid "Currency Position"
+msgstr ""
+
+#: admin/settings-options.php:315
+msgid "Left"
+msgstr "左"
+
+#: admin/settings-options.php:316
+msgid "Right"
+msgstr "右"
+
+#: admin/settings-options.php:317
+msgid "Left with space"
+msgstr ""
+
+#: admin/settings-options.php:318
+msgid "Right with space"
+msgstr ""
+
+#: admin/settings-options.php:323
+msgid "Thousand Separator"
+msgstr ""
+
+#: admin/settings-options.php:324
+msgid "This sets the thousand separator of displayed prices."
+msgstr ""
+
+#: admin/settings-options.php:332
+msgid "Decimal Separator"
+msgstr ""
+
+#: admin/settings-options.php:333
+msgid "This sets the decimal separator of displayed prices."
+msgstr ""
+
+#: admin/settings-options.php:340
+msgid "Number of Decimals"
+msgstr ""
+
+#: admin/settings-options.php:341
+msgid "This sets the number of decimal points shown in displayed prices."
+msgstr ""
+
+#: admin/settings-options.php:351 admin/subscription.php:207
+#: class/transactions-list-table.php:43
+msgid "Cost"
+msgstr ""
+
+#: admin/settings-options.php:358
+msgid "Enable demo/sandbox mode"
+msgstr ""
+
+#: admin/settings-options.php:359
+msgid ""
+"When sandbox mode is active, all payment gateway will be used in demo mode"
+msgstr ""
+
+#: admin/settings-options.php:365
+msgid "Payment Page"
+msgstr "支払ページ"
+
+#: admin/settings-options.php:366
+msgid "This page will be used to process payment options"
+msgstr ""
+
+#: admin/settings-options.php:372
+msgid "Payment Success Page"
+msgstr "支払完了ページ"
+
+#: admin/settings-options.php:373 lib/gateway/bank.php:37
+msgid "After payment users will be redirected here"
+msgstr ""
+
+#: admin/settings-options.php:379
+msgid "Payment Gateways"
+msgstr ""
+
+#: admin/settings-options.php:380
+msgid "Active payment gateways"
+msgstr ""
+
+#: admin/settings-options.php:388
+msgid "Need Help?"
+msgstr ""
+
+#: admin/settings-options.php:422
+msgid ""
+"Select profile/registration forms for user roles. These forms will be used "
+"to populate extra edit profile fields in backend."
+msgstr ""
+
+#: admin/settings-options.php:433
+msgid " - select - "
+msgstr " - 選択してください - "
+
+#. Plugin Name of the plugin/theme
+msgid "WP User Frontend"
+msgstr "WP User Frontend"
+
+#: admin/settings.php:65
+msgid "Subscriptions"
+msgstr "送信"
+
+#: admin/settings.php:69 admin/tools.php:375 admin/transactions.php:2
+msgid "Transactions"
+msgstr "取引"
+
+#: admin/settings.php:70
+msgid "Add-ons"
+msgstr "アドオン"
+
+#: admin/settings.php:71 admin/tools.php:398
+msgid "Tools"
+msgstr "ツール"
+
+#: admin/settings.php:269
+msgid "Number of items per page:"
+msgstr "１ページ当たりの表示数"
+
+#: admin/subscription.php:52 admin/subscription.php:55
+msgid "Subscription pack updated."
+msgstr "課金プランが更新されました"
+
+#: admin/subscription.php:53
+msgid "Custom field updated."
+msgstr "カスタムフィールドを更新しました"
+
+#: admin/subscription.php:54
+msgid "Custom field deleted."
+msgstr "カスタムフィールドを削除しました"
+
+#: admin/subscription.php:56
+msgid "Subscription pack restored to revision from %s"
+msgstr "課金プランを%sから復元しました"
+
+#: admin/subscription.php:57
+msgid "Subscription pack published."
+msgstr "課金プランを公開しました"
+
+#: admin/subscription.php:58
+msgid "Subscription pack saved."
+msgstr "課金プランを保存しました"
+
+#: admin/subscription.php:59
+msgid "Subscription pack submitted."
+msgstr "課金投稿プランを送信しました"
+
+#: admin/subscription.php:61
+msgid "Subscription pack draft updated."
+msgstr "課金投稿プランの下書きを更新しました"
+
+#: admin/subscription.php:134 admin/subscription.php:459
+#: class/frontend-account.php:127 class/subscription.php:705
+#: class/subscription.php:884 class/subscription.php:897
+msgid "Free"
+msgstr "無料"
+
+#: admin/subscription.php:170 class/subscription.php:277
+msgid "Pack Name"
+msgstr "プラン名"
+
+#: admin/subscription.php:171
+msgid "Amount"
+msgstr "額"
+
+#: admin/subscription.php:172 includes/free/subscription.php:8
+msgid "Recurring"
+msgstr "繰り返し"
+
+#: admin/subscription.php:173
+msgid "Duration"
+msgstr ""
+
+#: admin/subscription.php:196
+msgid "Pack Deleted"
+msgstr ""
+
+#: admin/subscription.php:208
+msgid "Validity"
+msgstr ""
+
+#: admin/subscription.php:209
+msgid "Post Count"
+msgstr "投稿数"
+
+#: admin/subscription.php:210 includes/free/edit-user.php:94
+msgid "Action"
+msgstr "行った操作"
+
+#: admin/subscription.php:230
+msgid "Are you sure to delete this pack?"
+msgstr ""
+
+#: admin/subscription.php:231 class/render-form.php:1421
+#: class/transactions-list-table.php:114 class/transactions-list-table.php:175
+#: class/upload.php:171 includes/free/edit-user.php:101
+#: templates/dashboard/posts.php:160 templates/dashboard.php:115
+msgid "Delete"
+msgstr "削除"
+
+#: admin/subscription.php:242
+msgid "No subscription pack found"
+msgstr ""
+
+#: admin/subscription.php:289
+msgid "Pack Description"
+msgstr ""
+
+#: admin/subscription.php:296
+msgid "Billing amount:"
+msgstr "請求額："
+
+#: admin/subscription.php:297
+msgid "Billing amount each cycle:"
+msgstr "請求のタイミング："
+
+#: admin/subscription.php:306
+msgid "Expires In:"
+msgstr "失効："
+
+#: admin/subscription.php:328 includes/free/form-element.php:59
+msgid "Enable Post Expiration"
+msgstr "投稿の有効期限を有効にします"
+
+#: admin/subscription.php:341 admin/subscription.php:538
+#: includes/free/form-element.php:64
+msgid "Post Expiration Time"
+msgstr "投稿の有効期限"
+
+#: admin/subscription.php:380 includes/free/form-element.php:110
+msgid "Status of post after post expiration time is over "
+msgstr ""
+
+#: admin/subscription.php:411
+msgid "Day(s)"
+msgstr "日間"
+
+#: admin/subscription.php:412
+msgid "Week(s)"
+msgstr "週間"
+
+#: admin/subscription.php:413
+msgid "Month(s)"
+msgstr "か月"
+
+#: admin/subscription.php:414
+msgid "Year(s)"
+msgstr "年（年間）"
+
+#: admin/subscription.php:451 includes/free/edit-profile.php:275
+msgid "WPUF Subscription"
+msgstr ""
+
+#: admin/subscription.php:471 class/subscription.php:716
+#: templates/dashboard/subscription.php:2
+msgid "Subscription Details"
+msgstr ""
+
+#: admin/subscription.php:475
+msgid "This user is using recurring subscription pack"
+msgstr ""
+
+#: admin/subscription.php:480 class/subscription.php:718
+#: templates/dashboard/subscription.php:4
+msgid "Subcription Name: "
+msgstr ""
+
+#: admin/subscription.php:482
+msgid "Package billing details: "
+msgstr ""
+
+#: admin/subscription.php:491 class/subscription.php:731
+#: templates/dashboard/subscription.php:10
+msgid "Remaining post: "
+msgstr ""
+
+#: admin/subscription.php:513 class/subscription.php:759
+#: templates/dashboard/subscription.php:38
+msgid "Expire date:"
+msgstr ""
+
+#: admin/subscription.php:527
+msgid "Post Expiration Enabled"
+msgstr ""
+
+#: admin/subscription.php:565
+msgid "Assign Package"
+msgstr ""
+
+#: admin/subscription.php:566
+msgid "Show Package"
+msgstr ""
+
+#: admin/subscription.php:569 includes/free/edit-profile.php:279
+msgid "Pack:"
+msgstr ""
+
+#: admin/subscription.php:572
+msgid "--Select--"
+msgstr "--選択してください--"
+
+#: admin/subscription.php:580
+msgid "Delete Package"
+msgstr ""
+
+#: admin/template-post.php:203
+msgid "Selection terms"
+msgstr "カテゴリーID"
+
+#: admin/template-post.php:208
+msgid "WooCommerce Attribute"
+msgstr "WooCommerce属性"
+
+#: admin/template-post.php:220
+msgid "Visibility"
+msgstr "表示"
+
+#: admin/template-post.php:267
+msgid "all"
+msgstr "すべて"
+
+#: admin/template-post.php:267
+msgid "Show All"
+msgstr "すべて表示"
+
+#: admin/template-post.php:270
+msgid "hide"
+msgstr "非表示"
+
+#: admin/template-post.php:270
+msgid "Hide These Countries"
+msgstr ""
+
+#: admin/template-post.php:271
+msgid "Chose Country to hide from List"
+msgstr ""
+
+#: admin/template-post.php:275
+msgid "show"
+msgstr "表示"
+
+#: admin/template-post.php:275
+msgid "Show These Countries"
+msgstr ""
+
+#: admin/template-post.php:276
+msgid "Add Country to List"
+msgstr ""
+
+#: admin/template.php:25
+msgid "Click and Drag to rearrange"
+msgstr ""
+
+#: admin/template.php:29
+msgid "Remove"
+msgstr "削除"
+
+#: admin/template.php:30
+msgid "Toggle"
+msgstr "トグル"
+
+#: admin/template.php:103
+msgid "Add a CSS class name for this field"
+msgstr " CSS classの名前をこの欄に入力してください"
+
+#: admin/template.php:283
+msgid "show values"
+msgstr "値を表示"
+
+#: admin/tools.php:32
+msgid "Form Export"
+msgstr "フォームのエクスポート"
+
+#: admin/tools.php:43 admin/tools.php:99
+msgid "Select individual"
+msgstr "個別選択"
+
+#: admin/tools.php:53 admin/tools.php:112 admin/tools.php:397
+msgid "Export"
+msgstr "エクスポート"
+
+#: admin/tools.php:61 admin/tools.php:119
+msgid "Sorry you have no form to export"
+msgstr "エクスポートできるフォームがありません"
+
+#: admin/tools.php:86
+msgid "Registration Form Export"
+msgstr "登録フォームのエクスポート"
+
+#: admin/tools.php:132
+msgid "Somthing went wrong. Please choose a file again"
+msgstr "選択しなおしてください"
+
+#: admin/tools.php:144
+msgid "Import successful. Have fun!"
+msgstr "インポートが完了しました"
+
+#: admin/tools.php:147
+msgid "Invalid file or file size too big."
+msgstr "無効なファイルであるか、ファイルが大きすぎます"
+
+#: admin/tools.php:153
+msgid "Import forms"
+msgstr "フォームのインポート"
+
+#: admin/tools.php:155
+msgid "Click Browse button and choose a json file that you backup before."
+msgstr ""
+
+#: admin/tools.php:156
+msgid "Press Restore button, WordPress does the rest for you."
+msgstr ""
+
+#: admin/tools.php:161 admin/tools.php:396
+msgid "Import"
+msgstr "インポート"
+
+#: admin/tools.php:215 admin/tools.php:235
+msgid "Please select some form for exporting"
+msgstr "エクスポートするファイルを選択してください"
+
+#: admin/tools.php:319
+msgid "All forms has been deleted"
+msgstr "すべてのフォームを削除されました"
+
+#: admin/tools.php:323
+msgid "Settings has been cleared!"
+msgstr "設定は初期化されました"
+
+#: admin/tools.php:327
+msgid "All transactions has been deleted!"
+msgstr "すべての取引は削除されました"
+
+#: admin/tools.php:344
+msgid "Page Installation"
+msgstr "ページのインストール"
+
+#: admin/tools.php:347
+msgid ""
+"Clicking this button will create required pages for the plugin. Note: It'll "
+"not delete/replace existing pages."
+msgstr "クリックするとプラグインで必要なページが作成されます。"
+
+#: admin/tools.php:353 admin/tools.php:357
+msgid "Reset Settings"
+msgstr "設定を初期化する"
+
+#: admin/tools.php:356
+msgid ""
+"<strong>Caution:</strong> This tool will delete all the plugin settings of "
+"WP User Frontend Pro"
+msgstr ""
+"<strong>注意:</strong>WP User Frontend Proバージョンの設定のすべてが削除され"
+"ます"
+
+#: admin/tools.php:362
+msgid "Delete Forms"
+msgstr "フォームの削除"
+
+#: admin/tools.php:365
+msgid ""
+"<strong>Caution:</strong> This tool will delete all the post and "
+"registration/profile forms."
+msgstr "<strong>注意:</strong>投稿／会員管理等すべてのフォームが削除されます"
+
+#: admin/tools.php:367
+msgid "Delete Post Forms"
+msgstr "投稿フォームの削除"
+
+#: admin/tools.php:368
+msgid "Delete Registration Forms"
+msgstr "会員登録フォームの削除"
+
+#: admin/tools.php:369
+msgid "Delete Subscriptions"
+msgstr "定期購読フォームの削除"
+
+#: admin/tools.php:370
+msgid "Delete Coupons"
+msgstr "クーポンの削除"
+
+#: admin/tools.php:378
+msgid "This tool will delete all the transactions from the transaction table."
+msgstr ""
+
+#: admin/tools.php:380
+msgid "Delete Transactions"
+msgstr "取引の削除"
+
+#: admin/transactions.php:12
+msgid "Total Income:"
+msgstr "訪問者数"
+
+#: admin/transactions.php:15
+msgid "This Month:"
+msgstr "今月"
+
+#: class/frontend-account.php:118
+msgid "<p>You've not subscribed any package yet.</p>"
+msgstr ""
+
+#: class/frontend-account.php:176 class/subscription.php:59
+msgid "Nonce failure"
+msgstr ""
+
+#: class/frontend-account.php:190
+msgid "First Name is a required field."
+msgstr "名前は必須項目です"
+
+#: class/frontend-account.php:194
+msgid "Last Name is a required field."
+msgstr "苗字は必須項目です"
+
+#: class/frontend-account.php:198
+msgid "Email is a required field."
+msgstr "メールアドレスは必須項目です"
+
+#: class/frontend-account.php:209
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: class/frontend-account.php:211
+msgid "This email address is already registered."
+msgstr "このメールアドレスは使用されています"
+
+#: class/frontend-account.php:217
+msgid "Please fill out all password fields."
+msgstr ""
+
+#: class/frontend-account.php:220
+msgid "Please enter your current password."
+msgstr "現在のパスワードを入力してください"
+
+#: class/frontend-account.php:223
+msgid "Please re-enter your password."
+msgstr "パスワードを再入力してください"
+
+#: class/frontend-account.php:226
+msgid "New passwords do not match."
+msgstr "新しいパスワードが一致しません"
+
+#: class/frontend-account.php:229 class/frontend-account.php:240
+msgid "Your current password is incorrect."
+msgstr ""
+
+#: class/frontend-dashboard.php:60 templates/dashboard/posts.php:36
+msgid "Post Deleted"
+msgstr "投稿は削除されました"
+
+#: class/frontend-dashboard.php:98
+msgid "Author Info"
+msgstr "作者の情報"
+
+#: class/frontend-dashboard.php:102 includes/free/edit-user.php:98
+msgid "%s"
+msgstr ""
+
+#: class/frontend-dashboard.php:134 templates/dashboard/posts.php:30
+msgid "You are not the post author. Cheeting huh!"
+msgstr ""
+
+#: class/frontend-form-post.php:74
+msgid "You are not logged in"
+msgstr "まずログインしてください"
+
+#: class/frontend-form-post.php:82 class/frontend-form-post.php:93
+msgid "Invalid post"
+msgstr "投稿は無効です"
+
+#: class/frontend-form-post.php:87
+msgid "Post Editing is disabled"
+msgstr "投稿を編集できません"
+
+#: class/frontend-form-post.php:98
+msgid "You are not allowed to edit"
+msgstr "編集できません"
+
+#: class/frontend-form-post.php:110
+msgid "I don't know how to edit this post, I don't have the form ID"
+msgstr ""
+
+#: class/frontend-form-post.php:116
+msgid "You can't edit a post while in pending mode."
+msgstr ""
+
+#: class/frontend-form-post.php:184
+msgid "Invalid email address."
+msgstr "メールアドレスが無効です"
+
+#: class/frontend-form-post.php:193
+msgid ""
+"You already have an account in our site. Please login to continue.\n"
+"\n"
+"Clicking 'OK' will redirect you to the login page and you will lost the form "
+"data.\n"
+"Click 'Cancel' to stay at this page."
+msgstr ""
+
+#: class/frontend-form-post.php:552
+msgid "Something went wrong"
+msgstr "何かが違います"
+
+#: class/payment.php:23 class/payment.php:24
+msgid "PayPal"
+msgstr ""
+
+#: class/payment.php:28 class/payment.php:29
+msgid "Bank Payment"
+msgstr ""
+
+#: class/payment.php:70
+msgid "Please select your payment page from admin panel"
+msgstr ""
+
+#: class/payment.php:118
+msgid "Your free package has been activated. Enjoy!"
+msgstr ""
+
+#: class/payment.php:120
+msgid "You already have activated a free package previously."
+msgstr ""
+
+#: class/payment.php:144
+msgid "Pricing & Plans"
+msgstr ""
+
+#: class/payment.php:146
+msgid "Change Pack"
+msgstr ""
+
+#: class/payment.php:154
+msgid "Selected Pack "
+msgstr ""
+
+#: class/payment.php:155
+msgid "Pack Price "
+msgstr ""
+
+#: class/payment.php:167
+msgid "Apply Coupon"
+msgstr ""
+
+#: class/payment.php:171
+msgid "Have a discount code?"
+msgstr ""
+
+#: class/payment.php:182
+msgid "Choose Your Payment Method"
+msgstr ""
+
+#: class/payment.php:219
+msgid "Proceed"
+msgstr ""
+
+#: class/payment.php:223
+msgid "No Payment gateway found"
+msgstr ""
+
+#: class/payment.php:402 lib/gateway/bank.php:99
+msgid "[%s] Payment Received"
+msgstr ""
+
+#: class/payment.php:403
+msgid "New payment received at %s"
+msgstr ""
+
+#: class/post-form-templates/post.php:12
+msgid "Post Form"
+msgstr "投稿フォーム"
+
+#: class/post-form-templates/post.php:13
+msgid "Form for creating a blog post."
+msgstr ""
+
+#: class/render-form.php:76
+msgid "Really Simple Captcha validation failed"
+msgstr ""
+
+#: class/render-form.php:103 class/render-form.php:114
+msgid "reCAPTCHA validation failed"
+msgstr ""
+
+#: class/render-form.php:301
+msgid "Your selected form is no longer available."
+msgstr ""
+
+#: class/render-form.php:306
+msgid "Please make sure you've published your form."
+msgstr ""
+
+#: class/render-form.php:1145 class/render-form.php:1150
+#: includes/free/edit-profile.php:198 templates/dashboard/edit-profile.php:36
+msgid "Strength indicator"
+msgstr ""
+
+#: class/render-form.php:1151
+msgid "Very weak"
+msgstr ""
+
+#: class/render-form.php:1152
+msgid "Weak"
+msgstr ""
+
+#: class/render-form.php:1153
+msgid "Medium"
+msgstr "中"
+
+#: class/render-form.php:1154
+msgid "Strong"
+msgstr ""
+
+#: class/render-form.php:1155
+msgid "Mismatch"
+msgstr ""
+
+#: class/render-form.php:1177 class/render-form.php:1285
+msgid "-- Select --"
+msgstr "-- 選択してください --"
+
+#: class/subscription.php:359
+msgid "Add Subscription"
+msgstr ""
+
+#: class/subscription.php:360
+msgid "Add New Subscription"
+msgstr ""
+
+#: class/subscription.php:362
+msgid "Edit Subscription"
+msgstr ""
+
+#: class/subscription.php:363
+msgid "New Subscription"
+msgstr ""
+
+#: class/subscription.php:364 class/subscription.php:365
+msgid "View Subscription"
+msgstr ""
+
+#: class/subscription.php:366
+msgid "Search Subscription"
+msgstr ""
+
+#: class/subscription.php:367
+msgid "No Subscription Found"
+msgstr ""
+
+#: class/subscription.php:368
+msgid "No Subscription Found in Trash"
+msgstr ""
+
+#: class/subscription.php:369
+msgid "Parent Subscription"
+msgstr ""
+
+#: class/subscription.php:398
+msgid "Billing Details"
+msgstr ""
+
+#: class/subscription.php:720 templates/dashboard/subscription.php:6
+msgid "Package & billing details: "
+msgstr ""
+
+#: class/subscription.php:744 templates/dashboard/subscription.php:23
+msgid "Unlimited"
+msgstr "無制限"
+
+#: class/subscription.php:797
+msgid "Please enable force pack and charge posting from admin panel"
+msgstr ""
+
+#: class/subscription.php:807
+msgid "Payment is complete"
+msgstr ""
+
+#: class/subscription.php:807
+msgid "Congratulations, your payment has been completed!"
+msgstr ""
+
+#: class/subscription.php:822
+msgid "<p><i>You have a subscription pack activated. </i></p>"
+msgstr ""
+
+#: class/subscription.php:824
+msgid "<p><i>To cancel the pack, press the following cancel button</i></p>"
+msgstr ""
+
+#: class/subscription.php:865
+msgid "Every"
+msgstr ""
+
+#: class/subscription.php:869
+msgid "One time payment"
+msgstr ""
+
+#: class/subscription.php:881
+msgid "Sign Up"
+msgstr "サインアップ"
+
+#: class/subscription.php:886
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: class/subscription.php:942
+msgid "This will cost you <strong>%s</strong> to add a new post. "
+msgstr ""
+
+#: class/subscription.php:961
+msgid "You must <a href=\"%s\">purchase a pack</a> before posting"
+msgstr ""
+
+#: class/transactions-list-table.php:13
+msgid "transaction"
+msgstr ""
+
+#: class/transactions-list-table.php:14
+msgid "transactions"
+msgstr ""
+
+#: class/transactions-list-table.php:40
+msgid "ID"
+msgstr "ID"
+
+#: class/transactions-list-table.php:41 templates/dashboard/posts.php:75
+#: templates/dashboard.php:29
+msgid "Status"
+msgstr "状態"
+
+#: class/transactions-list-table.php:42
+msgid "User"
+msgstr "ユーザー"
+
+#: class/transactions-list-table.php:44
+msgid "Post ID"
+msgstr "投稿ID"
+
+#: class/transactions-list-table.php:45
+msgid "Pack ID"
+msgstr "プランID"
+
+#: class/transactions-list-table.php:46
+msgid "Gateway"
+msgstr ""
+
+#: class/transactions-list-table.php:47
+msgid "Payer"
+msgstr ""
+
+#: class/transactions-list-table.php:49
+msgid "Trans ID"
+msgstr ""
+
+#: class/transactions-list-table.php:50 includes/free/form-element.php:12
+msgid "Date"
+msgstr "投稿日"
+
+#: class/transactions-list-table.php:86 wpuf-functions.php:69
+msgid "Pending"
+msgstr "保留"
+
+#: class/transactions-list-table.php:109
+msgid "Accept"
+msgstr "承認する"
+
+#: class/transactions-list-table.php:110 class/transactions-list-table.php:171
+msgid "Reject"
+msgstr "否認する"
+
+#: class/transactions-list-table.php:159
+msgid "No transactions found."
+msgstr ""
+
+#: class/upload.php:165 wpuf-functions.php:706
+msgid "Caption"
+msgstr "キャプション"
+
+#: includes/free/admin/form-builder/class-wpuf-form-builder-field-settings-free.php:46
+#: includes/free/form-element.php:472
+msgid "Conditional Logic"
+msgstr "条件付きの動作"
+
+#: includes/free/admin/form-builder/class-wpuf-form-builder-field-settings-free.php:65
+#: includes/free/form-element.php:11
+msgid "Repeat Field"
+msgstr "繰り返し項目"
+
+#: includes/free/admin/form-builder/class-wpuf-form-builder-field-settings-free.php:81
+msgid "Date / Time"
+msgstr ""
+
+#: includes/free/admin/form-builder/class-wpuf-form-builder-field-settings-free.php:97
+#: includes/free/form-element.php:13
+msgid "File Upload"
+msgstr "ファイルのアップロード"
+
+#: includes/free/admin/form-builder/class-wpuf-form-builder-field-settings-free.php:113
+#: includes/free/form-element.php:15
+msgid "Country List"
+msgstr "国リスト"
+
+#: includes/free/admin/form-builder/class-wpuf-form-builder-field-settings-free.php:129
+#: includes/free/form-element.php:16
+msgid "Numeric Field"
+msgstr "数字フィールド"
+
+#: includes/free/admin/form-builder/class-wpuf-form-builder-field-settings-free.php:145
+#: includes/free/form-element.php:17
+msgid "Address Field"
+msgstr "アドレスフィールド"
+
+#: includes/free/admin/form-builder/class-wpuf-form-builder-field-settings-free.php:161
+#: includes/free/form-element.php:18
+msgid "Step Start"
+msgstr "ステップの開始"
+
+#: includes/free/admin/form-builder/class-wpuf-form-builder-field-settings-free.php:179
+msgid "Google Map"
+msgstr "グーグルマップ"
+
+#: includes/free/admin/form-builder/class-wpuf-form-builder-field-settings-free.php:195
+msgid "Recaptcha"
+msgstr ""
+
+#: includes/free/admin/form-builder/class-wpuf-form-builder-field-settings-free.php:210
+#: includes/free/form-element.php:31
+msgid "Really Simple Captcha"
+msgstr "シンプルな認証"
+
+#: includes/free/admin/form-builder/class-wpuf-form-builder-field-settings-free.php:225
+#: includes/free/form-element.php:32
+msgid "Action Hook"
+msgstr ""
+
+#: includes/free/admin/form-builder/class-wpuf-form-builder-field-settings-free.php:240
+msgid "Term & Conditions"
+msgstr ""
+
+#: includes/free/admin/form-builder/class-wpuf-form-builder-field-settings-free.php:255
+msgid "Ratings"
+msgstr "評価"
+
+#: includes/free/edit-profile.php:27 includes/free/edit-user.php:37
+#: templates/unauthorized.php:3
+msgid "This page is restricted. Please %s to view this page."
+msgstr ""
+
+#: includes/free/edit-profile.php:66
+msgid "<strong>Success</strong>: Profile updated"
+msgstr ""
+
+#: includes/free/edit-profile.php:96 includes/free/edit-user.php:93
+#: includes/free/edit-user.php:145 templates/login-form.php:21
+msgid "Username"
+msgstr "SMTPユーザー名"
+
+#: includes/free/edit-profile.php:97
+msgid "Usernames cannot be changed."
+msgstr "ユーザー名は変更できません"
+
+#: includes/free/edit-profile.php:100
+msgid "First Name"
+msgstr "名"
+
+#: includes/free/edit-profile.php:105
+msgid "Last Name"
+msgstr "姓"
+
+#: includes/free/edit-profile.php:110
+msgid "Nickname"
+msgstr "ニックネーム"
+
+#: includes/free/edit-profile.php:110 includes/free/edit-profile.php:151
+msgid "(required)"
+msgstr "（必須）"
+
+#: includes/free/edit-profile.php:115
+msgid "Display to Public as"
+msgstr ""
+
+#: includes/free/edit-profile.php:147
+msgid "Contact Info"
+msgstr ""
+
+#: includes/free/edit-profile.php:151
+msgid "E-mail"
+msgstr "メールアドレス"
+
+#: includes/free/edit-profile.php:156
+msgid "Website"
+msgstr "所有しているサイト"
+
+#: includes/free/edit-profile.php:174
+msgid "About Yourself"
+msgstr ""
+
+#: includes/free/edit-profile.php:178
+msgid "Biographical Info"
+msgstr "自己紹介"
+
+#: includes/free/edit-profile.php:180
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+
+#: includes/free/edit-profile.php:183 templates/dashboard/edit-profile.php:33
+msgid "New Password"
+msgstr "新パスワード"
+
+#: includes/free/edit-profile.php:189
+msgid "Confirm Password"
+msgstr "パスワードの再入力"
+
+#: includes/free/edit-profile.php:191
+msgid "Type your new password again."
+msgstr "新しいパスワードを再入力してください"
+
+#: includes/free/edit-profile.php:196
+msgid "Password Strength"
+msgstr "パスワードの長さ"
+
+#: includes/free/edit-profile.php:222 includes/free/form-element.php:344
+#: templates/dashboard/edit-profile.php:63
+msgid "Update Profile"
+msgstr "プロフィールを更新"
+
+#: includes/free/edit-profile.php:241
+msgid "WPUF Post Lock"
+msgstr "WPUFを使った投稿を拒否する"
+
+#: includes/free/edit-profile.php:244
+msgid "Lock Post:"
+msgstr "投稿の拒否"
+
+#: includes/free/edit-profile.php:250
+msgid "Lock user from creating new post."
+msgstr "このユーザーの新規登録を拒否します"
+
+#: includes/free/edit-profile.php:255
+msgid "Lock Reason:"
+msgstr "拒否の理由"
+
+#: includes/free/edit-profile.php:285
+msgid "Post Count:"
+msgstr "投稿数"
+
+#: includes/free/edit-profile.php:291
+msgid "Validity:"
+msgstr ""
+
+#: includes/free/edit-user.php:23
+msgid "User doesn't exists"
+msgstr ""
+
+#: includes/free/edit-user.php:34
+msgid "You don't have permission for this purpose"
+msgstr ""
+
+#: includes/free/edit-user.php:77
+msgid "User Deleted"
+msgstr "ユーザーを削除しました"
+
+#: includes/free/edit-user.php:120 includes/free/edit-user.php:178
+msgid "Add New User"
+msgstr "ユーザーを追加"
+
+#: includes/free/edit-user.php:133
+msgid "User Added"
+msgstr "ユーザーを追加しました"
+
+#: includes/free/edit-user.php:161
+msgid "Role"
+msgstr "ルール"
+
+#: includes/free/edit-user.php:205
+msgid "<strong>ERROR</strong>: Please enter a username"
+msgstr "<strong>エラー</strong>ユーザー名を入力してください"
+
+#: includes/free/edit-user.php:207
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username"
+msgstr "<strong>エラー</strong>ユーザー名に無効な文字が含まれています"
+
+#: includes/free/edit-user.php:210
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one"
+msgstr "<strong>エラー</strong>このユーザー名は既に使われています"
+
+#: includes/free/edit-user.php:215
+msgid "<strong>ERROR</strong>: Please type your e-mail address"
+msgstr "<strong>エラー</strong>メールアドレスを入力してください"
+
+#: includes/free/edit-user.php:217
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct"
+msgstr "<strong>エラー</strong>このメールアドレスは無効です"
+
+#: includes/free/edit-user.php:220
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one"
+msgstr "<strong>エラー</strong>このメールアドレスはすでに使われています"
+
+#: includes/free/edit-user.php:243
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+"<strong>エラー</strong>ユーザー登録できませんでした。<a href=\"mailto:%s\">サ"
+"イト管理者</a>へお問い合わせください"
+
+#: includes/free/form-element.php:6 includes/free/form-element.php:26
+msgid "Click to add to the editor"
+msgstr ""
+
+#: includes/free/form-element.php:14
+msgid "Google Maps"
+msgstr "グーグルマップ"
+
+#: includes/free/form-element.php:30
+msgid "reCaptcha"
+msgstr "reCaptcha"
+
+#: includes/free/form-element.php:33
+msgid "Term &amp; Conditions"
+msgstr ""
+
+#: includes/free/form-element.php:121
+msgid "Send Email to Author After Exceeding Post Expiration Time"
+msgstr ""
+
+#: includes/free/form-element.php:146 includes/free/form-element.php:150
+msgid "Enable Multistep"
+msgstr ""
+
+#: includes/free/form-element.php:153
+msgid "If checked, form will be displayed in frontend in multiple steps"
+msgstr ""
+
+#: includes/free/form-element.php:157
+msgid "Multistep Progressbar Type"
+msgstr ""
+
+#: includes/free/form-element.php:167
+msgid "Choose how you want the progressbar"
+msgstr ""
+
+#: includes/free/form-element.php:197
+msgid "New post created"
+msgstr "投稿しました"
+
+#: includes/free/form-element.php:202
+msgid "A post has been edited"
+msgstr "編集されました"
+
+#: includes/free/form-element.php:208
+msgid "New Post Notificatoin"
+msgstr "投稿の通知"
+
+#: includes/free/form-element.php:216 includes/free/form-element.php:253
+msgid "Enable post notification"
+msgstr "投稿の通知を有効にする"
+
+#: includes/free/form-element.php:222 includes/free/form-element.php:259
+msgid "To"
+msgstr "宛先"
+
+#: includes/free/form-element.php:230 includes/free/form-element.php:264
+msgid "Subject"
+msgstr "件名"
+
+#: includes/free/form-element.php:236 includes/free/form-element.php:269
+msgid "Message"
+msgstr "メッセージ"
+
+#: includes/free/form-element.php:244
+msgid "Update Post Notificatoin"
+msgstr "投稿通知を更新"
+
+#: includes/free/form-element.php:276
+msgid "You may use in to, subject & message:"
+msgstr "件名と本文を設定します"
+
+#: includes/free/form-element.php:301
+msgid "Toggle All"
+msgstr "すべて閉じる"
+
+#: includes/free/form-element.php:305
+msgid "Click on a form element to add to the editor"
+msgstr ""
+
+#: includes/free/form-element.php:339
+msgid "Registration successful"
+msgstr "登録が完了しました"
+
+#: includes/free/form-element.php:340
+msgid "Profile updated successfully"
+msgstr "プロフィールを更新しました"
+
+#: includes/free/form-element.php:343
+msgid "Register"
+msgstr "登録"
+
+#: includes/free/form-element.php:352
+msgid "Enable Email Verfication"
+msgstr ""
+
+#: includes/free/form-element.php:360
+msgid "New User Role"
+msgstr "新しいユーザールール"
+
+#: includes/free/form-element.php:396
+msgid "Registration success message"
+msgstr "登録完了時のメッセージ"
+
+#: includes/free/form-element.php:403
+msgid "Update profile message"
+msgstr "プロフィール更新時のメッセージ"
+
+#: includes/free/form-element.php:432
+msgid "Submit Button text"
+msgstr "送信ボタンのテキスト"
+
+#: includes/free/form-element.php:439
+msgid "Update Button text"
+msgstr "更新ボタンのテキスト"
+
+#: includes/free/loader.php:71 includes/free/loader.php:100
+msgid "Coupons"
+msgstr ""
+
+#: includes/free/loader.php:76
+msgid "Registration Form"
+msgstr "新規登録フォーム"
+
+#: includes/free/loader.php:80
+msgid ""
+"Registration form builder is a two way form which can be used both for "
+"<strong>user registration</strong> and <strong>profile editing</strong>."
+msgstr ""
+
+#: includes/free/loader.php:84
+msgid "Users can also register themselves by using a subscription pack."
+msgstr ""
+
+#: includes/free/loader.php:88 includes/free/loader.php:108
+msgid "This feature is only available in the Pro Version."
+msgstr ""
+
+#: includes/free/loader.php:92 includes/free/loader.php:112
+msgid "Upgrade to Pro Version"
+msgstr ""
+
+#: includes/free/loader.php:104
+msgid "Use Coupon codes for subscription for discounts."
+msgstr ""
+
+#: includes/free/loader.php:139
+msgid "Pro Feature"
+msgstr "有料版でのみ利用可能"
+
+#: includes/free/loader.php:157
+msgid "Upgrade to Pro"
+msgstr "有料版へアップグレード"
+
+#: includes/free/post-form-templates/woocommerce.php:12
+msgid "WooCommerce Product"
+msgstr "WooCommerce属性"
+
+#: includes/free/post-form-templates/woocommerce.php:13
+msgid "Create a simple product form for WooCommerce."
+msgstr ""
+
+#: includes/free/subscription.php:12
+msgid "Enable Recurring Payment"
+msgstr ""
+
+#: lib/class.settings-api.php:364
+msgid "Choose File"
+msgstr "ファイルを選択"
+
+#: lib/gateway/bank.php:29
+msgid "Bank Instruction"
+msgstr "銀行設定"
+
+#: lib/gateway/bank.php:36
+msgid "Bank Payment Success Page"
+msgstr "支払情報の確認ページ"
+
+#: lib/gateway/bank.php:77
+msgid "[%s] New Bank Order Received"
+msgstr "[%sさん]銀行情報を受け付けました"
+
+#: lib/gateway/bank.php:78
+msgid "New bank order received at %s, please check it out: %s"
+msgstr ""
+
+#: lib/gateway/bank.php:100
+msgid "Hello %s,"
+msgstr "ようこそ%sさん"
+
+#: lib/gateway/bank.php:101
+msgid "We have received your bank payment."
+msgstr "銀行情報を受け付けました"
+
+#: lib/gateway/bank.php:102
+msgid "Thanks for being with us."
+msgstr "参加を開始しました"
+
+#: lib/gateway/paypal.php:60
+msgid "Subscription %s at %s"
+msgstr ""
+
+#: lib/gateway/paypal.php:91
+msgid "PayPal Email"
+msgstr ""
+
+#: lib/gateway/paypal.php:96
+msgid "PayPal Instruction"
+msgstr ""
+
+#: lib/gateway/paypal.php:103
+msgid "PayPal API username"
+msgstr ""
+
+#: lib/gateway/paypal.php:107
+msgid "PayPal API password"
+msgstr ""
+
+#: lib/gateway/paypal.php:111
+msgid "PayPal API signature"
+msgstr ""
+
+#: templates/dashboard/dashboard.php:5
+msgid "Hello %1$s, (not %1$s? <a href=\"%2$s\">Sign out</a>)"
+msgstr ""
+"こんにちは %1$sさん。 (%1$s? さんでない場合は<a href=\"%2$s\">サインアウト</"
+"a>してください)"
+
+#: templates/dashboard/dashboard.php:13
+msgid ""
+"From your account dashboard you can view your dashboard, manage your <a href="
+"\"%1$s\">posts</a>, <a href=\"%2$s\">subscription</a> and <a href=\"%3$s"
+"\">edit your password and profile</a>."
+msgstr ""
+
+#: templates/dashboard/edit-profile.php:5
+msgid "Profile updated successfully!"
+msgstr ""
+
+#: templates/dashboard/edit-profile.php:6
+msgid "Something went wrong!"
+msgstr "どこかの入力が間違っています"
+
+#: templates/dashboard/edit-profile.php:9
+msgid "First Name "
+msgstr ""
+
+#: templates/dashboard/edit-profile.php:13
+msgid "Last Name "
+msgstr ""
+
+#: templates/dashboard/edit-profile.php:19
+msgid "Email Address "
+msgstr ""
+
+#: templates/dashboard/edit-profile.php:24
+msgid "Password Change"
+msgstr "パスワードの変更"
+
+#: templates/dashboard/edit-profile.php:26
+msgid "If you  want to unchanged the password then just leave this section."
+msgstr ""
+
+#: templates/dashboard/edit-profile.php:29
+msgid "Current Password"
+msgstr "現在のパスワード"
+
+#: templates/dashboard/edit-profile.php:54
+msgid "Confirm New Password"
+msgstr "新規パスワードの再入力"
+
+#: templates/dashboard/posts.php:54 templates/dashboard.php:8
+msgid "You have created <span>%d</span> %s"
+msgstr ""
+
+#: templates/dashboard/posts.php:104 templates/dashboard.php:58
+msgid "No Image"
+msgstr "画像なし"
+
+#: templates/dashboard/posts.php:118 templates/dashboard.php:72
+msgid "Permalink to %s"
+msgstr "%sさんの固定リンク"
+
+#: templates/dashboard/posts.php:134 templates/dashboard.php:89
+msgid "Pay Now"
+msgstr "いますぐ支払う"
+
+#: templates/dashboard/posts.php:178 templates/dashboard.php:133
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: templates/dashboard/posts.php:179 templates/dashboard.php:134
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: templates/dashboard/posts.php:193 templates/dashboard.php:149
+msgid "No %s found"
+msgstr "%sはありません"
+
+#: templates/dashboard/subscription.php:54
+msgid "<p><i>To cancel the pack, press the following cancel button.</i></p>"
+msgstr ""
+
+#: templates/dashboard.php:4
+msgid "%s's Dashboard"
+msgstr "%sさんの管理画面"
+
+#: templates/logged-in.php:8
+msgid "Hello %s"
+msgstr "こんにちは%sさん"
+
+#: templates/logged-in.php:11
+msgid "You are currently logged in! %s?"
+msgstr "%sさんとしてログインしています"
+
+#: templates/login-form.php:25
+msgid "Password"
+msgstr "SMTPパスワード"
+
+#: templates/login-form.php:33
+msgid "Remember Me"
+msgstr "記憶する"
+
+#: templates/login-form.php:37
+msgid "Log In"
+msgstr ""
+
+#: templates/lost-pass-form.php:14
+msgid "Username or E-mail:"
+msgstr "ユーザー名またはメールアドレス"
+
+#: templates/lost-pass-form.php:21
+msgid "Get New Password"
+msgstr "新しいパスワードの取得"
+
+#: templates/reset-pass-form.php:14
+msgid "New password"
+msgstr "新しいパスワード"
+
+#: templates/reset-pass-form.php:19
+msgid "Confirm new password"
+msgstr "新しいパスワードの確認"
+
+#: templates/reset-pass-form.php:26
+msgid "Reset Password"
+msgstr "パスワードの初期化"
+
+#: wpuf-functions.php:27
+msgid "Live"
+msgstr "ライブ"
+
+#: wpuf-functions.php:31
+msgid "Offline"
+msgstr "オフライン"
+
+#: wpuf-functions.php:35
+msgid "Awaiting Approval"
+msgstr "しばらくお待ちください"
+
+#: wpuf-functions.php:38 wpuf-functions.php:72
+msgid "Scheduled"
+msgstr "予約しました"
+
+#: wpuf-functions.php:42
+msgid "Private"
+msgstr "プライベート"
+
+#: wpuf-functions.php:213
+msgid "-- select --"
+msgstr ""
+
+#: wpuf-functions.php:404
+msgid "Images"
+msgstr "画像"
+
+#: wpuf-functions.php:405
+msgid "Audio"
+msgstr "音声"
+
+#: wpuf-functions.php:406
+msgid "Videos"
+msgstr "動画"
+
+#: wpuf-functions.php:407
+msgid "PDF"
+msgstr "PDF"
+
+#: wpuf-functions.php:408
+msgid "Office Documents"
+msgstr "Officeドキュメント"
+
+#: wpuf-functions.php:409
+msgid "Zip Archives"
+msgstr "Zip圧縮ファイル"
+
+#: wpuf-functions.php:410
+msgid "Executable Files"
+msgstr "実行ファイル"
+
+#: wpuf-functions.php:411
+msgid "CSV"
+msgstr "CSV"
+
+#: wpuf-functions.php:1321
+msgid "Posts"
+msgstr "投稿数"
+
+#: wpuf-functions.php:1323
+msgid "Edit Profile"
+msgstr "プロフィールの編集"
+
+#: wpuf-functions.php:1427
+msgid "United Arab Emirates Dirham"
+msgstr "United Arab Emirates Dirham"
+
+#: wpuf-functions.php:1428
+msgid "Australian Dollars"
+msgstr "オーストラリアドル"
+
+#: wpuf-functions.php:1429
+msgid "Argentine Peso"
+msgstr "Argentine Peso"
+
+#: wpuf-functions.php:1430
+msgid "Bangladeshi Taka"
+msgstr "Bangladeshi Taka"
+
+#: wpuf-functions.php:1431
+msgid "Brazilian Real"
+msgstr "Brazilian Real"
+
+#: wpuf-functions.php:1432
+msgid "Bulgarian Lev"
+msgstr "Bulgarian Lev"
+
+#: wpuf-functions.php:1433
+msgid "Canadian Dollars"
+msgstr "Canadian Dollars"
+
+#: wpuf-functions.php:1434
+msgid "Chilean Peso"
+msgstr "Chilean Peso"
+
+#: wpuf-functions.php:1435
+msgid "Chinese Yuan"
+msgstr "Chinese Yuan"
+
+#: wpuf-functions.php:1436
+msgid "Colombian Peso"
+msgstr "Colombian Peso"
+
+#: wpuf-functions.php:1437
+msgid "Czech Koruna"
+msgstr "Czech Koruna"
+
+#: wpuf-functions.php:1438
+msgid "Danish Krone"
+msgstr "Danish Krone"
+
+#: wpuf-functions.php:1439
+msgid "Dominican Peso"
+msgstr "Dominican Peso"
+
+#: wpuf-functions.php:1440
+msgid "Algerian Dinar"
+msgstr "Algerian Dinar"
+
+#: wpuf-functions.php:1441
+msgid "Euros"
+msgstr "Euros"
+
+#: wpuf-functions.php:1442
+msgid "Hong Kong Dollar"
+msgstr "Hong Kong Dollar"
+
+#: wpuf-functions.php:1443
+msgid "Croatia kuna"
+msgstr "Croatia kuna"
+
+#: wpuf-functions.php:1444
+msgid "Hungarian Forint"
+msgstr "Hungarian Forint"
+
+#: wpuf-functions.php:1445
+msgid "Icelandic krona"
+msgstr "Icelandic krona"
+
+#: wpuf-functions.php:1446
+msgid "Indonesia Rupiah"
+msgstr "Indonesia Rupiah"
+
+#: wpuf-functions.php:1447
+msgid "Indian Rupee"
+msgstr "Indian Rupee"
+
+#: wpuf-functions.php:1448
+msgid "Nepali Rupee"
+msgstr "Nepali Rupee"
+
+#: wpuf-functions.php:1449
+msgid "Israeli Shekel"
+msgstr "Israeli Shekel"
+
+#: wpuf-functions.php:1450
+msgid "Japanese Yen"
+msgstr "円"
+
+#: wpuf-functions.php:1451
+msgid "Lao Kip"
+msgstr "Lao Kip"
+
+#: wpuf-functions.php:1452
+msgid "South Korean Won"
+msgstr "South Korean Won"
+
+#: wpuf-functions.php:1453
+msgid "Malaysian Ringgits"
+msgstr "Malaysian Ringgits"
+
+#: wpuf-functions.php:1454
+msgid "Mexican Peso"
+msgstr "Mexican Peso"
+
+#: wpuf-functions.php:1455
+msgid "Nigerian Naira"
+msgstr "Nigerian Naira"
+
+#: wpuf-functions.php:1456
+msgid "Norwegian Krone"
+msgstr "Norwegian Krone"
+
+#: wpuf-functions.php:1457
+msgid "New Zealand Dollar"
+msgstr "New Zealand Dollar"
+
+#: wpuf-functions.php:1458
+msgid "Omani Rial"
+msgstr "Omani Rial"
+
+#: wpuf-functions.php:1459
+msgid "Iranian Rial"
+msgstr "Iranian Rial"
+
+#: wpuf-functions.php:1460
+msgid "Pakistani Rupee"
+msgstr "Pakistani Rupee"
+
+#: wpuf-functions.php:1461
+msgid "Paraguayan Guaraní"
+msgstr "Paraguayan Guaraní"
+
+#: wpuf-functions.php:1462
+msgid "Philippine Pesos"
+msgstr "Philippine Pesos"
+
+#: wpuf-functions.php:1463
+msgid "Polish Zloty"
+msgstr "Polish Zloty"
+
+#: wpuf-functions.php:1464
+msgid "Pounds Sterling"
+msgstr "Pounds Sterling"
+
+#: wpuf-functions.php:1465
+msgid "Romanian Leu"
+msgstr "Romanian Leu"
+
+#: wpuf-functions.php:1466
+msgid "Russian Ruble"
+msgstr "Russian Ruble"
+
+#: wpuf-functions.php:1467
+msgid "Saudi Riyal"
+msgstr "Saudi Riyal"
+
+#: wpuf-functions.php:1468
+msgid "Singapore Dollar"
+msgstr "Singapore Dollar"
+
+#: wpuf-functions.php:1469
+msgid "South African rand"
+msgstr "South African rand"
+
+#: wpuf-functions.php:1470
+msgid "Swedish Krona"
+msgstr "Swedish Krona"
+
+#: wpuf-functions.php:1471
+msgid "Swiss Franc"
+msgstr "Swiss Franc"
+
+#: wpuf-functions.php:1472
+msgid "Taiwan New Dollars"
+msgstr "Taiwan New Dollars"
+
+#: wpuf-functions.php:1473
+msgid "Thai Baht"
+msgstr "Thai Baht"
+
+#: wpuf-functions.php:1474
+msgid "Turkish Lira"
+msgstr "Turkish Lira"
+
+#: wpuf-functions.php:1475
+msgid "US Dollar"
+msgstr "米ドル"
+
+#: wpuf-functions.php:1476
+msgid "Vietnamese Dong"
+msgstr "Vietnamese Dong"
+
+#: wpuf-functions.php:1477
+msgid "Egyptian Pound"
+msgstr "Egyptian Pound"
+
+#: wpuf.php:106
+msgid "Your Post Has Been Expired"
+msgstr "期限切れです"
+
+#: wpuf.php:280
+msgid "is required"
+msgstr "は必須入力です"
+
+#: wpuf.php:281
+msgid "does not match"
+msgstr "一致しません"
+
+#: wpuf.php:282
+msgid "is not valid"
+msgstr "無効です"
+
+#: wpuf.php:344
+msgid "Please fix the errors to proceed"
+msgstr ""
+"入力に誤りがあるため投稿できません。修正して「公開する」ボタンを再度クリック"
+"してください。"
+
+#: wpuf.php:346
+msgid "Word limit reached"
+msgstr "文字数オーバーです"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/wp-user-frontend/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create, edit, delete, manages your post, pages or custom post types from "
+"frontend. Create registration forms, frontend profile and more..."
+msgstr ""
+"Create, edit, delete, manages your post, pages or custom post types from "
+"frontend. Create registration forms, frontend profile and more..."
+
+#. Author of the plugin/theme
+msgid "Tareq Hasan"
+msgstr "Tareq Hasan"
+
+#. Author URI of the plugin/theme
+msgid "https://tareq.co"
+msgstr "https://tareq.co"
+
+#: wpuf-functions.php:1011
+msgctxt "tag delimiter"
+msgid ","
+msgstr ""
